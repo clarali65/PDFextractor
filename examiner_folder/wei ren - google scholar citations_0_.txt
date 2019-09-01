@@ -1,0 +1,146 @@
+6/11/2018
+Wei Ren - Google Scholar Citations
+https://scholar.google.com/citations?user=c4lfArMAAAAJ&hl=en
+1/3
+All
+Since 2013
+Citations
+29629
+21731
+h-index
+74
+65
+i10-index
+163
+148
+Wei Ren
+University of California, Riverside
+Multi-agent systems
+cooperative control
+distributed control
+networked control systems
+autonomous systems
+TITLE
+CITED BY
+YEAR
+Consensus seeking in multiagent systems under dynamically changing interaction topologies
+W Ren, RW Beard
+IEEE Transactions on automatic control 50 (5), 655-661
+4364
+2005
+Information consensus in multivehicle cooperative control
+W Ren, R Beard, E Atkins
+IEEE Control systems magazine 27 (2), 71-82
+2193
+2007
+Distributed consensus in multi-vehicle cooperative control
+W Ren, RW Beard
+Springer London
+1968
+2008
+A survey of consensus problems in multi-agent coordination
+W Ren, RW Beard, EM Atkins
+American Control Conference, 2005. Proceedings of the 2005, 1859-1864
+1138
+2005
+On Consensus Algorithms for Double-integrator Dynamics
+W Ren
+Automatic Control, IEEE Transactions on 53 (6), 1503-1509
+1102
+2008
+Distributed multi‐vehicle coordinated control via local information exchange
+W Ren, E Atkins
+International Journal of Robust and Nonlinear Control 17 (10‐11), 1002-1033
+1011
+2007
+An overview of recent progress in the study of distributed multi-agent coordination
+Y Cao, W Yu, W Ren, G Chen
+IEEE Transactions on Industrial Informatics 9 (1), 427-438
+959
+2012
+Distributed coordination of multi-agent networks: emergent problems, models, and issues
+W Ren, Y Cao
+Springer Science & Business Media
+680
+2010
+
+-----
+6/11/2018
+Wei Ren - Google Scholar Citations
+https://scholar.google.com/citations?user=c4lfArMAAAAJ&hl=en
+2/3
+TITLE
+CITED BY
+YEAR
+Decentralized scheme for spacecraft formation flying via the virtual structure approach
+W Ren, R Beard
+Journal of Guidance, Control, and Dynamics 27 (1), 73-82
+625
+2004
+Multi-vehicle consensus with a time-varying reference state
+W Ren
+Systems & Control Letters 56 (7-8), 474-483
+596
+2007
+Consensus strategies for cooperative control of vehicle formations
+W Ren
+IET Control Theory & Applications 1 (2), 505-512
+512
+2007
+Distributed finite-time attitude containment control for multiple rigid bodies
+Z Meng, W Ren, Z You
+Automatica 46 (12), 2092-2099
+455
+2010
+Distributed coordination architecture for multi-robot formation control
+W Ren, N Sorensen
+Robotics and Autonomous Systems 56 (4), 324-333
+382
+2008
+Coordination variables and consensus building in multiple vehicle systems
+W Ren, RW Beard, TW McLain
+Cooperative control, 171-188
+381
+2005
+Distributed coordinated tracking with reduced interaction via a variable structure approach
+Y Cao, W Ren
+IEEE Transactions on Automatic Control 57 (1), 33-48
+369
+2012
+High-order and model reference consensus algorithms in cooperative control of multivehicle systems
+W Ren, KL Moore, YQ Chen
+Journal of Dynamic Systems, Measurement, and Control 129 (5), 678-688
+348
+2007
+Distributed leaderless consensus algorithms for networked Euler–Lagrange systems
+W Ren
+International Journal of Control 82 (11), 2137-2149
+328
+2009
+Consensus of multi-agent systems with general linear and Lipschitz nonlinear dynamics using distributed
+adaptive protocols
+Z Li, W Ren, X Liu, M Fu
+IEEE Transactions on Automatic Control 58 (7), 1786-1791
+322
+2013
+
+-----
+6/11/2018
+Wei Ren - Google Scholar Citations
+https://scholar.google.com/citations?user=c4lfArMAAAAJ&hl=en
+3/3
+TITLE
+CITED BY
+YEAR
+Distributed containment control for Lagrangian networks with parametric uncertainties under a directed graph
+J Mei, W Ren, G Ma
+Automatica 48 (4), 653-659
+303
+2012
+Second-order consensus in multi-agent dynamical systems with sampled position data
+W Yu, WX Zheng, G Chen, W Ren, J Cao
+Automatica 47 (7), 1496-1503
+297
+2011
+
+-----

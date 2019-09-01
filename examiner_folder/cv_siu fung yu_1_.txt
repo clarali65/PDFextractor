@@ -1,0 +1,824 @@
+CURRICULUM VITAE OF SIU FUNG YU 
+ 
+Department of Applied Physics, The Hong Kong Polytechnic University, Hung Hom, Kowloon, Hong 
+Kong 
+Tel: +855-2766-5647; Email: sfyu21@hotmail.com 
+ 
+Education 
+obtained:  July 1994 
+Ph.D., 
+Department 
+of 
+Engineering, 
+Cambridge 
+University, 
+UK. 
+(http://www.eng.cam.ac.uk/) 
+obtained: Aug 1990 
+B.Eng. (Electronics with Optoelectronics), 1st Class honors, Department of 
+Electronic & Electrical Engineering, University College London, UK 
+(http://www.ee.ucl.ac.uk/). 
+  
+Scholarships, Prizes and Awards 
+June 20
+06 
+Nanyang Award for Research and Innovation (Nanyang Technological 
+University, Singapore) 
+(http://www.ntu.edu.sg/Nanyang-Awards/Recipients/Pages/NanyangAwards2006
+Winners.aspx) 
+        the highest recognition to individuals and teams who have made outstanding 
+contributions in scientific knowledge through research breakthroughs, and 
+significant technological innovations on the world stage. 
+        jointly received for their contribution to the realization of ZnO based UV 
+laser diodes. 
+Oct 
+1990 – 
+Oct 93 
+Overseas Research Student Award, U.K. government. 
+        to attract high-quality international students to the U.K. to undertake research 
+(http://www.orsas.ac.uk/) 
+Oct 
+1991 – 
+Oct 93 
+Hong Kong Croucher Foundation Scholarship (http://www.croucher.org.hk/). 
+Oct 
+1990 – 
+Oct 91 
+Cambridge Commonwealth Trust Bursary, Cambridge University 
+Oct 
+1990 
+Departmental Prize (1st of the class): Awarded by Department of Electronics 
+and Electrical Engineering, University College London, U.K. in the final year 
+Degree Examination. 
+Oct 
+1984 
+Third Prize in category of Metal Design, Hong Kong Young Designer of the 
+Year Award Competition, 1984. 
+  
+Professional Qualification and Affiliation 
+1991 – 93 
+Fellow and Honorary Scholar of Cambridge Commonwealth Trust 
+2003 – Now 
+Senior Member of IEEE 
+  
+
+-----
+Employment History 
+Nov 13 – Oct 16 
+Associate Head, Department of Applied Physics, HKPU, HK. 
+Oct 10 – now 
+Professor, Department of Applied Physics, Hong Kong Polytechnic University 
+(HKPU), HK. (http://www.polyu.edu.hk/ap) 
+Mar 08 – Sept 10 
+Tenured Associate Professor, School of EEE, Division of Microelectronics, 
+NTU. Awarded tenure to 65 years of age 
+Jan 2004 – Sept 10 
+Associate Professor, School of EEE, Division of Microelectronics, NTU. 
+Responsible for teaching undergraduate and postgraduate students, conduct 
+research and services to the industrial communities. 
+Jul 2001 –  Dec 
+2003 
+Assistant Professor, School of EEE, Division of Microelectronics, Nanyang 
+Technological University (NTU). (http://www.ntu.edu.sg/eee/eee6) Responsible 
+for teaching undergraduate and postgraduate students, conduct research and 
+services to the industrial communities. 
+Oct 2000 – June 
+2001 
+Member 
+of 
+Technical 
+Staff, 
+Optoelectronics 
+Center, 
+Lucent 
+Technologies Inc, Breinigsville, PA USA. Responsible for the research and 
+development of high-power (>1 Watt CW) 980 nmAlGaAs/GaAs quantum wells 
+semiconductor lasers. 
+Sept 1994 – Oct 
+2000 
+Assistant Professor, Dept of Electrical & Electronics Engineering (EEE), The 
+University of Hong Kong, Hong Kong. (http://www.eee.hku.hk/) Responsible for 
+teaching undergraduate and postgraduate students, conduct research & services 
+to industries. 
+Dec 1993 – Jul 
+1994 
+Part-time Lecturer, Dept of Electronic Engineering, Sha Tin Technical 
+Institute, Hong Kong. Responsible for conducting lectures for the diploma and 
+certification courses. 
+Oct 1990 – May 
+1993 
+Teaching Assistant, Engineering Dept, University of Cambridge, UK. 
+Responsible for teaching undergraduate tutorials and lab experiments. 
+  
+Research Interests 
+  
+Computer Modeling: 
+Modeling and simulation of nanophotonic and optoelectronic devices. 
+Material growth : 
+Fabrication of metal-oxide, nitride and carbon based nanostructured materials. 
+Devices fabrication : 
+Design and realization of optoelectronic devices such as semiconductor lasers, 
+modulators and waveguides using novel nano-materials. 
+  
+Research Highlight 
+  
+
+-----
+Previous studies in computer simulation of semiconductor lasers (1994 – 2003): 
+         Developed 
+computer 
+simulators 
+for 
+optoelectronic 
+devices 
+including 
+long-wavelength distributed feedback and vertical-cavity surface-emitting lasers, 
+modulators etc for telecommunication applications. 
+         His work (i.e., IEEE JQE, 30, pp.1389-1395, 1994) had been adopted to develop 
+laser simulator namely ‘LASER PLUS’ in Lucent Technologies Inc. USA to study 
+the transient response of distributed feedback lasers. 
+         He also contributed to the understanding on the modulation response of 
+vertical-cavity surface-emitting lasers (VCSELs). His understanding and knowledge 
+in VCSELs had been summarized in form of a text book. 
+Previous studies in ultraviolet light-emitting devices and lasers using metal-oxide based 
+nanomaterials (2001 – 2010): 
+         Demonstrate the realization of high-efficiency light-emitting devices using 
+nanostructured ZnO, ZnMgO, SnO2, InSnO2, AlN etc as the active media. 
+         Fabrication of room-temperature ultraviolet lasers by using ZnO based materials. 
+The problems of inefficiency confinement of light and carriers had been solved for 
+the realization of world-first ZnO based random laser diodes. 
+         His work in ZnO lasers has been highlighted in the 'Newsbreaks' of the February 
+2004 issue (Vol. 40, No. 2) of Laser Focus World. 
+         Again, his ZnO lasers work was reviewed by Laser Focus World on December 2008 
+issue in the article ‘PHOTONIC FRONTIERS: SEMICONDUCTOR UV LASERS: 
+Materials are a tough challenge for ultraviolet diode lasers’. 
+         Nanyang Technological University recognized his contribution on the realization 
+of ZnO based laser diodes and awarded him and his collaborator a Nanyang Award 
+for Research & Innovation in 2006. 
+Research activities in photonic devices (2010 – now): 
+         His current research activities involved the design, analysis and realization of 
+lasers, plasmonic waveguides, solar cells, etc using metal-oxide and carbon based 
+nanowires and nano-dots materials. 
+         He has developed computer simulators to study the optical properties 
+of plasmonic waveguides and lasers. 
+         He has contributed to the design and fabrication of narrow-beam high-power THz 
+quantum cascade lasers (QCLs). As none of the currently available THz QCLs can 
+achieve such a high quality beam control, our work published in 2013 APL was 
+highlighted in the “research highlights” of the April 2013 issue of Nature Photonics. 
+         He 
+has 
+demonstrated 
+for 
+the 
+first 
+time 
+the 
+lasing 
+emission 
+from 
+carbon-nanodots dispersed in solvents. 
+         He has realized ~300 nm emission from SnO2 nanodots which can be used to 
+fabricate deep UV-photonics. 
+         First demonstration of deep UV (~310 nm) upconversion nanoparticles laser under 
+980 nm excitation. 
+
+-----
+Recent development of large equipment and facility for the Department and University (2011 – now): 
+   Femtosecond pump-probe spectroscopy for time-resolved probe of structural 
+dynamics of organic and inorganic materials. 
+       Integration of the near-field scanning optical microscope with the femtosecond 
+pump-probe spectroscopy for the optical studies (Raman/ photoluminescence) of 
+nanostructure materials. 
+       Realization of sub-micron fluorescence imaging with wavelength from deep UV 
+(200 nm) to visible and to infrared (2.5 mm) regimes. 
+       Involved in the establishment of the first university cleanroom including class 100, 
+1000 and 10,000 regions with total area of ~500 m2 for the nanomaterials fabrication 
+and characterization. 
+  
+5 Recent Publications 
+1.        X. Chen, L.M. Jin, W. Kong, T.Y. Sun, W.F. Zhang, X.H. Liu, J. Fan, S.F. Yu, F. Wang, 
+Confining energy migration in upconversion nanoparticles towards deep ultraviolet 
+lasing, Nat. Commun. 7:10304 doi: 10.1038/ncomms10304 (2016). 
+2.        H. Zhu, X. Chen, L.M. Jin, Q.J. Wang, F. Wang, and S.F. Yu,’ Amplified Spontaneous 
+Emission and Lasing from Lanthanide-Doped Up-Conversion Nanocrystals’, ACS Nano, 
+2013 (DOI: 10.1021/nn405387t). 
+3.         H.L. Wen, H. Zhu, X. Chen, T.F. Hung, B.L. Wang, G.Y. Zhu, S.F. Yu, F. 
+Wang,’ Upconverting Near-Infrared 
+Light 
+through 
+Energy 
+Management 
+in 
+Core−Shell−Shell 
+Nanoparticles’, Angew. 
+Chem., 
+Int. 
+Ed., 
+2013 
+(DOI: 
+10.1002/anie.201306811). 
+4.         H.Y. Yang, Z.J. Han, S.F. Yu, K.L. Pey, K. Ostrikov, R. Karnik,’ Carbon nanotube 
+membranes with ultrahigh specific adsorption capacity for water desalination and 
+purification’, Nat. Commun. 4:2220 doi:10.1038/ncomms3220 , 2013. 
+5.         W.F. Zhang, H. Zhu, S.F. Yu, H.Y. Yang,’ Observation of lasing emission from 
+carbon nano-dots in organic solvents’, Adv. Mater., 24, 2263-2267, 2012. 
+  
+  
+  
+Supervision of M. Phil. students 
+  
+Hong Kong University, Department of Electrical & Electronics Engineering 
+  
+W.M. Man (1998 
+– 00) 
+Thesis: Modeling of VCSELs. He is now an electronic engineer, HK. 
+C.W. Lo (1997 – 
+99) 
+Thesis: Interdiffusion QW semiconductor lasers. He is now a system 
+engineer, HK Telecom. 
+  
+Supervision of Ph.D. students 
+  
+
+-----
+Hong Kong Polytechnic University, Department of Applied Physics 
+ 
+Yang De Cheng 
+(2015 – now) 
+He is our 1st year PhD student. 
+Chun Kit SIU 
+ (2014 – now) 
+He is now a 2nd year PhD student. 
+Lin Min JIN 
+(2012 – now) 
+She has submitted her thesis in Nov 2015 and waiting for oral examination. 
+Wenfei ZHANG 
+(2010 – 2014) 
+Thesis title: Carbon nanodots lasers. He obtained his Ph.D. degree in 2014 and 
+now working as a research associate in HKPU. 
+  
+Nanyang Technological University, School of Electrical & Electronics Engineering 
+Liang Hou Kun 
+(2007 –  2011) 
+Thesis title : Design and fabrication of Ultraviolet metal-oxide light-emitting 
+devices 
+Achieve : Design & fabricate single-mode high-power ZnO random laser 
+diodes 
+He is now working in a research institute in Singapore. 
+  
+Tsang Hon Siu 
+(2006 –  2010) 
+Thesis title : Design and Fabrication of Ultraviolet Optoelectronic Devices 
+with Multilayer Structure 
+He is now a research assistant in NTU, School of EEE. 
+  
+Ashwani Kumar 
+(2004 – 2009) 
+Thesis title : Design, analysis and realization of active Plasmonic devices. 
+Achieve: demonstration of plasmonic waveguide lasers 
+He is now a research fellow in University of Southern Denmark. 
+  
+Mote Rakesh Ganpat 
+(2004 – 2009) 
+Thesis title : Study of sub-wavelength structures for optical beam focusing 
+and laser cavity 
+Achieve : design and fabrication of subwavelength lens. 
+He is now the research fellow in ASTAR institute, Singapore. 
+  
+Agus Putu Abiyasa 
+(2004 – 2008) 
+Thesis title: Investigation of excitonic recombination and its influence on 
+random lasing phenomenon in ZnO semiconductors. 
+Achieve: Development of optical gain model for ZnO random lasers. 
+He is now a research scientist in Bosch – photovoltaic research centre, 
+Singapore. 
+  
+Nanshu Chen 
+(2003 – 2008) 
+Thesis title : Design and Analysis of Antiresonant Reflecting Optical 
+Waveguide Vertical Cavity Surface Emitting Lasers and Amplifiers. 
+Achieve: Development of laser models for the study of ARROW type 
+VCSELs and VCSOAs. He is now a senior engineer in Charter 
+Semiconductor, Singapore. 
+  
+Eunice S.P. Leong 
+Thesis title : Nanocrystals Semiconductor Lasers. 
+
+-----
+  
+  
+Supervision of Research Fellows 
+  
+Hong Kong Polytechnic University, Department of Applied Physics 
+  
+X.H.  XU (2015 – 
+17) 
+Research topic: Li3+ doped nanocrystals, supported by Hong Kong Scholars 
+Program. 
+S.S. Pan (02 – 14) 
+Research 
+topic: 
+SnO2 nanoparticles 
+LED, 
+supported 
+by Hong 
+Kong Scholars Program. 
+H. Zhu (01 – 13) 
+Research topic: ZnO random laser diodes, supported by University Central 
+Research Grant. 
+  
+Nanyang Technological University, School of Electrical & Electronics Engineering 
+  
+H.Y. Yang (08 – 
+10) 
+Research topic: Spintronics and growth of novel material, supported by 
+Lee Kuan Yew Postdoctoral Fellowship. Now: Assistant Professor, Singapore 
+University of Technology and Design, Singapore. 
+W.L. Zhang (08 – 
+10) 
+Research topic: Surface emitting lasers supported by university manpower (RGM) 
+grant. Now: Associate Professor, University of Electronics Science and 
+Technology of China, China. 
+X.J. Xu (2007 – 
+08) 
+Research topic: plasmonic polariton lasers supported by Ministry of Education tier 
+2 grant. Now: Research fellow in Japan. 
+X.F. Li (2007 – 
+10) 
+Research topic: vertical-cavity surface-emitting quantum cascade lasers supported 
+by US DARPA grant. Now: Professor in Institute of Modern Optical 
+Technologies, Soochow University, China. 
+H.D. Li (2004 – 
+06) 
+Research topic: ZnO semiconductor lasers supported by ASTAR grant. Now: 
+Professor in Jilin University, China. 
+F. Gao (2002 – 04) 
+Research topic: InP photon detectors supported by DSO grant, Singapore. Now: 
+Research scientist in photovoltaics center of University of New South Wales. 
+P. Thilakan (2001 
+– 02) 
+Research topic: InP photon detectors supported by DSO grant. Now: Professor 
+in ValliammaiEngineering College, India. 
+(2003 – 2007) 
+Achieve: 
+Realization 
+of 
+the 
+‘World’s 
+First’ 
+electrical 
+pumped ZnO semiconductor lasers. She is now a project manager of IME, 
+Singapore. 
+  
+Clement Yuen 
+(2003 – 2007) 
+Thesis title: Zinc Oxide Ultraviolet Light-emitting Devices: Design and 
+Fabrication. 
+Achieve: Demonstrated ZnO Light emitting diodes. 
+He is now a Lee Kuan Yew fellow in NTU, Singapore. 
+
+-----
+Funded Research Projects 
+  
+Hong Kong Polytechnic University, Department of Applied Physics 
+1.       S.F. Yu, Principal Investigator (2015 – 2017), University Grant Council–Research Grants 
+Council, 
+Five-photon 
+up-conversion 
+lasing 
+from 
+lanthanide-doped 
+nanocrystals microcavities’, (grant number: PolyU 153036/14P for HK$ 560,650) 
+– On-going. 
+2.       S.F. Yu, Principal Investigator (2014 – 2017), National Natural Science Foundation of 
+China, entitled “ Study of high luminescent graphene quantum dots for the realization of 
+white-light emitting devices’, (grant number: 61378071 for RMB 800,000) – On-going. 
+3.       S.F. Yu, Principal Investigator (2013 – 2015), of a Hong Kong Polytechnic University 
+Central Research Grant, entitled “Carbon Nanodot White-light Emitting Devices”, (grant 
+number: G-YN01 for HK$105,000) – On-going. 
+4.       S.F. Yu, Principal Investigator (2012 – 2014), of a Hong Kong Polytechnic University 
+Central Research Grant, entitled “Electronically Pumped Low-coherence Semiconductor 
+Random Lasers”, (grant number: G-YJ73 for HK$105,000) – On-going. 
+5.       S.F. Yu, Principal Investigator (2011 – 2013), of a Hong Kong Scholars 
+Program, Mainland – HK Joint Postdoctoral Fellows Program, entitled “Design and 
+Fabrication of Hybrid tin oxide Nanowires-based Light-emitting Diodes”, (grant number: 
+G-YZ01 for HK$315,000) – Completed. 
+6.       S.F. Yu, Principal Investigator (2011 – 2013), of a Hong Kong Polytechnic University 
+Central Research Grant, entitled “Design and Realization of High-power Zinc-oxide 
+Random Laser Diodes”, (grant number: G-YX4P for HK$624,000) – Completed. 
+7.       S.F. Yu, Principal Investigator (2010 – 2012), of a Hong Kong Polytechnic University 
+block Grant, entitled “ Design and Fabrication of Hybrid SnO2 Nanowires-based 
+Light-emitting Diodes”, (grant number : 1-ZV6X for HK$ 500,000) – Completed. 
+  
+Nanyang Technological University, School of Electrical & Electronics Engineering 
+8.       S.F. 
+Yu 
+(PI), 
+H.Y. 
+Yang 
+(Co-PI), 
+France: 
+Christophe Couteau (PI), 
+Gilles Lé
+rondel (Co-PI), Renaud Bachelot (Co-PI), Roy Aad (Co-PI), (2010 – 2012)’ 
+Lasing 
+in QUAsi-random 
+Zinc 
+oxide 
+nanostructures 
+array 
+for sensING’, Merlion2009 programme, 
+(Dossier 
+No.: 
+2.04.09 
+for 
+S$30,0002) 
+– Completed. 
+9.       S.F. Yu, Co-Principal Investigator with Principal Investigator H.Y. Yang (2009 – 2011), 
+NTU URC-SUG startup grant, entitled “Spin-polarized light-emitting devices created 
+from Nanostructure’, (grant number : LKYPDF 2/08 for S$200,000) – Completed. 
+10.    S.F. Yu, Principal Investigator (2008 – 2011) with co-principal investigator S.P. Lau and 
+collaborator H.C. Liu of a Research Grant from Science and Engineering Research 
+Council, entitled “Design & realization of surface emitting quantum cascade lasers with 
+beam focusing structure”, (grant number : 082-101-0016 for S$517,890) – Completed. 
+11.    S.F. Yu, Principal Investigator (2007 – 2010) University Grant (Research Grant 
+Manpower) co-funding, Nanyang Technological University, entitled “Design and analysis 
+
+-----
+of microcavity semiconductor lasers’, (Grant Number: RG40/06 for S$ 120,000). 
+– Completed. 
+12.    S.F. Yu, Principal Investigator with co-principal investigators W.J. Fan, X.H. Tang and 
+M.K. Chin (2006 – 2008) The Defense Advanced Research Projects Agency (DARPA) 
+grant from Department of The NAVY, USA,entitled,”High-power long-wavelength 
+Quantum Cascade Vertical-Cavity Surface-Emitting Lasers’, (Grant Number : 
+HR0011-07-2-0002 for US$200,000) – Completed. 
+13.    S.F. Yu, Principal Investigator with Co- principal investigators Lau Shu Ping and Zhou 
+Wei (2006 – 2009) ARC grant from Ministry of Education, Singapore, entitled, 
+“Microcavity Polariton lasers”, (Grant Number : ARC 2/06 for S$660,570) – Completed. 
+14.    S.F. Yu, Principal Investigator (2004 – 2008) University Grant (Research Grant 
+Manpower), 
+Nanyang 
+Technological 
+University, 
+entitled 
+“Fabrication 
+and 
+Characterization of Carbon Nanocomposite Based Field Emission X-Ray Devices.”, 
+(grant number : RGM 17/04 for S$280,000) – Completed. 
+15.    S.F. Yu, Principal Investigator (2007-2008) University Supplementary Equipment 
+Purchase Project, entitled ‘Room temperature fabrication of ultraviolet light emitting 
+diodes’, (Grant Number : RG89/06 for S$ 78,458.50). –Completed. 
+16.    S.F. Yu, Principal Investigator (2006 – 2007) of a University AcRF Grant, Nanyang 
+Technological University, entitled “Ultraviolet ZnO laser diodes on Si substrate”, (Grant 
+Number : RG15/06 for S$ 55,580) – Completed. 
+17.    S.F. Yu, Principal Investigator (2005 – 2006) Nano seed fund, Nanocluster NTU, 
+entitled,’ Electrical pumped ZnO nanocavity lasers’, for S$20,000 – Completed. 
+18.    S.F. Yu, Co-Principal Investigator with Principal Investigator T. Mei and Co-Principal 
+Investigators M.K. Chin and X.H. Tang (2005–2007) ARC grant from Ministry of 
+Education, Singapore, entitled “Bandgap technology and process development for 
+generic InP monolithic integration’, (Grant Number : 042-101-0087 for S$627,744) 
+– Completed. 
+19.    S.F. Yu, Co-Principal Investigator with Principal Investigator T.P. Chen and Co-Principal 
+Investigators O.K. Tan, M.S. Tse and K. Pita (2004–2006) ARC grant from Ministry of 
+Education, Singapore, entitled “Investigation of light emission mechanism in 
+Si-nanocrystals embedded in SiO2 matrix’, (Grant Number : ARC 1/04 for S$807,500) 
+– Completed. 
+20.    S.F. Yu, Principal Investigator with co-principle investigator Masaki Tanemura (2004 – 
+2005) Nippon Sheet Glass Foundation for Materials Science and Engineering, Japan, 
+entitled “Design and fabrication of Zinc Oxide Thin Film Ultraviolet Lasers on Silicon 
+substrate’, (grant number : M48040000 for US$10,000) – Completed. 
+21.    S.F. Yu, Principal Investigator (2003 – 2006) University Grant (Research Grant 
+Manpower) co-funding, Nanyang Technological University, entitled “Nanostructured 
+Zinc oxide films for UV photonic devices”, (grant number : RGM 18/02 for S$126,820) 
+– Completed. 
+22.    S.F. Yu, Principal Investigator with co-principle investigators S.P. Lau, C.K. Chen and 
+H.H. Hg (2002 –2005) of a Research Grant from Science and Engineering Research 
+
+-----
+Council, entitled “Quantum Confined Zinc Oxide Thin Film for UV lasers applications”, 
+(grant number : 022-101-0033 for S$344,040) – Completed. 
+23.    S.F. Yu, Principal Investigator (2002 –2004) of a University Startup Grant, Nanyang 
+Technological University, entitled “Real time fabrication system for the design and 
+fabrication of semiconductor lasers”, (grant number : SUG 9/02 for S$87,300) 
+– Completed. 
+24.    S.F. Yu, co-principal investigator (2000–2003) with principal investigator S.C. Tjin and 
+co-principal 
+investigator 
+T. 
+Mei 
+and 
+K. Radhakrishnan 
+of 
+a DSO 
+National 
+Laboratories  funding (DSO), entitled ”Development of Photonic True-Time-Delay Units 
+for Phased-Array Antennas”. (grant number DSO/C/00/23/L for S$1.5 millions) 
+– Completed. 
+  
+The University of Hong Kong, Department of Electrical & Electronics Engineering 
+25.    S.F. Yu, co-principal investigator (2000–2001) with principal investigators W.K. Chan 
+and co-principal investigator E.H. Li of a University Grant Council–Research Grants 
+Council, entitled “Electronic and optical properties of polymers based on transition metal 
+complexes”. (grant number HKU7096/00P for HK$350,000)– Completed. 
+26.    S.F. Yu, principal investigator (2000–2001) of a University Grant Council–Research 
+Grants Council, entitled “Analysis and design of vertical cavity surface emitting lasers for 
+self-sustained 
+pulsation”. 
+(grant 
+numberHKU705625/00E 
+10203146 
+for 
+HK$437,817)– Completed. 
+27.    S.F. Yu, co-principal investigator (1999–2000) with Principal Investigators E.H. Li and 
+co-principal investigator W.K. Chan of a University Research Grant of the University 
+Research Committee, The University of Hong Kong, entitled “Light emission from 
+photonic crystals with organic materials”. (grant for HK$72,000)– Completed. 
+28.    S.F. Yu, Principal Investigator (1999–2000) of a University Research Grant of the 
+University Research Committee, The University of Hong Kong, entitled “Integration of 
+electrical 
+pumped 
+organic 
+laser 
+and 
+modulator”. 
+(grant 
+number 10202745/23505/14300/301/01 for HK$72,000)– Completed. 
+29.    S.F. Yu, Principal Investigator (1999–2000) of a University Grant Council–Research 
+Grants Council, entitled “Simulator Model of Semiconductor Lasers using Diffused 
+Quantum 
+Well 
+Structure”. 
+(grant 
+number HKU7125/99E 
+10202854 
+for 
+HK$450,000)– Completed. 
+30.    S.F. Yu, Principal Investigator (1998–1999) of a University Grant Council–Research 
+Grants Council, entitled “Computer Simulator of Vertical Cavity Surface Emitting 
+Lasers”. (grant number HKU7059/98E 10202317 for HK$430,000) – Completed. 
+31.    S.F. Yu, co-principal investigator (1998–1999) with principal investigator Mr. P.C. Chui 
+& co-principal investigator Prof. C.C. Chan of a University of Hong Kong Committee on 
+Research and Conference Grant, entitled “Object Oriented Programming for CAD Tools 
+for the Design of Optoelectronic Devices and Systems”. (for HK$65,000) – Completed. 
+32.    S.F. Yu, Principal Investigator (1998–1999) of a University of Hong Kong Committee on 
+Research and Conference Grant, entitled “High Speed Vertical Cavity Surface Emitting 
+
+-----
+Lasers 
+with 
+Diffused 
+Quantum 
+Wells 
+Structure”. (grant 
+number 
+10201986/23505/14300/301/01 for HK$120,000) – Completed. 
+33.    S.F. Yu, Principal Investigator (1997–1998) of a University of Hong Kong Committee on 
+Research 
+and 
+Conference 
+Grant, 
+entitled 
+“Integrated 
+Semiconductor 
+Laser 
+Simulators”. (grant number 337/062/0045 for HK$130,000) –Completed. 
+34.    S.F. Yu, co-principal investigator (1997–1998) with principal investigators Dr. E.H. Li 
+and co-principal investigator Dr. C. Jagadish (Department of Electronic Materials 
+Engineering, Australian National University) of a University Grant Council–Research 
+Grants Council, entitled “Photonics integration & device performance enhancement 
+using interdiffusion quantum wells”. (grant number HKU 7045/97E for HK$523,600) 
+– Completed. 
+35.    S.F. Yu, co-principal investigator (1996–1997) with principal investigator Dr. T.I. Yuk of 
+a University of Hong Kong Committee on Research and Conference Grant, entitled 
+“Fiber Soliton Lasers”. (grant number 335/062/0062 for HK$75,000) – Completed. 
+36.    S.F. Yu, Principal Investigator (1996–1997) of a University of Hong Kong Committee on 
+Research and Conference Grant, entitled “Modeling of Vertical Cavity Surface Emitting 
+Lasers”. (grant number 337/062/0035 for HK$120,000) – Completed. 
+37.    S.F. Yu, co-principal investigator (1995–1997) with principal investigators Dr. E.H. Li 
+and co-principal investigator Professor B.L. Weiss of a University Grant 
+Council–Research Grants Council, entitled “High Performance Acousto-optics Devices in 
+III–V 
+Semiconductor 
+QW 
+Structures 
+for 
+Signal 
+Processing 
+Application 
+in 
+Communication”. (grant number HKU 300/95E for HK$496,000) – Completed. 
+38.    S.F. Yu, Principal Investigator (1994–1996) with co-principal investigator Dr. E.H. Li of 
+a University of Hong Kong Committee on Research and Conference Grant, entitled “High 
+Power Semiconductor Lasers”. (grant number 337/062/0023 for HK$117,500) 
+– Completed. 
+  
+Invited Speaker in International Conferences 
+1.       S.F. 
+Yu, 
+‘Carbon 
+and 
+graphene nanodots lasers’, 
+5th IEEE 
+International Nanoelectronics Conference (INEC 2013) to be held in Singapore from 2 to 
+4 January 2013 at Resorts World Sentosa. 
+2.       S.F. Yu,’ Randomly assembled nanowires for light-emitting diodes and lasers 
+applications’, 2012 MRS fall meeting, 26 to 30 November 2012 Boston USA. 
+3.       S.F. Yu,’ ZnO thin film laser fabricated by filtered cathodic vacuum arc technique’, 
+International Conference on Electroceramics (ICE2011), 12-16 Dec 2011, Sydney, 
+Australia. 
+4.       S.F. Yu, ’Randomly Distributed Nanostructured Semiconductor Lasers’, (session G3-1), 
+International conference on Materials for Advanced Technologies, 26 Jun to 1 July 
+2011, Suntec, Singapore. 
+5.       S.F. Yu,’ Realization of high performance random laser diodes’, (session W3), APS 
+American Physical Society March Meeting, 21-25 March 2011 in Dallas, Texas, USA. 
+
+-----
+6.       S.F. Yu, ‘ZnO thin film random laser diodes fabricated by filtered cathodic vacuum arc 
+technique’, invited talk at 2010 Taiwan Association for Coatings and Thin Films 
+Technology Conference, 10 -11 Dec, 2010, Ming Dao University, Taiwan. 
+7.       S.F. Yu, ‘Design and realization of high performance ZnO random laser diodes’, invited 
+talk at ZnO Workshop: Perspectives on ZnO Materials and Devices for Optoelectronics, 
+University of California, Riverside, July 7-9, 2010. 
+8.       S.F. Yu, ’Make random lasers useful for practical applications’, invited talk at The 2008 
+OSA Frontiers in Optics conference, October 19 – 23, 2008 Rochester, NY, USA. 
+9.       S.F. Yu, ’Ultraviolet ZnO laser diodes’, invited talk at 2007 MRS fall meeting, 26 to 30 
+November 2007 Boston USA. 
+10.    S.F. Yu, ’UV Random Lasers Using ZnO‘, invited talk at The 13th International 
+Symposium 
+on 
+the 
+Physics 
+of Semiconducotors and 
+Applications, "Nanoscale 
+Semiconductor 
+Physics 
+and 
+Device 
+Applications”, August 
+22 
+– 
+25, 
+2006, 
+Ramada Plaze Jeju Hotel, Jeju, Korea. 
+11.    S.F. Yu, Eunice S.P. Leong, S.P. Lau and Clement Yuen,’ Formation of Random Laser 
+Action in ZnO Thin Films’, invited talk at the 5th International Conference on Thin Film 
+Physics and Application (TFPA2004) May 31-June 2 (2004) Shanghai, China. 
+12.    S.F. Yu,’Modal characteristics of Anti-reflection Reflecting Optical Waveguide Vertical 
+Cavity Surface Emitting Lasers’, invited talk at the IEEE/LEOS International Conference 
+on 
+"Numerical 
+Simulation 
+of 
+Semiconductor 
+Optoelectronic 
+Devices 
+(NUSOD)", Komaba Campus, the University of Tokyo, Tokyo, Japan, October 13-16, 
+2003. 
+13.    S.F. Yu, ‘Analysis of the dynamic behavior of vertical cavity surface emitting lasers by 
+using time domain transfer matrix method’, (Invited) The 5th IUMRS International 
+Conference on Advanced Materials, Beijing, China, (13-18) June, 1999. 
+14.    S.F. Yu, ‘Dynamic modeling of vertical cavity surface emitting lasers using modified 
+time domain traveling-wave algorithm’, (Invited) PHOTONICS-98, International 
+Conference on Fiber Optics and Photonics, Indian Institute of Technology Delhi, New 
+Delhi, India, December 14-18, 1998. 
+15.    S.F. Yu,’ Analysis and design of high-power single-mode double tapered waveguide 
+DFB lasers’, (invited) Progress in Electromagnetics Research Symposium (PIERS’97), 
+January 6-9, 1997, City University of Hong Kong. 
+  
+Organization of Conferences 
+  
+2016 
+Secretary, 2016 IEEE International Conference on Electron Devices and 
+Solid-State Circuits (EDSSC'16), HKU, Hong Kong, August 3-5, 2016. 
+2014 
+Program committee, 14th IEEE/LEOS Conference, Numerical Simulation 
+of Optoelectronic Devices, Balearic Islands University, Spain, 1-4 
+September 2014. 
+2013 
+Co-Chairman, Symposium E, Devices for light emission and detection 
+using nanostructured materials, International Conference on Materials for 
+
+-----
+Advanced Technologies (ICMAT 2013), Singapore. 
+2012 
+Chair, Local Committee,’ International Symposium on Integrated 
+Functionalities’, June 18-21, 2012, Hong Kong, China (ISIF 2012). 
+2012 
+Program committee, 12th IEEE/LEOS Conference, Numerical Simulation 
+of Optoelectronic Devices, Chinese Academy of Science in Shanghai, 
+China, Aug., 28 – 31, 2012. 
+2011 
+Program committee, 11th IEEE/LEOS Conference, Numerical Simulation 
+of Optoelectronic Devices, Pontifical University of Saint Thomas 
+Aquinas, Rome, Italy, Sept., 5 – 8, 2011. 
+2010 
+Program committee, 10th IEEE/LEOS Conference, Numerical Simulation 
+of Optoelectronic Devices, Georgia Tech in Atlanta, Sept. 6 – 9, 2010, 
+USA. 
+2009 
+Program committee, 9th IEEE/LEOS Conference, Numerical Simulation of 
+Optoelectronic Devices, Gwangju Institute of Science and Technology, 
+Korea, 14 – 18 September, 2009. 
+2008 
+Program 
+committee, IEEE PhotonicsGlobal@Singapore 2008, 
+8–11 
+December 2008, SMU conference centre, Singapore. 
+2008 
+Committee member, 8th IEEE/LEOS Conference, Numerical Simulation of 
+Optoelectronic Devices, University of Nottingham, United Kingdom, 1 - 5 
+September 2008. 
+2008 
+Session Chair, IEEE International Nanoelectronics Conference 2008, 24-27 
+March 2008, Shanghai, China. 
+2007 
+Committee member, 7th IEEE/LEOS Conference, Numerical Simulation of 
+Optoelectronic Devices, University of Delaware, USA, 24 – 27 September 
+2007. 
+2006 
+Session 
+Chair: 
+IEEE 
+Conference 
+on 
+Emerging 
+Technology 
+– Nanoelectronics 2006, 10 – 13 January, Singapore. 
+2006 
+Conference chairman, 6th IEEE/LEOS Conference, Numerical Simulation 
+of Optoelectronic Devices, September 11-14, 2006, Nanyang Technology 
+University, Singapore. 
+2005 
+Co-Chairman, Symposium N: ZnO and related materials, 3rd International 
+Conference on Materials for Advanced Technologies (ICMAT 2005), 3 - 8 
+July 2005, Singapore. 
+2005 
+Committee member, 5th IEEE/LEOS Conference, Numerical Simulation of 
+Optoelectronic Devices, Berlin, Germany, 19 – 22 September 2005. 
+2004 
+Session Chair, 5th International Conference on Thin Film Physics and 
+Application (TFPA2004) May 31-June 2 (2004) Shanghai, China. 
+2004 
+Committee member, 4th IEEE/LEOS Conference, Numerical Simulation of 
+Optoelectronic Devices, August 24-26, 2004, University of California at 
+Santa Barbara, USA. 
+1998 
+Member, Publication Committee of IEEE Engineering in Medicine and 
+
+-----
+Biology Society, 1998 annual meeting, Hong Kong, October 29, 1998. 
+1998 
+Session Chair, PHOTONICS-98, International Conference on Fiber Optics 
+& Photonics, New Delhi, December 14-18, 1998. 
+1998 – 2000 
+Seminar Program Chair, Seminar and Meeting Committee, SPIE Hong 
+Kong Chapter. 
+1998 – 2000 
+Executive Committee, SPIE Hong Kong Chapter. 
+1995 
+Publication Chair, IEEE Hong Kong Electron Device Meeting, Hong 
+Kong, July 1, 1995. 
+  
+Editorial Activities 
+  
+Aug 2012-2013 
+Senior Editor, Journal of Nanoscience Letters’, Simplex Academic Publishers 
+Aug 2011 
+Member, Editorial Board of ISRN Optics, Hindawi Publishing Corporation. 
+Aug 2010-2012 
+Member of Editorial Board, Journal of Nanoscience Letters’, Simplex Academic 
+Publishers. 
+Mar 2007 
+Member of Editorial Advisory Board, journal ‘Recent Patents on Electrical 
+Engineering’, by Bentham Science Publishers Ltd. 
+Jan 2007 
+Member 
+of 
+Editorial 
+Advisory 
+Board, journal ‘Recent 
+Patents 
+on 
+Nanotechnology’, by Bentham Science Publishers Ltd. 
+Nov 2006 
+Co-Editor, Optical & Quantum Electronics, Vol. 38, No. 12/14, pp. 933-1183, 
+November 2006, Special issue on Numerical Simulation of Optoelectronic Devices 
+Jan 2006 
+Co-Editor, Journal of Crystal Growth, Volume 287, Issue 1, Pages 1-212 (18 
+January 2006), Proceedings of the International Conference on Materials for 
+Advanced Technologies (ICMAT 2005) Symposium N - ZnO and Related 
+Materials. 
+June 2003 
+Co-Guest Editor, IEEE J Selected Topics in Quantum Electronics, May/June 
+2003 issue. 
+1996 – now 
+Reviewer for Nature Photonics, Advanced Materials, IEEE Journal of Quantum 
+Electronics, IEEE Selected Topics of Quantum Electronics, J Lightwave 
+Technology, IEEE Photonic Technology Letters, IEEE Transactions on Electron 
+Devices, IEEE Electronic Device Letters, IEEE Sensor Journal, Optics 
+Communications, Applied Physics Letters, J Applied Physics, Nanotechnology, 
+Optics Express, Chaos. 
+  
+ 
+
+-----

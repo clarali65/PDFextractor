@@ -1,0 +1,3258 @@
+GET MY OWN PROFILE
+All
+Since 2013
+Citations
+10564
+6642
+h-index
+46
+40
+i10-index
+167
+129
+Prof. Youmin Zhang
+Concordia University, Montreal
+, Canada
+Fault Detection & Diagnosis (FDD)
+Fault-Tolerant Control (FTC)
+Unmanned Systems (UAV/UGV/USV)
+Air/Space-craft/Smart Grids
+TITLE
+CITED BY
+YEAR
+Bibliographical review on reconfigurable fault-tolerant control systems
+Y Zhang, J Jiang
+Annual reviews in control 32 (2), 229-252
+1619
+2008
+Multiple-model estimation with variable structure
+XR Li, Y Bar-Shalom
+IEEE Transactions on Automatic control 41 (4), 478-493
+747
+1996
+Bibliographical review on reconfigurable fault-tolerant control systems
+Y Zhang, J Jiang
+IFAC Proceedings Volumes 36 (5), 257-268
+343
+2003
+Active fault tolerant control systems: stochastic analysis and synthesis
+M Mahmoud, J Jiang, Y Zhang
+Springer Science & Business Media
+322
+2003
+Detection and diagnosis of sensor and actuator failures using IMM
+estimator
+Y Zhang, XR Li
+IEEE Transactions on aerospace and electronic systems 34 (4), 1293-1313
+320
+1998
+Integrated active fault-tolerant control using IMM approach
+Y Zhang, J Jiang
+IEEE Transactions on Aerospace and Electronic systems 37 (4), 1221-1235
+300
+2001
+Active fault-tolerant control system against partial actuator failures
+YM Zhang, J Jiang
+IEE proceedings-Control Theory and applications 149 (1), 95-104
+289
+2002
+Detection, estimation, and accommodation of loss of control effectiveness
+N Eva Wu, Y Zhang, K Zhou
+International Journal of adaptive control and signal processing 14 (7), 775-795
+245
+2000
+Fault tolerant control system design with explicit consideration of
+performance degradation
+Y Zhang, J Jiang
+IEEE Transactions on Aerospace and Electronic Systems 39 (3), 838-848
+212
+2003
+Adaptive sliding mode fault tolerant attitude tracking control for flexible
+spacecraft under actuator saturation
+B Xiao, Q Hu, Y Zhang
+IEEE Transactions on Control Systems Technology 20 (6), 1605-1612
+183
+2012
+Multiple-model estimation with variable structure. III. Model-group
+switching algorithm
+XR Li, X Zwi, Y Zwang
+IEEE Transactions on Aerospace and Electronic Systems 35 (1), 225-241
+183
+1999
+*
+
+-----
+TITLE
+CITED BY
+YEAR
+Cooperative path planning of unmanned aerial vehicles
+A Tsourdos, B White, M Shanmugavel
+John Wiley & Sons
+179
+2010
+Integrated design of reconfigurable fault-tolerant control systems
+Y Zhang, J Jiang
+Journal of Guidance, control, and Dynamics 24 (1), 133-136
+129
+2001
+Integrated design of reconfigurable fault-tolerant control systems
+Y Zhang, J Jiang
+Journal of Guidance, control, and Dynamics 24 (1), 133-136
+129
+2001
+Multiple-model estimation with variable structure. V. Likely-model set
+algorithm
+XR Li, Y Zhang
+IEEE Transactions on Aerospace and Electronic Systems 36 (2), 448-466
+126
+2000
+Fault tolerant control of a quadrotor UAV using sliding mode control
+F Sharifi, M Mirzaei, BW Gordon, Y Zhang
+Control and Fault-Tolerant Systems (SysTol), 2010 Conference on, 239-244
+119
+2010
+Accepting performance degradation in fault-tolerant control system design
+J Jiang, Y Zhang
+IEEE transactions on control systems technology 14 (2), 284-292
+115
+2006
+Development of advanced FDD and FTC techniques with application to an
+unmanned quadrotor helicopter testbed
+YM Zhang, A Chamseddine, CA Rabbath, BW Gordon, CY Su, S Rakheja, ...
+Journal of the Franklin Institute 350 (9), 2396-2422
+111
+2013
+Issues on integration of fault diagnosis and reconfigurable control in active
+fault-tolerant control systems
+Y Zhang, J Jiang
+Fault Detection, Supervision and Safety of Technical Processes 2006, 1437-1448
+110
+2007
+Stochastic stability analysis of fault-tolerant control systems in the
+presence of noise
+M Mahmoud, J Jiang, Y Zhang
+IEEE Transactions on Automatic Control 46 (11), 1810-1815
+105
+2001
+Sense and avoid technologies with applications to unmanned aircraft
+systems: Review and prospects
+X Yu, Y Zhang
+Progress in Aerospace Sciences 74, 152-166
+86
+2015
+Novel recurrently mutated genes and a prognostic mutation signature in
+colorectal cancer
+J Yu, WKK Wu, X Li, J He, XX Li, SSM Ng, C Yu, Z Gao, J Yang, M Li, ...
+Gut, gutjnl-2013-306620
+84
+2014
+Gut mucosal microbiome across stages of colorectal carcinogenesis
+G Nakatsu, X Li, H Zhou, J Sheng, SH Wong, WKK Wu, SC Ng, H Tsoi, ...
+Nature communications 6, 8727
+80
+2015
+Flatness-based trajectory planning/replanning for a quadrotor unmanned
+aerial vehicle
+A Chamseddine, Y Zhang, CA Rabbath, C Join, D Theilliol
+IEEE Transactions on Aerospace and Electronic Systems 48 (4), 2832-2848
+77
+2012
+
+-----
+TITLE
+CITED BY
+YEAR
+Reconfigurable control allocation against aircraft control effector failures
+Y Zhang, VS Suresh, B Jiang, D Theilliol
+Control Applications, 2007. CCA 2007. IEEE International Conference on, 1197 …
+77
+2007
+A survey on technologies for automatic forest fire monitoring, detection,
+and fighting using unmanned aerial vehicles and remote sensing
+techniques
+C Yuan, Y Zhang, Z Liu
+Canadian journal of forest research 45 (7), 783-792
+74
+2015
+Actuator fault tolerant control design based on a reconfigurable reference
+input
+D Theilliol, C Join, Y Zhang
+International Journal of Applied Mathematics and Computer Science 18 (4 …
+74
+2008
+Design of integrated fault detection, diagnosis and reconfigurable control
+systems
+Y Zhang, J Jiang
+Decision and Control, 1999. Proceedings of the 38th IEEE Conference on 4 …
+71
+1999
+An efficient model predictive control scheme for an unmanned quadrotor
+helicopter
+M Abdolhosseini, YM Zhang, CA Rabbath
+Journal of intelligent & robotic systems 70 (1-4), 27-38
+70
+2013
+Fault-tolerant attitude control for flexible spacecraft without angular velocity
+magnitude measurement
+B Xiao, Q Hu, Y Zhang
+Journal of Guidance, Control, and Dynamics 34 (5), 1556-1561
+66
+2011
+Experimental test of a two-stage Kalman filter for actuator fault detection
+and diagnosis of an unmanned quadrotor helicopter
+MH Amoozgar, A Chamseddine, Y Zhang
+Journal of Intelligent & Robotic Systems 70 (1-4), 107-117
+64
+2013
+A revisit to block and recursive least squares for parameter estimation
+J Jiang, Y Zhang
+Computers & Electrical Engineering 30 (5), 403-416
+64
+2004
+Fault-tolerant trajectory tracking control of a quadrotor helicopter using
+gain-scheduled PID and model reference adaptive control
+I Sadeghzadeh, A Mehta, Y Zhang, CA Rabbath
+Annual Conference of the Prognostics and Health Management Society 2
+60
+2011
+Numerically robust implementation of multiple-model algorithms
+XR Li, Y Zhang
+IEEE Transactions on Aerospace and Electronic Systems 36 (1), 266-278
+57
+2000
+Fuzzy gain-scheduled active fault-tolerant control of a wind turbine
+H Badihi, Y Zhang, H Hong
+Journal of the Franklin Institute 351 (7), 3677-3706
+53
+2014
+Sensor fault masking of a ship propulsion system
+NE Wu, S Thavamani, Y Zhang, M Blanke
+Control Engineering Practice 14 (11), 1337-1345
+52
+2006
+
+-----
+TITLE
+CITED BY
+YEAR
+Robust attitude control design for spacecraft under assigned velocity and
+control constraints
+Q Hu, B Li, Y Zhang
+ISA transactions 52 (4), 480-493
+51
+2013
+Sliding mode fault tolerant control dealing with modeling uncertainties and
+actuator faults
+T Wang, W Xie, Y Zhang
+ISA transactions 51 (3), 386-392
+51
+2012
+Fault-tolerant tracking control of spacecraft with attitude-only measurement
+under actuator failures
+B Xiao, Q Hu, Y Zhang, X Huo
+Journal of Guidance, Control, and Dynamics 37 (3), 838-849
+50
+2014
+Passive and active nonlinear fault-tolerant control of a quadrotor
+unmanned aerial vehicle based on the sliding mode control technique
+T Li, Y Zhang, BW Gordon
+Proceedings of the Institution of Mechanical Engineers, Part I: Journal of …
+50
+2013
+Fault-tolerant fuzzy gain-scheduled PID for a quadrotor helicopter testbed
+in the presence of actuator faults
+MH Amoozgar, A Chamseddine, Y Zhang
+IFAC Proceedings Volumes 45 (3), 282-287
+50
+2012
+A fast UD factorization-based learning algorithm with applications to
+nonlinear system modeling and identification
+Y Zhang, XR Li
+IEEE Transactions on Neural Networks 10 (4), 930-938
+50
+1999
+Detection and diagnosis of sensor and actuator failures using interacting
+multiple-model estimator
+Y Zhang, XR Li
+Decision and Control, 1997., Proceedings of the 36th IEEE Conference on 5 …
+49
+1997
+Unmanned surface vehicles: An overview of developments and challenges
+Z Liu, Y Zhang, X Yu, C Yuan
+Annual Reviews in Control 41, 71-93
+47
+2016
+Fault tolerant flight control techniques with application to a quadrotor UAV
+testbed
+Y Zhang, A Chamseddine
+Automatic Flight Control Systems-Latest Developments
+47
+2012
+Adaptive integral-type sliding mode control for spacecraft attitude
+maneuvering under actuator stuck failures
+HU Qinglei, Y Zhang, HUO Xing, X Bing
+Chinese Journal of Aeronautics 24 (1), 32-45
+46
+2011
+Fault tolerant model predictive control of quad-rotor helicopters with
+actuator fault estimation
+HA Izadi, Y Zhang, BW Gordon
+IFAC Proceedings Volumes 44 (1), 6343-6348
+46
+2011
+
+-----
+TITLE
+CITED BY
+YEAR
+Gain scheduling based pid controller for fault tolerant control of quad-rotor
+uav
+A Milhim, Y Zhang, CA Rabbath
+AIAA infotech@ aerospace 2010, 3530
+46
+2010
+Integrative identification of Epstein–Barr virus–associated mutations and
+epigenetic alterations in gastric cancer
+Q Liang, X Yao, S Tang, J Zhang, TO Yau, X Li, CM Tang, W Kang, ...
+Gastroenterology 147 (6), 1350-1362. e4
+45
+2014
+A survey on multiple unmanned vehicles formation control and
+coordination: Normal and fault situations
+Y Zhang, H Mehrjerdi
+Unmanned Aircraft Systems (ICUAS), 2013 International Conference on, 1087-1096
+45
+2013
+Active fault‐tolerant control system design with trajectory re‐planning
+against actuator faults and saturation: Application to a quadrotor
+unmanned aerial vehicle
+A Chamseddine, D Theilliol, YM Zhang, C Join, CA Rabbath
+International Journal of Adaptive Control and Signal Processing 29 (1), 1-23
+44
+2015
+Enhancement of surface graft density of MPEG on alginate/chitosan
+hydrogel microcapsules for protein repellency
+J Zheng, H Xie, W Yu, M Tan, F Gong, X Liu, F Wang, G Lv, W Liu, ...
+Langmuir 28 (37), 13261-13273
+44
+2012
+Design of feedback linearization control and reconfigurable control
+allocation with application to a quadrotor UAV
+QL Zhou, Y Zhang, CA Rabbath, D Theilliol
+Control and Fault-Tolerant Systems (SysTol), 2010 Conference on, 371-376
+44
+2010
+Active fault tolerant control of a quadrotor uav based on gainscheduled pid
+control
+I Sadeghzadeh, A Mehta, A Chamseddine, Y Zhang
+Electrical & Computer Engineering (CCECE), 2012 25th IEEE Canadian …
+40
+2012
+A review on fault-tolerant control for unmanned aerial vehicles (UAVs)
+I Sadeghzadeh, Y Zhang
+Infotech@ Aerospace 2011, 1472
+40
+2011
+Stabilization of active fault tolerant control systems with imperfect fault
+detection and diagnosis
+M Mahmoud, J Jiang, Y Zhang
+Taylor & Francis Group 21 (3), 673-701
+37
+2003
+A novel variable‐length sliding window blockwise least‐squares algorithm
+for on‐line estimation of time‐varying parameters
+J Jiang, Y Zhang
+International journal of adaptive control and signal processing 18 (6), 505-521
+36
+2004
+A study of Fe‐Ni‐B ultrafine alloy particles produced by reduction with
+borohydride
+Z Hu, Y Hsia, J Zheng, J Shen, Q Yan, L Dai
+Journal of applied physics 70 (1), 436-438
+35
+1991
+
+-----
+TITLE
+CITED BY
+YEAR
+Finite-time attitude tracking of spacecraft with fault-tolerant capability
+B Xiao, Q Hu, Y Zhang
+IEEE Transactions on Control Systems Technology 23 (4), 1338-1350
+34
+2015
+Analysis of the stochastic stability for fault tolerant control systems
+M Mahmoud, J Jiang, Y Zhang
+Decision and Control, 1999. Proceedings of the 38th IEEE Conference on 4 …
+33
+1999
+Fault recoverability and fault tolerant control for a class of interconnected
+nonlinear systems
+H Yang, B Jiang, M Staroswiecki, Y Zhang
+Automatica 54, 49-55
+32
+2015
+Control effectiveness estimation using an adaptive Kalman estimator
+NE Wu, Y Zhang, K Zhou
+Intelligent Control (ISIC), 1998. Held jointly with IEEE International …
+30
+1998
+Fault-tolerant attitude stabilization for satellites without rate sensor
+B Xiao, M Huo, X Yang, Y Zhang
+IEEE Transactions on Industrial Electronics 62 (11), 7191-7202
+29
+2015
+A review of optimal control techniques applied to the energy management
+and control of microgrids
+LI Minchala-Avila, LE Garza-Castañón, A Vargas-Martínez, Y Zhang
+Procedia Computer Science 52, 780-787
+29
+2015
+A review on fault diagnosis and fault tolerant control methods for single-
+rotor aerial vehicles
+X Qi, J Qi, D Theilliol, Y Zhang, J Han, D Song, CS Hua
+Journal of Intelligent & Robotic Systems 73 (1-4), 535-555
+29
+2014
+Robust fault-tolerant control against time-varying actuator faults and
+saturation
+JH Fan, YM Zhang, ZQ Zheng
+IET Control Theory & Applications 6 (14), 2198-2208
+29
+2012
+Tolerance of intermittent faults in spacecraft attitude control: switched
+system approach
+H Yang, B Jiang, Y Zhang
+IET Control Theory & Applications 6 (13), 2049-2056
+29
+2012
+Wind turbine fault diagnosis and fault-tolerant torque load control against
+actuator faults
+H Badihi, Y Zhang, H Hong
+IEEE Transactions on Control Systems Technology 23 (4), 1351-1372
+28
+2015
+Reliable control of a class of switched cascade nonlinear systems with its
+application to flight control
+Y Jin, J Fu, Y Zhang, Y Jing
+Nonlinear Analysis: Hybrid Systems 11, 11-21
+28
+2014
+Model reference adaptive fault tolerant control of a quadrotor UAV
+A Chamseddine, Y Zhang, CA Rabbath, J Apkarian, C Fulford
+Infotech@ Aerospace 2011, 1606
+28
+2011
+
+-----
+TITLE
+CITED BY
+YEAR
+Fault Tolerant Control System Design: A Reconfiguratin Strategy Based on
+Reliability Analysis Under Dynamic Behavior Constraints
+F Guenab, D Theilliol, P Weber, YM Zhang, D Sauter
+Fault Detection, Supervision and Safety of Technical Processes 2006, 1312-1317
+28
+2007
+Fault‐tolerant formation control of multiple UAVs in the presence of
+actuator faults
+X Yu, Z Liu, Y Zhang
+International Journal of Robust and Nonlinear Control 26 (12), 2668-2685
+27
+2016
+Prestack depth migration with common-shot and synthesis-shot records
+G Zhang, W Zhang, X Hao
+1999 SEG Annual Meeting
+27
+1999
+Fault/damage tolerant control of a quadrotor helicopter UAV using model
+reference adaptive control and gain-scheduled PID
+I Sadeghzadeh, A Mehta, Y Zhang
+AIAA Guidance, Navigation, and Control Conference, 6716
+26
+2011
+Design of a fault tolerant control system incorporating reliability analysis
+and dynamic behaviour constraints
+F Guenab, P Weber, D Theilliol, YM Zhang
+International Journal of Systems Science 42 (1), 219-233
+26
+2011
+Identification of genes differentially expressed in vivo by Metarhizium
+anisopliae in the hemolymph of Locusta migratoria using suppression-
+subtractive hybridization
+C Zhang, Y Xia
+Current genetics 55 (4), 399-407
+26
+2009
+UAV-based forest fire detection and tracking using image processing
+techniques
+C Yuan, Z Liu, Y Zhang
+Unmanned Aircraft Systems (ICUAS), 2015 International Conference on, 639-643
+25
+2015
+Tracking control of spacecraft formation flying with collision avoidance
+Q Hu, H Dong, Y Zhang, G Ma
+Aerospace Science and Technology 42, 353-364
+25
+2015
+Peroxisome proliferator activated receptor alpha inhibits
+hepatocarcinogenesis through mediating NF-κB signaling pathway
+N Zhang, ESH Chu, J Zhang, X Li, Q Liang, J Chen, M Chen, N Teoh, ...
+Oncotarget 5 (18), 8330
+25
+2014
+Fault-tolerant control for quadrotor UAV via backstepping approach
+X Zhang, Y Zhang, CY Su, Y Feng
+48th AIAA aerospace sciences meeting including the new horizons forum and …
+25
+2010
+Reconfigurable control allocation applied to an aircraft benchmark model
+Y Zhang, CA Rabbath, CY Su
+American Control Conference, 2008, 1052-1057
+25
+2008
+Incorporating performance degradation in fault tolerant control system
+design with multiple actuator failures
+Y Zhang, J Jiang, D Theilliol
+International Journal of Control, Automation, and Systems 6 (3), 327-338
+25
+2008
+
+-----
+TITLE
+CITED BY
+YEAR
+Fault tolerant formations control of UAVs subject to permanent and
+intermittent faults
+Q Xu, H Yang, B Jiang, D Zhou, Y Zhang
+Journal of Intelligent & Robotic Systems 73 (1-4), 589-602
+24
+2014
+Stochastic stability analysis for fault tolerant control systems with multiple
+failure processes
+M Mahmoud, J Jiang, YM Zhang
+International Journal of Systems Science 33 (1), 55-65
+24
+2002
+Comparison of the surface hardness among 3 materials used in an
+experimental apexification model under moist and dry environments
+V Caronna, V Himel, Q Yu, JF Zhang, K Sabey
+Journal of endodontics 40 (7), 986-989
+23
+2014
+Fault-tolerant control with linear quadratic and model predictive control
+techniques against actuator faults in a quadrotor UAV
+B Yu, Y Zhang, I Minchala, Y Qu
+Control and Fault-Tolerant Systems (SysTol), 2013 Conference on, 661-666
+23
+2013
+Fault diagnosis and fault tolerant control methods for manned and
+unmanned helicopters: a literature review
+X Qi, D Theilliol, J Qi, Y Zhang, J Han, D Song, L Wang, Y Xia
+Control and Fault-Tolerant Systems (SysTol), 2013 Conference on, 132-139
+23
+2013
+Hierarchical decentralized receding horizon control of multiple vehicles with
+communication failures
+HA Izadi, BW Gordon, Y Zhang
+IEEE Transactions on Aerospace and Electronic Systems 49 (2), 744-759
+23
+2013
+Cooperative multi-vehicle search and coverage problem in uncertain
+environments
+M Mirzaei, F Sharifi, BW Gordon, CA Rabbath, YM Zhang
+Decision and Control and European Control Conference (CDC-ECC), 2011 50th …
+23
+2011
+Decentralized receding horizon control for cooperative multiple vehicles
+subject to communication delay
+HA Izadi, BW Gordon, Y Zhang
+Journal of guidance, control, and dynamics 32 (6), 1959-1965
+23
+2009
+Design of proportional-integral reconfigurable control systems via
+eigenstructure assignment
+Y Zhang, J Jiang
+American Control Conference, 2000. Proceedings of the 2000 6, 3732-3736
+22
+2000
+SiCN coatings prepared by PACVD from TMS-NH3-Ar system on steel
+M Ducarroir, W Zhang, R Berjoan
+Le Journal de Physique IV 3 (C3), C3-247-C3-254
+22
+1993
+Fault-tolerant flight control design with finite-time adaptation under actuator
+stuck failures
+X Yu, Z Liu, Y Zhang
+IEEE Transactions on Control Systems Technology 25 (4), 1431-1440
+21
+2017
+Trajectory tracking of wheeled mobile robots: A kinematical approach
+MH Amoozgar, YM Zhang
+Mechatronics and Embedded Systems and Applications (MESA), 2012 IEEE/ASME …
+21
+2012
+
+-----
+TITLE
+CITED BY
+YEAR
+Trajectory planning and re-planning for fault tolerant formation flight control
+of quadrotor unmanned aerial vehicles
+A Chamseddine, Y Zhang, CA Rabbath
+American Control Conference (ACC), 2012, 3291-3296
+21
+2012
+Cooperative localization against GPS signal loss in multiple UAVs flight
+Y Qu, Y Zhang
+Journal of Systems Engineering and Electronics 22 (1), 103-112
+21
+2011
+Fault-tolerant control for a class of uncertain systems with actuator faults
+S Ye, Y Zhang, X Wang, B Jiang
+Tsinghua Science & Technology 15 (2), 174-183
+21
+2010
+A SVD-based extended Kalman filter and applications to aircraft flight state
+and parameter estimation
+Y Zhang, G Dai, H Zhang, Q Li
+American Control Conference, 1994 2, 1809-1813
+21
+1994
+DOB-Based Neural Control of Flexible Hypersonic Flight Vehicle
+Considering Wind Effects
+B Xu, D Wang, Y Zhang, Z Shi
+IEEE Transactions on Industrial Electronics 64 (11), 8676-8685
+20
+2017
+Fault-tolerant flight control design with explicit consideration of
+reconfiguration transients
+X Yu, Y Zhang, Z Liu
+Journal of Guidance, Control, and Dynamics 38 (12), 556-563
+20
+2015
+A distributed deployment strategy for a network of cooperative autonomous
+vehicles
+F Sharifi, A Chamseddine, H Mahboubi, Y Zhang, AG Aghdam
+IEEE transactions on control systems technology 23 (2), 737-745
+20
+2015
+Robust fault-tolerant control using on-line control re-allocation with
+application to aircraft
+S Ye, Y Zhang, X Wang, CA Rabbath
+American Control Conference, 2009. ACC'09., 5534-5539
+20
+2009
+Fault diagnosis and fault accommodation for control systems
+B Jiang, ZH Mao, H Yang, YM Zhang
+National Defense Industry Press
+20
+2009
+Fixed-interval smoothing algorithm based on singular value decomposition
+Y Zhang, XR Li
+Control Applications, 1996., Proceedings of the 1996 IEEE International …
+20
+1996
+Nonlinear proportional-derivative control incorporating closed-loop control
+allocation for spacecraft
+Q Hu, B Li, Y Zhang
+Journal of Guidance, Control, and Dynamics 37 (3), 799-812
+19
+2014
+Trajectory planning and replanning strategies applied to a quadrotor
+unmanned aerial vehicle
+A Chamseddine, Y Zhang, CA Rabbath, D Theilliol
+Journal of Guidance, Control, and Dynamics 35 (5), 1667-1671
+19
+2012
+
+-----
+TITLE
+CITED BY
+YEAR
+Adaptable metal cluster block: Facile construction of photoluminescent CuI
+coordination polymeric clusters with metal (I) iodides
+Y Niu, N Zhang, H Hou, Y Zhu, M Tang, SW Ng
+Journal of molecular structure 827 (1), 195-200
+19
+2007
+Optimal control law for fault tolerant control systems
+M Mahmoud, J Jiang, Y Zhang
+Decision and Control, 2000. Proceedings of the 39th IEEE Conference on 4 …
+19
+2000
+Process study of silicon carbide coatings deposited on steel by plasma-
+assisted chemical vapor deposition from tetramethylsilane-argon gas
+system
+W Zhang, M Lelogeais, M Ducarroir
+Japanese journal of applied physics 31 (12R), 4053
+19
+1992
+Formation control of multiple quadrotors based on leader-follower method
+KA Ghamry, Y Zhang
+Unmanned Aircraft Systems (ICUAS), 2015 International Conference on, 1037-1042
+18
+2015
+DUKF-based GTM UAV fault detection and diagnosis with nonlinear and
+LPV models
+L Ma, Y Zhang
+Mechatronics and Embedded Systems and Applications (MESA), 2010 IEEE/ASME …
+18
+2010
+Graceful performance degradation in active fault-tolerant control systems
+J Jiang, Y Zhang
+IFAC Proceedings Volumes 35 (1), 275-280
+18
+2002
+The new development of Kalman filtering algorithms [J]
+Y ZHANG, G DAI, H ZHANG
+Control Theory & Applications 5
+18
+1995
+A learning-based fault tolerant tracking control of an unmanned quadrotor
+helicopter
+Z Liu, C Yuan, Y Zhang, J Luo
+Journal of Intelligent & Robotic Systems 84 (1-4), 145-162
+17
+2016
+Optimal energy management for stable operation of an islanded microgrid
+LI Minchala-Avila, L Garza-Castañón, Y Zhang, HJA Ferrer
+IEEE Transactions on Industrial Informatics 12 (4), 1361-1370
+17
+2016
+A literature review on fault diagnosis methods for manned and unmanned
+helicopters
+X Qi, D Theilliol, J Qi, Y Zhang, J Han
+Unmanned Aircraft Systems (ICUAS), 2013 International Conference on, 1114-1118
+17
+2013
+A fault detection and diagnosis approach based on hidden Markov chain
+model
+Y Zhang, XR Li, K Zhou
+American Control Conference, 1998. Proceedings of the 1998 4, 2012-2016
+17
+1998
+Flatness-based trajectory planning for a quadrotor unmanned aerial vehicle
+test-bed considering actuator and system constraints
+A Chamseddine, T Li, Y Zhang, CA Rabbath, D Theilliol
+American Control Conference (ACC), 2012, 920-925
+16
+2012
+
+-----
+TITLE
+CITED BY
+YEAR
+Chitosan/VEGF-sIRNA nanoparticle for gene silencing
+Y Yang, X Liu, D Zhang, W Yu, H Xie, J Zheng, X Ma
+Journal of controlled release 152, e160-e161
+16
+2011
+MDGA2 is a novel tumour suppressor cooperating with DMAP1 in gastric
+cancer and is associated with disease outcome
+K Wang, Q Liang, X Li, H Tsoi, J Zhang, H Wang, MYY Go, PWY Chiu, ...
+Gut 65 (10), 1619-1631
+15
+2016
+In vitro fracture resistance of three commercially available zirconia crowns
+for primary molars
+JA Townsend, P Knoell, Q Yu, JF Zhang, Y Wang, H Zhu, S Beattie, X Xu
+Pediatric dentistry 36 (5), 125E-129E
+15
+2014
+Fault-tolerant shortest connection topology design for formation control
+H Yang, B Jiang, Y Zhang
+International Journal of Control, Automation and Systems 12 (1), 29-36
+15
+2014
+Adaptive observer-based integrated fault diagnosis and fault-tolerant
+control systems against actuator faults and saturation
+J Fan, Y Zhang, Z Zheng
+Journal of Dynamic Systems, Measurement, and Control 135 (4), 041008
+15
+2013
+Dynamic service triggers in communication networks
+Y Cai, S Zhang
+US Patent 7,877,487
+15
+2011
+An LMI approach to mixed H 1/H∞ robust fault-tolerant control design with
+uncertainties
+S Ye, Y Zhang, CA Rabbath, X Wang, Y Li
+American Control Conference, 2009. ACC'09., 5540-5545
+15
+2009
+Managing performance degradation in fault tolerant control systems
+Y Zhang, J Jiang, Z Yang, A Hussain
+IFAC Proceedings Volumes 38 (1), 424-429
+15
+2005
+LPV model-based tracking control and robust sensor fault diagnosis for a
+quadrotor UAV
+FR López-Estrada, JC Ponsart, D Theilliol, Y Zhang, ...
+Journal of Intelligent & Robotic Systems 84 (1-4), 163-177
+14
+2016
+Control allocation and re-allocation for a modified quadrotor helicopter
+against actuator faults
+I Sadeghzadeh, A Chamseddine, Y Zhang, D Theilliol
+IFAC Proceedings Volumes 45 (20), 247-252
+14
+2012
+Two reconfigurable control allocation schemes for unmanned aerial vehicle
+under stuck actuator failures
+QL Zhou, Y Zhang, CA Rabbath, J Apkarian
+AIAA Guidance, Navigation, and Control Conference, 8419
+14
+2010
+Design of restructurable active fault-tolerant control systems
+Y Zhang, J Jiang
+IFAC Proceedings Volumes 35 (1), 101-106
+14
+2002
+
+-----
+TITLE
+CITED BY
+YEAR
+Condition monitoring and fault detection of a compressor using signal
+processing techniques
+Y Zhang, J Jiang, M Flatley, B Hill
+American Control Conference, 2001. Proceedings of the 2001 6, 4460-4465
+14
+2001
+Fault tolerant control systems design with consideration of performance
+degradation
+Y Zhang, J Jiang
+American Control Conference, 2001. Proceedings of the 2001 4, 2694-2699
+14
+2001
+Effects of fault detection and isolation to the stability of fault tolerant control
+systems
+M Mahmoud, J Jiang, Y Zhang
+American Control Conference, 2001. Proceedings of the 2001 4, 2676-2681
+14
+2001
+Stochastic stability of fault tolerant control systems in the presence of noise
+M Mahmoud, J Jiang, Y Zhang
+American Control Conference, 2000. Proceedings of the 2000 6, 4294-4298
+14
+2000
+Disruption of NCOA2 by recurrent fusion with LACTB2 in colorectal cancer
+J Yu, WKK Wu, Q Liang, N Zhang, J He, X Li, X Zhang, L Xu, MTV Chan, ...
+Oncogene 35 (2), 187
+13
+2016
+Cooperative multi-vehicle search and coverage problem in an uncertain
+environment
+F Sharifi, M Mirzaei, Y Zhang, BW Gordon
+Unmanned systems 3 (01), 35-47
+13
+2015
+Robust sensor fault diagnosis and tracking controller for a UAV modelled
+as LPV system
+FR Lopez-Estrada, JC Ponsart, D Theilliol, CM Astorga-Zaragoza, ...
+Unmanned Aircraft Systems (ICUAS), 2014 International Conference on, 1311-1316
+13
+2014
+Distributed coordination of multi-agent systems for coverage problem in
+presence of obstacles
+H Mahboubi, F Sharifi, AG Aghdam, Y Zhang
+American Control Conference (ACC), 2012, 5252-5257
+13
+2012
+Fault tolerant control system against actuator failures based on re-
+configuring reference input
+D Theilliol, YM Zhang, JC Ponsart
+Advances in Computational Tools for Engineering Applications, 2009. ACTEA'09 …
+13
+2009
+Fault-tolerant controller synthesis for piecewise-affine systems
+N Nayebpanah, L Rodrigues, Y Zhang
+American Control Conference, 2009. ACC'09., 222-226
+13
+2009
+Recent progress in fingerprint recognition
+T Jie, C Xinjian, Z Yangyang, Y Xin, H Yuliang, L Liang, X Weihua, ...
+Progress in natural science 16 (3), 231-240
+13
+2006
+A new clustering and training method for radial basis function networks
+Y Zhang, XR Li, Z Zhu, H Zhang
+Neural Networks, 1996., IEEE International Conference on 1, 311-316
+13
+1996
+
+-----
+TITLE
+CITED BY
+YEAR
+Aerial images-based forest fire detection for firefighting using optical
+remote sensing techniques and unmanned aerial vehicles
+C Yuan, Z Liu, Y Zhang
+Journal of Intelligent & Robotic Systems 88 (2-4), 635-654
+12
+2017
+Carbonic anhydrase IV inhibits colon cancer development by inhibiting the
+Wnt signalling pathway through targeting the WTAP–WT1–TBL1 axis
+J Zhang, H Tsoi, X Li, H Wang, J Gao, K Wang, MYY Go, SC Ng, ...
+Gut, gutjnl-2014-308614
+12
+2015
+Decentralized leader-follower formation control with obstacle avoidance of
+multiple unicycle mobile robots
+MA Kamel, Y Zhang
+Electrical and Computer Engineering (CCECE), 2015 IEEE 28th Canadian …
+12
+2015
+Optimal flight path planning for UAVs in 3-D threat environment
+Y Qu, Y Zhang, Y Zhang
+Unmanned Aircraft Systems (ICUAS), 2014 International Conference on, 149-155
+12
+2014
+Reliable stabilization of switched system with average dwell-time approach
+Y Jin, J Fu, Y Zhang, Y Jing
+Journal of the Franklin Institute 350 (3), 452-463
+12
+2013
+Fault tolerant control for quad-rotor UAV by employing Lyapunov-based
+adaptive control approach
+X Zhang, Y Zhang
+AIAA Guidance, Navigation, and Control Conference, 8052
+12
+2010
+Fault detection and diagnosis for GTM UAV with dual unscented Kalman
+filter
+L Ma, Y Zhang
+AIAA Guidance, Navigation, and Control Conference, 7884
+12
+2010
+Dead reckoning and Kalman filter design for trajectory tracking of a
+quadrotor UAV
+QL Zhou, Y Zhang, YH Qu, CA Rabbath
+Mechatronics and Embedded Systems and Applications (MESA), 2010 IEEE/ASME …
+12
+2010
+Expression and clinical significance of CDC6 and hMSH2 in cervical
+carcinoma
+WX Wang, WJ Zhang, ZL Peng, KX Yang
+Sichuan da xue xue bao. Yi xue ban= Journal of Sichuan University. Medical …
+12
+2009
+Multiple-Model Estimation with Variable Structure Part IV: Design and
+Evaluation of Model-Croup Switching Algorithm
+Y ZHANG, X ZHI
+IEEE Transactions on Aerospace and Electronic Systems 35 (1)
+12
+1999
+Aircraft fault accommodation with consideration of actuator control
+authority and gyro availability
+X Yu, Y Fu, Y Zhang
+IEEE Transactions on Control Systems Technology
+11
+2017
+Design of passive fault-tolerant flight controller against actuator failures
+X Yu, Y Zhang
+Chinese Journal of Aeronautics 28 (1), 180-190
+11
+2015
+
+-----
+TITLE
+CITED BY
+YEAR
+Observer-based attitude control for satellite under actuator fault
+A Zhang, Q Hu, Y Zhang
+Journal of Guidance, Control, and Dynamics 38 (4), 806-811
+11
+2014
+A distributed deployment strategy for multi-agent systems subject to health
+degradation and communication delays
+F Sharifi, Y Zhang, AG Aghdam
+Journal of Intelligent & Robotic Systems 73 (1-4), 623-633
+11
+2014
+Payload drop application using an unmanned quadrotor helicopter based
+on gain-scheduled PID and model predictive control
+I Sadeghzadeh, M Abdolhosseini, Y Zhang
+Unmanned Systems 2 (01), 39-52
+11
+2014
+A review on application of monitoring, diagnosis, and fault-tolerant control
+to wind turbines
+H Badihi, Y Zhang, H Hong
+Control and Fault-Tolerant Systems (SysTol), 2013 Conference on, 365-370
+11
+2013
+A data-driven fault tolerant model predictive control with fault identification
+HA Izadi, BW Gordon, Y Zhang
+Control and Fault-Tolerant Systems (SysTol), 2010 Conference on, 732-737
+11
+2010
+Cooperative localization of UAV based on information synchronization
+Y Qu, Y Zhang, Q Zhou
+Mechatronics and Automation (ICMA), 2010 International Conference on, 225-230
+11
+2010
+Antimicrobial-resistance and Mechanism of Aeromonas Hydrophila [J]
+T SONG, Q CHEN, Z ZHENG, Y LI, H GONG, T LIN
+Fujian Journal of Agricultural Sciences 2, 002
+11
+2008
+Active fault-tolerant control systems: Integration of fault diagnosis and
+reconfigurable control
+Y Zhang
+Fault Diagnosis and Fault Tolerant Control, Academic Publishing House EXIT …
+11
+2007
+Cooperative forest monitoring and fire detection using a team of UAVs-
+UGVs
+KA Ghamry, MA Kamel, Y Zhang
+Unmanned Aircraft Systems (ICUAS), 2016 International Conference on, 1206-1211
+10
+2016
+Observer-based reliable stabilization of uncertain linear systems subject to
+actuator faults, saturation, and bounded system disturbances
+J Fan, Y Zhang, Z Zheng
+ISA transactions 52 (6), 730-737
+10
+2013
+A disturbance‐decoupled adaptive observer and its application to faulty
+parameters estimation of a hydraulically driven elevator
+Z Zhao, WF Xie, H Hong, Y Zhang
+International Journal of Adaptive Control and Signal Processing 25 (6), 519-534
+10
+2011
+Rule-Based Cooperative collision avoidance using decentralized model
+predictive control
+HA Izadi, BW Gordon, Y Zhang
+Infotech@ Aerospace 2011, 1610
+10
+2011
+
+-----
+TITLE
+CITED BY
+YEAR
+Decentralized model predictive control for cooperative multiple vehicles
+subject to communication loss
+HA Izadi, BW Gordon, Y Zhang
+International Journal of Aerospace Engineering 2011
+10
+2011
+Reconfiguration of control inputs for overactuated systems based on
+actuators health
+A Khelassi, J Jiang, D Theilliol, P Weber, YM Zhang
+IFAC Proceedings Volumes 44 (1), 13729-13734
+10
+2011
+Sliding mode observer-based fault detection and isolation in flight control
+systems
+J Liu, B Jiang, Y Zhang
+Control Applications, 2007. CCA 2007. IEEE International Conference on, 1049 …
+10
+2007
+An advanced sense and collision avoidance strategy for unmanned aerial
+vehicles in landing phase
+Y Fu, Y Zhang, X Yu
+IEEE Aerospace and Electronic Systems Magazine 31 (9), 40-52
+9
+2016
+Sense and collision avoidance of unmanned aerial vehicles using Markov
+decision process and flatness approach
+Y Fu, X Yu, Y Zhang
+Information and Automation, 2015 IEEE International Conference on, 714-719
+9
+2015
+Leader-follower formation control of unmanned aerial vehicles with fault
+tolerant and collision avoidance capabilities
+ZX Liu, X Yu, C Yuan, YM Zhang
+Unmanned Aircraft Systems (ICUAS), 2015 International Conference on, 1025-1030
+9
+2015
+Actuator fault-tolerant control based on Gain-Scheduled PID with
+application to fixed-wing Unmanned Aerial Vehicle
+I Sadeghzadeh, Y Zhang
+Control and Fault-Tolerant Systems (SysTol), 2013 Conference on, 342-346
+9
+2013
+Fault tolerant control using linear quadratic technique against actuator
+faults in a UAV
+B Yu, Y Zhang, J Yan, Y Qu, Z Liu
+Control Conference (CCC), 2013 32nd Chinese, 6294-6299
+9
+2013
+Sliding mode reconfigurable control using information on the control
+effectiveness of actuators
+T Wang, W Xie, Y Zhang
+Journal of Aerospace Engineering 27 (3), 587-596
+9
+2012
+Fault tolerant control applied to a quadrotor unmanned helicopter
+T Li, Y Zhang, B Gordon
+ASME 2011 International Design Engineering Technical Conferences and …
+9
+2011
+Multimodel-based flight control system reconfiguration control in the
+presence of input constraints
+Y Guo, B Jiang, Y Xu
+Journal of Control Theory and Applications 8 (4), 418-424
+9
+2010
+
+-----
+TITLE
+CITED BY
+YEAR
+Robust fault tolerant attitude stabilization control for flexible spacecraft
+under partial loss of actuator effectiveness
+Q Hu, B Xiao, Y Zhang
+Control and Fault-Tolerant Systems (SysTol), 2010 Conference on, 263-268
+9
+2010
+Reconfigurable control allocation against partial control effector faults in
+aircraft
+Y Zhang, D Theilliol
+3rd International Conference on Advances in Vehicle Control and Safety, AVCS …
+9
+2007
+Vision-based forest fire detection in aerial images for firefighting using
+UAVs
+C Yuan, Z Liu, Y Zhang
+Unmanned Aircraft Systems (ICUAS), 2016 International Conference on, 1200-1205
+8
+2016
+Linear model predictive control via feedback linearization for formation
+control of multiple wheeled mobile robots
+MA Kamel, Y Zhang
+Information and Automation, 2015 IEEE International Conference on, 1283-1288
+8
+2015
+Hybrid adaptive fault‐tolerant control algorithms for voltage and frequency
+regulation of an islanded microgrid
+A Vargas‐Martínez, LI Minchala Avila, Y Zhang, LE Garza‐Castañón, ...
+International Transactions on Electrical Energy Systems 25 (5), 827-844
+8
+2015
+Active fault tolerant control in a wind farm with decreased power
+generation due to blade erosion/debris build-up
+H Badihi, Y Zhang, H Hong
+IFAC-PapersOnLine 48 (21), 1369-1374
+8
+2015
+Optimal reliability design for over-actuated systems based on the MIT rule:
+Application to an octocopter helicopter testbed
+A Chamseddine, D Theilliol, I Sadeghzadeh, Y Zhang, P Weber
+Reliability Engineering & System Safety 132, 196-206
+8
+2014
+A learning-based fuzzy LQR control scheme for height control of an
+unmanned quadrotor helicopter
+ZX Liu, C Yuan, YM Zhang, J Luo
+Unmanned Aircraft Systems (ICUAS), 2014 International Conference on, 936-941
+8
+2014
+A model predictive control approach for integrating a master generation
+unit in a microgrid
+LI Minchala-Avila, A Vargas-Martinez, Y Zhang, LE Garza-Castanon
+Control and Fault-Tolerant Systems (SysTol), 2013 Conference on, 674-679
+8
+2013
+Trajectory tracking with model predictive control for an unmanned quad-
+rotor helicopter: Theory and flight test results
+M Abdolhosseini, YM Zhang, CA Rabbath
+International Conference on Intelligent Robotics and Applications, 411-420
+8
+2012
+Nonlinear fault-tolerant control of a quadrotor uav based on sliding mode
+control technique
+T Li, Y Zhang, BW Gordon
+IFAC Proceedings Volumes 45 (20), 1317-1322
+8
+2012
+
+-----
+TITLE
+CITED BY
+YEAR
+Cooperative localization of low-cost UAV using relative range
+measurements in multi-UAV flight
+Y Qu, Y Zhang
+AIAA Guidance, Navigation, and Control Conference, 8187
+8
+2010
+Quad-rotor UAV: high-fidelity modeling and nonlinear PID control
+AB Milhim, Y Zhang, CA Rabbath
+AIAA Modelling and Simulation Technologies Conference
+8
+2010
+Reconfigurable control allocation technology using weighted least squares
+for nonlinear system in unmanned aerial vehicle
+QL Zhou, Y Zhang, CA Rabbath, D Theilliol
+48th AIAA Aerospace Sciences Meeting Including the New Horizons Forum and …
+8
+2010
+Adaptive backstepping based fault tolerant spacecraft attitude control
+under loss of actuator effectiveness
+Q Hu, B Xiao, Y Zhang
+AIAA Guidance, Navigation, and Control Conference, 8306
+8
+2010
+Multiple-model estimation with variable structure: likely model set algorithm
+XR Li, Y Zhang
+Signal and Data Processing of Small Targets 1998 3373, 234-247
+8
+1998
+A new recursive least-squares identification algorithm based on singular
+value decomposition
+Y Zhang, Q Li, G Dai, H Zhang
+Decision and Control, 1994., Proceedings of the 33rd IEEE Conference on 2 …
+8
+1994
+The design of fixed-time observer and finite-time fault-tolerant control for
+hypersonic gliding vehicles
+X Yu, P Li, Y Zhang
+IEEE Transactions on Industrial Electronics 65 (5), 4135-4144
+7
+2018
+Design and implementation of a smart meter with demand response
+capabilities
+LI Minchala-Avila, J Armijos, D Pesántez, Y Zhang
+Energy Procedia 103, 195-200
+7
+2016
+Spatio-temporal decomposition: a knowledge-based initialization strategy
+for parallel parking motion optimization
+B Li, Y Zhang, Z Shao
+Knowledge-Based Systems 107, 179-196
+7
+2016
+Trajectory tracking and attitude control of an unmanned quadrotor
+helicopter considering actuator dynamics
+B Wang, KA Ghamry, Y Zhang
+Control Conference (CCC), 2016 35th Chinese, 10795-10800
+7
+2016
+Real-time autonomous take-off, tracking and landing of uav on a moving
+ugv platform
+KA Ghamry, Y Dong, MA Kamel, Y Zhang
+Control and Automation (MED), 2016 24th Mediterranean Conference on, 1236-1241
+7
+2016
+Insulator identification from aerial images using support vector machine
+with background suppression
+X Wang, Y Zhang
+Unmanned Aircraft Systems (ICUAS), 2016 International Conference on, 892-897
+7
+2016
+
+-----
+TITLE
+CITED BY
+YEAR
+Fault-tolerant cooperative control of multiple wheeled mobile robots under
+actuator faults
+MA Kamel, Y Zhang, X Yu
+IFAC-PapersOnLine 48 (21), 1152-1157
+7
+2015
+Experimental validation of fault detection and diagnosis for unmanned
+aerial vehicles
+A Chamseddine, MH Amoozgar, YM Zhang
+Handbook of Unmanned Aerial Vehicles, 1123-1155
+7
+2015
+Sliding mode reconfigurable fault tolerant control for nonlinear aircraft
+systems
+T Wang, W Xie, Y Zhang
+Journal of Aerospace Engineering 28 (3), 04014086
+7
+2014
+Actuator fault diagnosis in a Boeing 747 model via adaptive modified two-
+stage Kalman filter
+F Caliskan, Y Zhang, NE Wu, JY Shin
+International Journal of Aerospace Engineering 2014
+7
+2014
+Hybrid fault-tolerant flight control against actuator faults and input
+saturation: a set-invariance approach
+J Fan, Y Zhang, Z Zheng
+AIAA Guidance, Navigation, and Control Conference, 4537
+7
+2012
+Fault diagnosis of gears based on time-wavelet energy spectrum
+J Zhang, ZP Feng, FL Chu
+Zhendong yu Chongji(Journal of Vibration and Shock) 30 (1), 157-161
+7
+2011
+Fault tolerant control of a quadrotor helicopter using model reference
+adaptive control
+I Sadeghzadeh, A Mehta, Y Zhang
+ASME 2011 International Design Engineering Technical Conferences and …
+7
+2011
+Decentralized sliding control of cooperative multi-agent systems subject to
+communication delays
+F Sharifi, BW Gordon, Y Zhang
+AIAA Guidance, Navigation, and Control Conference, 8426
+7
+2010
+Actuator fault compensation via multiple model based adaptive control
+Y Guo, B Jiang, Y Zhang
+Intelligent Control and Automation, 2008. WCICA 2008. 7th World Congress on …
+7
+2008
+Experimental study on water stability of cement-lime stabilized soil
+J Ling, H Xie, S Zhuang
+JOURNAL-TONGJI UNIVERSITY 29 (6), 733-737
+7
+2001
+Stochastic stability of fault tolerant control systems with model
+uncertainties
+M Mahmoud, J Jiang, Y Zhang
+American Control Conference, 2000. Proceedings of the 2000 6, 4284-4288
+7
+2000
+Real-time fault-tolerant cooperative control of multiple UAVs-ugvs in the
+presence of actuator faults
+MA Kamel, KA Ghamry, Y Zhang
+Journal of Intelligent & Robotic Systems 88 (2-4), 469-480
+6
+2017
+
+-----
+TITLE
+CITED BY
+YEAR
+Fault-tolerant cooperative control in an offshore wind farm using model-
+free and model-based fault detection and diagnosis approaches
+H Badihi, Y Zhang, H Hong
+Applied energy 201, 284-307
+6
+2017
+Fault-tolerant control of switched nonlinear systems with strong structural
+uncertainties: Average dwell-time method
+Y Jin, Y Zhang, Y Jing
+Neurocomputing 205, 204-209
+6
+2016
+Fault-tolerant formation control of unmanned aerial vehicles in the
+presence of actuator faults and obstacles
+Z Liu, C Yuan, X Yu, Y Zhang
+Unmanned Systems 4 (03), 197-211
+6
+2016
+Output feedback attitude tracking for spacecraft under control saturation
+and disturbance
+Q Hu, B Jiang, Y Zhang
+Journal of Dynamic Systems, Measurement, and Control 138 (1), 011006
+6
+2016
+Fault tolerant cooperative control of multiple UAVs-UGVs under actuator
+faults
+MA Kamel, KA Ghamry, Y Zhang
+Unmanned Aircraft Systems (ICUAS), 2015 International Conference on, 644-649
+6
+2015
+Simultaneous construction of PCR‐DGGE‐based predictive models of
+Listeria monocytogenes and Vibrio parahaemolyticus on cooked shrimps
+C Liao, ZY Peng, JB Li, XW Cui, ZH Zhang, PK Malakar, WJ Zhang, ...
+Letters in applied microbiology 60 (3), 210-216
+6
+2015
+Active power control design for supporting grid frequency regulation in
+wind farms
+H Badihi, Y Zhang, H Hong
+Annual Reviews in Control 40, 70-81
+6
+2015
+Fault tolerant control for partial loss of control authority in aircraft using
+piecewise affine slab models
+N Nayebpanah, L Rodrigues, Y Zhang
+Journal of the Franklin Institute 350 (9), 2494-2508
+6
+2013
+Payload drop application of unmanned quadrotor helicopter using gain-
+scheduled PID and model predictive control techniques
+I Sadeghzadeh, M Abdolhosseini, YM Zhang
+International Conference on Intelligent Robotics and Applications, 386-395
+6
+2012
+Sliding Mode Recon¯ gurable Control with Application to Longitudinal
+Control of Boeing 747
+T Wang, W Xie, Y Zhang
+AIAA Guidance, Navigation, and Control Conference, 7700
+6
+2010
+Adaptive trajectory planning for a quad-rotor unmanned aerial vehicle
+A Chamseddine, Y Zhang, CA Rabbath
+AIAA Guidance, Navigation, and Control Conference, 8279
+6
+2010
+
+-----
+TITLE
+CITED BY
+YEAR
+Decentralized receding horizon control of multiple vehicles subject to
+communication failure
+HA Izadi, BW Gordon, Y Zhang
+American Control Conference, 2009. ACC'09., 3531-3536
+6
+2009
+Fault detection and identification for bimodal piecewise affine systems
+N Nayebpanah, L Rodrigues, Y Zhang
+American Control Conference, 2009. ACC'09., 2362-2366
+6
+2009
+catena-Poly [N-[4-(1H-benzimidazol-3-yl) butyl] benzimidazolium
+[[diiodobismuthate (III)]-di-μ2-iodo]]
+YY Niu, N Zhang, HW Hou, SW Ng
+Structure Reports 61 (12), m2534-m2535
+6
+2005
+A SVD-based extended Kalman filter and application to flight state and
+parameter estimation of aircraft
+Y Zhang, G Dai, H Zhang
+Control Theory and Applications 13 (1), 107-144
+6
+1996
+A New Recursive Identification Method Based On Singular Value
+Decomposition [J]
+Y ZHANG, Q LI, G DAI, H ZHANG
+Control Theory & Applications 2
+6
+1995
+Fault-Tolerant Aircraft Control Based on Self-Constructing Fuzzy Neural
+Networks and Multivariable SMC under Actuator Faults
+X Yu, Y Fu, P Li, Y Zhang
+IEEE Transactions on Fuzzy Systems
+5
+2017
+Centralized and optimal motion planning for large-scale AGV systems: A
+generic approach
+B Li, H Liu, D Xiao, G Yu, Y Zhang
+Advances in Engineering Software 106, 33-46
+5
+2017
+Using a fluid–solid coupled numerical simulation to determine a suitable
+size for barrier pillars when mining shallow coal seams beneath an
+unconsolidated, confine...
+L Chen, X Feng, W Xie, W Zeng, Z Zheng
+Mine Water and the Environment 36 (1), 67-77
+5
+2017
+Cooperative control of multiple UAVs for forest fire monitoring and
+detection
+KA Ghamry, Y Zhang
+Mechatronic and Embedded Systems and Applications (MESA), 2016 12th IEEE …
+5
+2016
+Forest fire detection and monitoring using a network of autonomous
+vehicles
+F Sharifi, YM Zhang, AG Aghdam
+The 10th International Conference on Intelligent Unmanned Systems (ICIUS …
+5
+2014
+Fault detection for partial loss of effectiveness faults of actuators in a
+quadrotor unmanned helicopter
+B Yu, Y Zhang, Y Yi, Y Qu, P Lu
+Intelligent Control and Automation (WCICA), 2014 11th World Congress on …
+5
+2014
+
+-----
+TITLE
+CITED BY
+YEAR
+Fault tolerant control using PID structured optimal technique against
+actuator faults in a quadrotor UAV
+B Yu, Y Zhang, Y Qu
+Unmanned Aircraft Systems (ICUAS), 2014 International Conference on, 167-174
+5
+2014
+Cooperative localization based on the azimuth angles among multiple
+UAVs
+Y Qu, J Wu, Y Zhang
+Unmanned Aircraft Systems (ICUAS), 2013 International Conference on, 818-823
+5
+2013
+Adaptive exponential sliding mode control for dynamic tracking of a
+nonholonomic mobile robot
+H Mehrjerdi, Y Zhang, M Saad
+International Conference on Intelligent Robotics and Applications, 643-652
+5
+2012
+Control allocation for a modified quadrotor helicopter based on reliability
+analysis
+A Chamseddine, I Sadeghzadeh, Y Zhang, D Theilliol, A Khelassi
+Infotech@ Aerospace 2012, 2511
+5
+2012
+Integrated adaptive fault diagnosis and state-feedback control for systems
+with constant actuator faults and control input constraints
+J Fan, Y Zhang, Z Zheng
+ASME 2011 International Design Engineering Technical Conferences and …
+5
+2011
+Using cutting-edge unmanned aerial vehicles (uavs) technology for flight
+controls courses teaching
+Y Zhang
+Proceedings of EDULEARN11 Conference, 4-6
+5
+2011
+Active fault-tolerant control design for TS fuzzy systems with application to
+a near space vehicle
+Z Gao, B Jiang, Y Zhang, F Sun
+Intelligent Control (ISIC), 2010 IEEE International Symposium on, 123-128
+5
+2010
+Analysis of power grid economic operation and measures [J]
+Y TAN, S ZHANG
+Heilongjiang Electric Power 5, 007
+5
+2009
+Optimal reconfigurable control allocation design based on reliability
+analysis
+D Theilliol, A Chamseddine, Y Zhang, P Weber
+IFAC Proceedings Volumes 42 (8), 692-697
+5
+2009
+The application of machine learning algorithm in underwriting process
+Y Tan, GJ Zhang
+Machine Learning and Cybernetics, 2005. Proceedings of 2005 International …
+5
+2005
+Research on the forecast of intraocular lens power after excimer laser
+keratorefractive operation
+Z Wang, H Liu, Y Jing, X Zhang
+[Zhonghua yan ke za zhi] Chinese journal of ophthalmology 38 (2), 81-83
+5
+2002
+Stability of fault tolerant control systems driven by actuators with saturation
+M Mahmoud, J Jiang, Y Zhang
+IFAC Proceedings Volumes 35 (1), 473-478
+5
+2002
+
+-----
+TITLE
+CITED BY
+YEAR
+Optimal control law for fault tolerant control systems in noisy environment
+M Mahmoud, J Jiang, Y Zhang
+American Control Conference, 2001. Proceedings of the 2001 4, 2682-2687
+5
+2001
+Hybrid training of RBF networks with application to nonlinear systems
+identification
+YM Zhang, XR Li
+Decision and Control, 1996., Proceedings of the 35th IEEE Conference on 1 …
+5
+1996
+A fast and robust recursive prediction error learning algorithm for
+feedforward neural networks
+Y Zhang, XR Li
+Decision and Control, 1996., Proceedings of the 35th IEEE Conference on 2 …
+5
+1996
+Unmanned aerial vehicle based forest fire monitoring and detection using
+image processing technique
+C Yuan, KA Ghamry, Z Liu, Y Zhang
+Guidance, Navigation and Control Conference (CGNCC), 2016 IEEE Chinese, 1870 …
+4
+2016
+Design of fault-tolerant cooperative control algorithm applied to WMRs
+against actuator faults
+MA Kamel, X Yu, Y Zhang
+American Control Conference (ACC), 2016, 7092-7097
+4
+2016
+Self healing control method against unmanned helicopter actuator stuck
+faults
+X Qi, D Theilliol, J Qi, Y Zhang, L Wang, J Han
+Unmanned Aircraft Systems (ICUAS), 2014 International Conference on, 842-847
+4
+2014
+A Framework for Energy-Efficient Trajectory Optimization in Patrolling
+Problem with Non-pre-defined Starting Depot
+W Ghadiry, Y Zhang
+Proceedings of International Conference on Intelligent Unmanned Systems 10
+4
+2014
+Model-based fault-tolerant control to guarantee the performance of a
+hybrid wind-diesel power system in a microgrid configuration
+A Vargas-Martínez, LIM Avila, Y Zhang, LE Garza-Castañón, ERC Ortiz
+Procedia Computer Science 19, 712-719
+4
+2013
+Unitary System–I: Constructing a Unitary Fault Detection Observer
+Z Zhao, WF Xie, H Hong, Y Zhang
+IFAC Proceedings Volumes 44 (1), 7725-7730
+4
+2011
+Control allocation-based fault-tolerant control for over-actuated systems
+with saturation and imperfect fault information
+J Fan, Z Zheng, Y Zhang
+Infotech@ Aerospace 2011, 1495
+4
+2011
+ACRP: Ant-colony-based routing protocol for DTMNs
+P Zhang, H Wang, C Xia, L Lv, X Liu
+Educational and Information Technology (ICEIT), 2010 International …
+4
+2010
+Nonlinear analog circuit fault diagnosis using wavelet leaders multifractal
+analysis method
+JY Tang, YB Shi, LF Zhou, W Zhang
+Control and Decision 25 (4), 605-609
+4
+2010
+
+-----
+TITLE
+CITED BY
+YEAR
+Estimation of actuator fault parameters in a nonlinear Boeing 747 model
+using a linear Two-Stage Kalman Filter
+F Caliskan, Y Zhang, NE Wu, JY Shin
+IFAC Proceedings Volumes 42 (8), 1408-1413
+4
+2009
+Fault detection and isolation applied to a ship propulsion benchmark
+Y Zhang, NE Wu, B Jiang
+IFAC Proceedings Volumes 41 (2), 1908-1913
+4
+2008
+Performance of the first beam on Shenguang III technical Integration Line
+W Zheng, X Zhang, X Wei, F Jing, Z Sui, J Su, M Li, Z Peng, S He, B Chen, ...
+Journal de Physique IV (Proceedings) 133, 607-614
+4
+2006
+Association between Helicobacter pylori virulence and duodenal ulcer
+disease in patients from Hong Kong in China
+Y Yin, JZ Zhang, ZY Wang, HX Xia, ZX Lin
+Zhonghua liu xing bing xue za zhi= Zhonghua liuxingbingxue zazhi 24 (2), 123-126
+4
+2003
+The energy loss of 12C and 11B ions in seven elements
+H Bitao, W Ying, Z Xiaodong, C Ximen, L Zhaoyuan
+Nuclear Instruments and Methods in Physics Research Section B: Beam …
+4
+2000
+Detection, estimation, and accommodation of loss of control e! ectiveness
+NE Wu, Y Zhang, K Zhou
+Int. J. Adapt. Control Signal Process 14 (775), 795
+4
+2000
+Design and evaluation of a model-group switching algorithm for multiple-
+model estimation with variable structure
+XR Li, Y Zhang, X Zhi
+Signal and Data Processing of Small Targets 1997 3163, 388-400
+4
+1997
+On effectiveness of multi-electrode corona charging
+J Zheng, W Xie
+Proceedings of Eleventh Electrostatics Symposium in China
+4
+1994
+An adaptive fault-tolerant sliding mode control allocation scheme for
+multirotor helicopter subject to simultaneous actuator faults
+B Wang, Y Zhang
+IEEE Transactions on Industrial Electronics 65 (5), 4227-4236
+3
+2018
+Fault-tolerant cooperative control design of multiple wheeled mobile robots
+MA Kamel, X Yu, Y Zhang
+IEEE Transactions on Control Systems Technology 26 (2), 756-764
+3
+2018
+Fire detection using infrared images for UAV-based forest fire surveillance
+C Yuan, Z Liu, Y Zhang
+Unmanned Aircraft Systems (ICUAS), 2017 International Conference on, 567-572
+3
+2017
+Self-healing control design under actuator fault occurrence on single-rotor
+unmanned helicopters
+X Qi, J Qi, D Theilliol, D Song, Y Zhang, J Han
+Journal of Intelligent & Robotic Systems 84 (1-4), 21-35
+3
+2016
+Fault-tolerant cooperative control of multiple UAVs for forest fire detection
+and tracking mission
+KA Ghamry, Y Zhang
+Control and Fault-Tolerant Systems (SysTol), 2016 3rd Conference on, 133-138
+3
+2016
+
+-----
+TITLE
+CITED BY
+YEAR
+H 2 O Induced Hump Phenomenon in Capacitance–Voltage
+Measurements of a-IGZO Thin-Film Transistors
+Y Han, C Cui, J Yang, MY Tsai, TC Chang, Q Zhang
+IEEE Transactions on Device and Materials Reliability 16 (1), 20-24
+3
+2016
+Set‐membership estimation‐based adaptive reconfiguration scheme for
+linear systems with disturbances
+Y Guo, Y Zhang, B Jiang
+International Journal of Adaptive Control and Signal Processing 30 (2), 359-374
+3
+2016
+Self-healing control against actuator stuck failures under constraints:
+application to unmanned helicopters
+X Qi, D Theilliol, J Qi, Y Zhang, J Han
+Advanced and Intelligent Computations in Diagnosis and Control, 193-207
+3
+2016
+Sense and collision avoidance of unmanned aerial vehicles using
+geometric guidance and flatness approaches
+Y Fu, P Soupin, X Yu, Y Zhang, P Cole
+Unmanned Aircraft Systems (ICUAS), 2015 International Conference on, 601-606
+3
+2015
+Generalized formulation for trajectory optimization in patrolling problems
+W Ghadiry, J Habibi, AG Aghdam, Y Zhang
+Electrical and Computer Engineering (CCECE), 2015 IEEE 28th Canadian …
+3
+2015
+Fault‐tolerant controller design for a master generation unit in an isolated
+hybrid wind‐diesel power system
+A Vargas‐Martínez, LI Minchala‐Avila, Y Zhang, LE Garza‐Castañón, ...
+International Journal of Robust and Nonlinear Control 25 (5), 761-772
+3
+2015
+Linear parameter varying adaptive control of an unmanned surface vehicle
+ZX Liu, C Yuan, YM Zhang
+IFAC-PapersOnLine 48 (16), 140-145
+3
+2015
+Linear Parameter Varying control synthesis: State feedback versus H∞
+technique with application to quadrotor UA V
+I Sadeghzadeh, A Chamseddine, D Theilliol, Y Zhang
+Unmanned Aircraft Systems (ICUAS), 2014 International Conference on, 1099-1104
+3
+2014
+Model reference adaptive fault-tolerant control for a wind turbine against
+actuator faults
+H Badihi, Y Zhang, H Hong
+Control and Fault-Tolerant Systems (SysTol), 2013 Conference on, 498-503
+3
+2013
+Multiple model adaptive reconfiguration control of state delayed systems
+Y Guo, B Jiang, Y Zhang, ZW Zhu
+Proceedings of the Institution of Mechanical Engineers, Part I: Journal of …
+3
+2012
+Diagenetic Facies and High-quality Reservoir Study of Shanxi-2 Member in
+Jingbian Gas Field, Ordos Basin [J]
+X WU, J TANG, L RENG, J ZHANG, Q YU, Z LI, Z YANG, C FAN, G ZHANG, ...
+Natural Gas Geoscience 6, 005
+3
+2012
+Multi-model based adaptive reconfiguration control for flight control
+systems with actuator faults
+Y Guo, Y Zhang, P Shi, B Jiang, Z Zhu
+Control and Decision Conference (CCDC), 2011 Chinese, 1335-1340
+3
+2011
+
+-----
+TITLE
+CITED BY
+YEAR
+Unitary System–II: Application to H∞/H_ Optimization of Strictly-Proper
+Systems
+Z Zhao, WF Xie, H Hong, Y Zhang
+IFAC Proceedings Volumes 44 (1), 7731-7736
+3
+2011
+STABILIZATION OF OBSERVER-BASED ACTUATOR FAULT-TOLERANT
+CONTROL SYSTEMS WITH UNCERTAINTIES, ACTUATOR
+SATURATION AND DISTUR...
+J Fan, Z Zheng, Y Zhang
+sat 1, 2
+3
+2011
+Fault-tolerant control for output tracking systems subject to actuator
+saturation and constant disturbances: an LMI approach
+J Fan, Z Zheng, Y Zhang
+AIAA Guidance, Navigation, and Control Conference, 6411
+3
+2011
+Angular velocity-free control for rigid spacecraft attitude stabilization under
+input constraint
+B Xiao, Q Hu, Y Zhang
+IFAC Proceedings Volumes 44 (1), 8491-8496
+3
+2011
+Voronoi-based coverage control for multi-quadrotor UAVs
+F Sharifi, Y Zhang, BW Gordon
+ASME 2011 International Design Engineering Technical Conferences and …
+3
+2011
+Fault-tolerant localization for multi-UAV cooperative flight
+Y Qu, Y Zhang
+Mechatronics and Embedded Systems and Applications (MESA), 2010 IEEE/ASME …
+3
+2010
+Fault identification and reconfigurable control for bimodal piecewise affine
+systems
+N Nayebpanah, L Rodrigues, Y Zhang
+Control Conference (ECC), 2009 European, 2694-2699
+3
+2009
+An improved LMI approach for static output feedback fault-tolerant control
+with application to flight tracking control
+S Ye, Y Zhang, X Wang, Y Li
+Industrial Electronics and Applications, 2009. ICIEA 2009. 4th IEEE …
+3
+2009
+Actuator fault tolerant control system with re-configuring reference input
+design based on MPC
+D Theilliol, Y Zhang, JC Ponsart, C Aubrun
+23rd IAR Workshop on Advanced Control and Diagnosis, 275-280
+3
+2008
+Influence of fluidized bed and shaft kiln on coal consumption of smelting
+reduction
+JH Shao, HC Zhang, J Fang, Z AN
+J Iron Steel Res 20 (3), 5
+3
+2008
+Shielding failure simulation experiment on the lightning performance of
+Yunguang±800 kV UHVDC transmission lines
+Z DU, T SHANG, C ZHANG
+High Voltage Engineering 34 (10), 2090-2096
+3
+2008
+Large power matching load for high-current electronic accelerator
+J Liu, T Zhan, J Feng, YI Yin, J Zhang, N Zeng, X Wang
+High Power Laser and Particle Beams 19 (5), 825-829
+3
+2007
+
+-----
+TITLE
+CITED BY
+YEAR
+Effect of dialysis time in vivo on recovery of amino acids for micro-dialysis
+probe
+KP Zhang, HY Zhang, XX Zheng
+Zhejiang da xue xue bao. Yi xue ban= Journal of Zhejiang University. Medical …
+3
+2006
+Effects of carnitine acetyltransferase gene knockout on long chain
+dicarboxylic acid production and metabolism of Candida tropicalis
+H Gao, J Zhang, YT Hua, C Li, ZA Cao
+Wei sheng wu xue bao= Acta microbiologica Sinica 45 (1), 102-105
+3
+2005
+Fault diagnosis and reconfigurable control of a pressurizer in a nuclear
+power plant
+J Jiang, Y Zhang
+IFAC Proceedings Volumes 36 (5), 993-998
+3
+2003
+Surface EMG signal classification using wavelet transform
+L Cai, Z Wang, H Zhang
+Sheng wu yi xue gong cheng xue za zhi= Journal of biomedical engineering …
+3
+2000
+A New Fixed-Interval Smoothing Algorithm Based on Singular Value
+Decomposition [J]
+Y ZHANG, L JIAO, H CHEN, G DAI
+CONTROL THEORY & APPLICATIONS 4, 021
+3
+1997
+A method for fault detection and isolation using neural networks
+Q Zhang, Y Zhang
+Neural Networks, 1996., IEEE International Conference on 4, 2270-2275
+3
+1996
+A Survey for Systolic Implementation of Parallel Kalman Filtering [J]
+Y ZHANG, G DAI, H ZHANG
+Control Theory & Applications 1, 001
+3
+1993
+Structural determination of fatty acid components in the seeds oils of five
+species of Euphorbiaceae
+X Yu, H Wang, J Zhang, BAIN LIU, Q YU, ZHIH HUANG
+Zhiwu Xuebao 33, 199-205
+3
+1991
+Observer-Based Output Feedback Attitude Stabilization for Spacecraft
+With Finite-Time Convergence
+Q Hu, B Jiang, Y Zhang
+IEEE Transactions on Control Systems Technology
+2
+2017
+Adaptive Multivariable Integral TSMC of a Hypersonic Gliding Vehicle With
+Actuator Faults and Model Uncertainties
+P Li, X Yu, Y Zhang, X Peng
+IEEE/ASME Transactions on Mechatronics 22 (6), 2723-2735
+2
+2017
+Active fault-tolerant control of unmanned quadrotor helicopter using linear
+parameter varying technique
+Z Liu, C Yuan, Y Zhang
+Journal of Intelligent & Robotic Systems 88 (2-4), 415-436
+2
+2017
+Multiple UAVs in forest fire fighting mission using particle swarm
+optimization
+KA Ghamry, MA Kamel, Y Zhang
+Unmanned Aircraft Systems (ICUAS), 2017 International Conference on, 1404-1409
+2
+2017
+
+-----
+TITLE
+CITED BY
+YEAR
+Simultaneous versus joint computing: A case study of multi-vehicle parking
+motion planning
+B Li, Y Zhang, Z Shao, N Jia
+Journal of Computational Science 20, 30-40
+2
+2017
+Path planning algorithms for power transmission line inspection using
+unmanned aerial vehicles
+J Cui, Y Zhang, S Ma, Y Yi, J Xin, D Liu
+Control And Decision Conference (CCDC), 2017 29th Chinese, 2304-2309
+2
+2017
+Real-time optimal formation reconfiguration of multiple wheeled mobile
+robots based on particle swarm optimization
+MA Kamel, X Yu, Y Zhang
+Intelligent Control and Automation (WCICA), 2016 12th World Congress on, 703-708
+2
+2016
+Fault-tolerant control of a boeing 747-100/200 based on a laguerre
+function-based mpc scheme
+B Yu, Y Zhang
+IFAC-PapersOnLine 49 (17), 58-63
+2
+2016
+Optimization-based reliable control allocation design for over-actuated
+systems
+D Theilliol, P Weber, A Chamseddine, Y Zhang
+Unmanned Aircraft Systems (ICUAS), 2015 International Conference on, 1225-1230
+2
+2015
+A UAV solution of regional surveillance based on pheromones and artificial
+potential field theory
+Y Qu, Y Zhang, Y Zhang
+Unmanned Aircraft Systems (ICUAS), 2015 International Conference on, 380-385
+2
+2015
+Design of an advanced automatic inspection system for aircraft parts
+based on fluorescent penetrant inspection analysis
+J Zheng, WF Xie, M Viens, L Birglen, I Mantegh
+Insight-Non-Destructive Testing and Condition Monitoring 57 (1), 18-34
+2
+2015
+Factors affecting the progression from ocular to generalized myasthenia
+gravis
+Y Jing, X Zhang, L Yu, R Chen, N Qin, S Ma
+Chinese Journal of Neurology 47 (1), 21-25
+2
+2014
+Fault-tolerant control of a master generation unit in an islanded microgrid
+LI Minchala-Avila, A Vargas-Martínez, LE Garza-Castanón, ...
+IFAC Proceedings Volumes 47 (3), 5327-5332
+2
+2014
+Developments and challenges in wheeled mobile robot control
+MA Kamel, YM Zhang
+International Conference on Intelligent Unmanned Systems (ICIUS)
+2
+2014
+An Active Fault-Tolerant Control Approach to Wind Turbine Torque Load
+Control against Actuator Faults
+H Badihi, Y Zhang, H Hong
+32nd ASME Wind Energy Symposium, 0872
+2
+2014
+Adaptive fault-tolerant control design for UAVs formation flight under
+actuator faults
+Q Xu, H Yang, B Jiang, D Zhou, Y Zhang
+Unmanned Aircraft Systems (ICUAS), 2013 International Conference on, 1097-1105
+2
+2013
+
+-----
+TITLE
+CITED BY
+YEAR
+Coverage control in multi-vehicle systems subject to health degradation
+F Sharifi, Y Zhang, AG Aghdam
+Unmanned Aircraft Systems (ICUAS), 2013 International Conference on, 1119-1124
+2
+2013
+Model-based Control Approaches for Optimal Integration of a Hybrid Wind-
+diesel Power System in a Microgrid.
+LIM Avila, A Vargas-Martínez, Y Zhang, LE Garza-Castañón, ERC Ortiz, ...
+SMARTGREENS, 12-21
+2
+2013
+Experimental test of an interacting multiple model filtering algorithm for
+actuator fault detection and diagnosis of an unmanned quadrotor helicopter
+MH Amoozgar, A Chamseddine, YM Zhang
+International Conference on Intelligent Robotics and Applications, 473-482
+2
+2012
+Investigation, flight testing, and comparison of three nonlinear control
+techniques with application to a quadrotor unmanned aerial vehicle
+T Li, Y Zhang, B Gordon
+AIAA Guidance, Navigation, and Control Conference, 4916
+2
+2012
+Coverage control in multi-agent systems subject to communication delays
+F Sharifi, Y Zhang, H Mahboubi, AG Aghdam
+Mechatronics and Embedded Systems and Applications (MESA), 2012 IEEE/ASME …
+2
+2012
+Flatness-based trajectory planning to improve actuator fault-tolerance
+capability
+A Chamseddine, C Join, D Theilliol, D Sauter, Y Zhang
+Conférence Méditerranéenne sur l'Ingénierie Sûre des Systèmes Complexes …
+2
+2011
+Identification of genes differentially expressed by Metarhizium anisopliae
+growing on Locusta migratoria wings using suppression subtractive
+hybridization
+C Zhang, Y Xia, Z Li
+Current microbiology 62 (5), 1649-1655
+2
+2011
+Clinical Random Study of Effect of Jianpi Tianjing Fang Granule on Low-
+grade Cognitive Handicap Change to Dementia [J]
+Y HE, L DONG, R ZHANG, J LI, P ZHOU, X ZHANG, L BI, B HE, J ZHOU
+Chinese Archives of Traditional Chinese Medicine 12, 033
+2
+2008
+Analysis of element content in water in the high prevalence areas of
+Shanxi province
+Y He, K Zhang, J Wang, X Zheng, T Zhang
+Maternal and Child Health Care of China 23, 1246-1248
+2
+2008
+Induction of chemical hepatocarcinogenesis and establishment of
+orthotopic liver transplantation model with hepatocarcinoma in rats
+Y Ma, YP Hua, ZB Chen, JX Zhang
+Zhonghua yi xue za zhi 86 (12), 850-853
+2
+2006
+Thermodynamic Modeling and Numerical Simulation of Single-Shaft
+Microturbine Performance
+X Hao, G Zhang, J Zhou, Y Chen
+Energy Systems Laboratory (http://esl. tamu. edu)
+2
+2006
+Edge Detection Based on computer vision in geometrical measurement [J]
+H ZHANG, Y TAN, H LU
+Journal of Wuhan University of Science and Engineering 10, 004
+2
+2006
+
+-----
+TITLE
+CITED BY
+YEAR
+Electromyography study on complete bilateral cleft lip after reparation.
+PH Zheng, FC Wei, JW Zheng, DH Song, KH Zhang
+Shanghai kou qiang yi xue= Shanghai journal of stomatology 13 (5), 371-374
+2
+2004
+Nursing cooperation of three cases of human hand allograft [J]
+L TAN, J ZHANG, X LIAO, W KANG
+Nanfang Journal of Nursing 7
+2
+2004
+Transvaginal sonograpy of congenital mullerian duct anomalies
+H ZHANG, W LI, Y WU, Z SHE, H WANG, L CHEN, H LUO
+Chinese Journal of Medical Imaging Technology, S2
+2
+2004
+The Surgical Modality of Reflux Esophagitis Prophylaxis after Proximal
+Subto tal Gastrectomy for Cardiac Carcinoma [J]
+Y HUA, S HAN, J ZHANG
+Journal of Oncology 5, 014
+2
+2003
+Retrofit fault‐tolerant tracking control design of an unmanned quadrotor
+helicopter considering actuator dynamics
+Z Liu, C Yuan, X Yu, Y Zhang
+International Journal of Robust and Nonlinear Control
+2
+A novel robust attitude control for quadrotor aircraft subject to actuator
+faults and wind gusts
+Y Guo, B Jiang, Y Zhang
+IEEE/CAA Journal of Automatica Sinica 5 (1), 292-300
+1
+2018
+Network Intrusion Detection Based on Directed Acyclic Graph and Belief
+Rule Base
+BC Zhang, GY Hu, ZJ Zhou, YM Zhang, PL Qiao, LL Chang
+ETRI Journal 39 (4), 592-604
+1
+2017
+Fault-tolerant cooperative control for multiple UAVs based on sliding mode
+techniques
+P Li, X Yu, X Peng, Z Zheng, Y Zhang
+Science China Information Sciences 60 (7), 070204
+1
+2017
+Distributed fault-tolerant containment control for multi-UAVs with actuator
+and sensor faults
+Z Yu, Y Zhang, Y Qu, Y Zhang
+Unmanned Aircraft Systems (ICUAS), 2017 International Conference on, 753-758
+1
+2017
+Fault diagnosis of an unmanned quadrotor helicopter based on particle
+filter
+Y Yi, Y Zhang
+Unmanned Aircraft Systems (ICUAS), 2017 International Conference on, 1432-1437
+1
+2017
+Experimental test of unmanned ground vehicle delivering goods using RRT
+path planning algorithm
+Y Dong, Y Zhang, J Ai
+Unmanned Systems 5 (01), 45-57
+1
+2017
+Model-free active fault-tolerant cooperative control in an offshore wind farm
+H Badihi, Y Zhang, H Hong
+Control and Fault-Tolerant Systems (SysTol), 2016 3rd Conference on, 269-274
+1
+2016
+
+-----
+TITLE
+CITED BY
+YEAR
+Wind estimation using the position information from a hovering quadrotor
+Y Qu, Z Xing, Y Zhang
+Guidance, Navigation and Control Conference (CGNCC), 2016 IEEE Chinese, 1345 …
+1
+2016
+Linear parameter varying control of unmanned quadrotor helicopter with
+mass variation and battery drainage
+Z Liu, C Yuan, Y Zhang
+Guidance, Navigation and Control Conference (CGNCC), 2016 IEEE Chinese, 1864 …
+1
+2016
+Full-altitude attitude angles envelope and model predictive control-based
+attitude angles protection for civil aircraft
+Y Dong, Y Zhang, J Ai
+Aerospace Science and Technology 55, 292-306
+1
+2016
+Nonlinear tracking control methods applied to Qball-X4 quadrotor UAV
+against actuator faults
+H Wang, Y Zhang, Y Yi, J Xin, D Liu
+Control and Decision Conference (CCDC), 2016 Chinese, 3478-3483
+1
+2016
+Trajectory Planning for Terminal Area Energy Management Phase of
+Reusable Launch Vehicles
+L Mu, X Yu, Y Zhang, P Li, X Wang
+IFAC-PapersOnLine 49 (17), 462-467
+1
+2016
+Experimental test of artificial potential field-based automobiles automated
+perpendicular parking
+Y Dong, Y Zhang, J Ai
+International Journal of Vehicular Technology 2016
+1
+2016
+Wind field on-line extraction based on small-window sliding Fourier
+transform
+L Yu, Y Qu, Y Zhang
+Information and Automation, 2015 IEEE International Conference on, 2287-2292
+1
+2015
+A Study of Regional Brand Positioning Strategy for Linhai Orange Based
+on Soft Laddering
+Y Tao, Y Zhang
+Asian Agricultural Research 7 (6), 41
+1
+2015
+Auomatic Load Alleviation Simulation During Boom Refueling for UAV
+Y Qu, Z Yu, Y Zhang
+ICIUS
+1
+2015
+Fault Detection and Diagnosis for NASA GTMUAV with Dual Unscented
+Kalman Filter
+YM Zhang
+Handbook of Unmanned Aerial Vehicles, 1157-1181
+1
+2015
+Calibration of initial cable forces in cable-stayed bridge based on Kriging
+approach
+J Zhang, FTK Au
+Finite Elements in Analysis and Design 92, 80-92
+1
+2014
+Research on hot-press splicing technology for composite prepreg tape
+Y Shi, T Yu, Y Zhang, X He, C Kang
+Innovative Design and Manufacturing (ICIDM), Proceedings of the 2014 …
+1
+2014
+
+-----
+TITLE
+CITED BY
+YEAR
+Fault-Tolerant Control of a Class of Switched Time-Delay Systems with
+Average Dwelling Time Method
+Y Jin, J Fu, Y Zhang, Y Jing, X Qian, T Ren
+IFAC Proceedings Volumes 47 (3), 11673-11678
+1
+2014
+Design of a pole placement active power control system for supporting grid
+frequency regulation and fault tolerance in wind farms
+H Badihi, Y Zhang, H Hong
+IFAC Proceedings Volumes 47 (3), 4328-4333
+1
+2014
+Identification of low order equivalent transfer function model of Trex-700E
+helicopter from flight test data
+MH Mohajerani, H Bolandhemmat, Y Zhang, HW Loewen
+AIAA Modeling and Simulation Technologies Conference, 1344
+1
+2014
+Distributed coordination of a network of nonidentical agents with limited
+communication capabilities in the presence of fixed obstacles
+H Mahboubi, F Sharifi, AG Aghdam, Y Zhang
+American Control Conference (ACC), 2013, 5398-5403
+1
+2013
+Adaptive fault compensation for aircraft flight systems with actuator faults
+Y Guo, Y Zhang, B Jiang
+Control and Decision Conference (CCDC), 2013 25th Chinese, 4921-4926
+1
+2013
+Design of advanced automatic inspection system for turbine blade FPI
+analysis
+J Zheng, WF Xie, M Viens, L Birglen, I Mantegh
+AIP Conference Proceedings 1511 (1), 612-619
+1
+2013
+A Whole Rate-Distortion Optimize Pronounce Based on Wireless Sensor
+Network
+QS Yu, J Zhang, JX Peng
+Advanced Materials Research 756, 890-894
+1
+2013
+A coverage strategy with guaranteed collision avoidance in multi-agent
+systems using navigation functions
+F Sharifi, H Mahboubi, AG Aghdam, Y Zhang
+AIAA Guidance, Navigation, and Control (GNC) Conference, 5109
+1
+2013
+Reliability analysis of fault tolerant wind energy conversion system with
+doubly fed induction generator
+P Weber, F Becker, A Mathias, D Theilliol, YM Zhang
+International Conference on Intelligent Robotics and Applications, 483-492
+1
+2012
+Fault-tolerant control of a class of switched nonlinear systems with
+application to flight control
+Y Jin, J Fu, YM Zhang, Y Jing
+International Conference on Intelligent Robotics and Applications, 453-462
+1
+2012
+Multiple-model-based adaptive reconfiguration control of state delayed
+systems with actuator faults
+Y Guo, Y Zhang, B Jiang, Z Zhu
+Mechatronics and Automation (ICMA), 2012 International Conference on, 397-402
+1
+2012
+
+-----
+TITLE
+CITED BY
+YEAR
+State-feedback stabilization of linear systems subject to time-varying input
+delays, actuator saturation, and bounded disturbances
+J Fan, Y Zhang, Z Zheng
+American Control Conference (ACC), 2012, 5454-5459
+1
+2012
+1051 MiR-133a Inhibits Colorectal Cancer Cell Growth by Direct Targeting
+E3 Ubiquitin Ligase RFFL and Activating p53-p21CIP1/WAF1 Pathway
+YJ Dong, CW Wu, XQ He, N Zhang, JJ Sung, S Ng, J Yu
+Gastroenterology 142 (5), S-185
+1
+2012
+Tolerance of intermittent controller faults via hybrid system approach1
+H Yang, B Jiang, V Cocquempot, Y Zhang, H Gong
+IFAC Proceedings Volumes 45 (20), 836-841
+1
+2012
+Measurement of Ferrite Content in Cr-Ni Austenitic Stainless Steel Weld
+Metals [J]
+D DONG, K ZHANG, L LI, Q ZHOU, X HU
+Physical Testing and Chemical Analysis (Part A: Physical Testing) 1, 010
+1
+2012
+The Growth Advantage of the Pectoral Fin Cells of Anguilla Anguilla Under
+Different Culture Conditions [J]
+N MAO, Z ZHENG, T LIN
+Fujian Journal of Agricultural Sciences 3, 004
+1
+2012
+Fault Diagnosis, Fault-tolerant and Cooperative Control for Unmanned
+Systems
+Y Zhang, A Chamseddine, CA Rabbath, BW Gordon, CY Su, C Fulford, ...
+IFAC Proceedings Volumes 45 (20), 564-569
+1
+2012
+Discussion on quantitative analysis method of components in a lime
+composite desulfurizer [J]
+K Zhang, LX Li, DC Dong, CY Zhu, XJ Hu
+Metallurgical Analysis 11, 006
+1
+2011
+Analysis on characteristics of a varicella outbreak with high immunity level
+XY Geng, QY Yu, Z Li, J Zhang
+Chin J Public Health Manag 27 (4), 395-6
+1
+2011
+Effect of chitosan deacetylation degree on surface properties and
+fibrinogen adsorption of alginate/chitosan microcapsules
+H Xie, X Li, W Yu, J Zheng, F Wang, W Xie, X Ma
+Acta Materiae Compositae Sinica 2, 020
+1
+2011
+Comparison of Parallel and Single Neural Networks in Heart Arrhythmia
+Detection by Using ECG Signal Analysis
+ESH Rooteh, Y Zhang, Z Tian
+Annual Confrence of the Prognostics and Health Management Society
+1
+2011
+Modeling and Controlling of PEMFC Water Mass [J]
+P ZHANG, Q YAN, D YU
+Journal of System Simulation 8, 053
+1
+2010
+Treatment of ureter superior segment calculus by combining holmium laser
+intracavitary therapy with extracorporeal shock-wave lithotripsy [J]
+X ZHANG, J GUO, A MING, H LENG, Y WU, Y LIU, K ZHANG, C YAN
+China Journal of Endoscopy 12, 019
+1
+2010
+
+-----
+TITLE
+CITED BY
+YEAR
+Fault tolerant decentralized receding horizon control for cooperative
+multiple vehicle systems
+HA Izadi, BW Gordon, Y Zhang
+Control Conference (ECC), 2009 European, 3002-3007
+1
+2009
+Purification and analysis of soft-shell turtle iridovirus
+C ZHU, H LIU, J YANG, X LIU, Z ZHENG, T LIN
+Fujian Journal of Agricultural Sciences 2, 007
+1
+2009
+Analysis of multi-transformer economic operation under parallel [J]
+Y TAN, S ZHANG
+Heilongjiang Electric Power 4, 006
+1
+2009
+An in vitro model applicable for fatty liver lipotoxicity pharmacological
+research
+YY Hu, H Zhang, SD Chen, Q Feng, X Lu, YZ Tan
+Zhonghua gan zang bing za zhi= Zhonghua ganzangbing zazhi= Chinese journal …
+1
+2008
+Analysis on misdiagnosis of corneal endotheliitis in 17 patients [J]
+X ZHANG, W MIAO
+Jilin Medical Journal 11, 016
+1
+2008
+Study of efficient Markov chains for identifying geotechnical model
+uncertainty
+J Zhang, WH Tang, LM Zhang, LF Chu
+Proc. the 4th Asian-Pacific Symposium on Structural Reliability and Its …
+1
+2008
+Analysis on the effect of secondary mutations on Leber's hereditary optic
+neuropathy
+Y Wang, Y Tong, SX Hu, JY Wang, JB Shao, HX Zhang
+Zhonghua yi xue yi chuan xue za zhi= Zhonghua yixue yichuanxue zazhi …
+1
+2007
+Meta-analysis of anti-cold medicines and analysis of rational use
+JF Zhang, GR Liao, QL Yu
+China Pharmacy 18 (17), 1356-1360
+1
+2007
+The rate of hepatitis B virus resistance to adefovir dipivoxil (ADV) and the
+evolution of hepatitis B virus in lamivudine-resistant chronic hepatitis B
+patients with ADV m...
+YL Qin, JM Zhang, YX Huang, RC Mao, YK Yin, WQ Zhang, QB Zhang, ...
+Zhonghua gan zang bing za zhi= Zhonghua ganzangbing zazhi= Chinese journal …
+1
+2007
+Phase-sisentive Protection for Low-voltage Motor and Realized by Single-
+chip Microcomputer [J]
+Y ZHAN, C ZHANG
+Journal of Luohe Vocational Technology College 4, 089
+1
+2007
+VTK-based free multi-planar reformation
+J Shuai, YQ Tan, JY Sun, YQ Hua, JG Zhang
+Zhongguo yi liao qi xie za zhi= Chinese journal of medical instrumentation …
+1
+2007
+Effects of target thickness on emission direction of hot electrons generated
+from subrelativistic intensity laser pulses interacting with foil targets
+ZY Zheng, YT Li, XH Yuan, MH Xu, WX Liang, QZ Yu, Y Zhang, ZH Wang, ...
+1
+2006
+
+-----
+TITLE
+CITED BY
+YEAR
+One case of parotid gland fistula caused by the external auditory canal
+cholesteatoma
+Z Pei, XB Zhang, HS Deng, J Lu
+Zhonghua er bi yan hou tou jing wai ke za zhi= Chinese journal of …
+1
+2006
+Cardiac echinococcosis.
+H Ren, H Zhang, CJ Zhang, ZZ Du
+Chinese medical sciences journal= Chung-kuo i hsueh k'o hsueh tsa chih 20 (4 …
+1
+2005
+Effect of intermediate rolling on the microstructure and Je performance of
+Ag-sheathed Bi-2223 tapes
+HP Yi, L Liu, XH Song, W Kang, JS Zhang, Q Liu, Z Han, K Zheng
+Physica C: Superconductivity and its applications 419 (3-4), 109-114
+1
+2005
+Arc-length Equation of the Middle Spiral Curve in Highway Surveying:
+Theory and Effect
+K ZHANG, R ZHANG, Z YU
+Bulletin of Surveying and Mapping 6, 011
+1
+2005
+Preliminary analysis on the proteomic feature of Guillain-Barré syndrome-
+associated Campylobacter jejuni
+XY Tian, JZ Zhang, CY Li, LH He, RC Liu, Y Yin, QH Zou, Z Zhao
+Zhonghua liu xing bing xue za zhi= Zhonghua liuxingbingxue zazhi 25 (3), 240-244
+1
+2004
+Parallel driving to plasma electrode Pockels cells
+X Zhang, G Feng, K Zheng
+CHINESE JOURNAL OF LASERS 31 (10), 1173-1176
+1
+2004
+Synthesis of 1-difluorobenzene-4-acylpiperzines derivatives
+X Liao, C Rong, X Wu, J Zhang, Y Yu, Y Zhao
+CHEMICAL RESEARCH AND APPLICATION 16 (4), 498-500
+1
+2004
+Analysis of complications by transurethral resection of the prostate and
+nursing countermeasues [J]
+X LI, L TAN, J ZHANG
+Nanfang Journal of Nursing 6
+1
+2004
+Sequence diversity analysis of CagA gene and corresponding protein in
+Helicobacter pylori
+J Zhou, X Zeng, Y Yin, X Guo, JZ Zhang
+WORLD CHINESE JOURNAL OF DIGESTOLOGY 12 (6), 1307-1312
+1
+2004
+A Study of Preparations and Properties of CdS Films for Solar Cells
+B Li, W Cai, L Feng, Y Cai, J Zheng, J Zhang, W Li, L Wu
+Optoelectronic Technology 24, 84-88
+1
+2004
+Preparation and photocatalytic behavior of TiO 2 coatings on glass.
+KS Guan, HR Bai, YS Yin, JS Zhang
+Materials for Mechanical Engineering(China) 27 (2), 34-36
+1
+2003
+Jaffeson and Robespierre: On Freedom of Press
+K ZHANG, K CHENG
+Wuhan University Journal (Philolphy & Social Science Edition) 3, 016
+1
+2002
+Molecular Biological Traits of Porcine epidemic diarrhea virus
+Q Zhang, F Guo, Y Yin
+VIROLOGICA SINICA 17 (4), 381-384
+1
+2002
+
+-----
+TITLE
+CITED BY
+YEAR
+The application of F~ n index method in fracture distribution pattern of
+complex structure
+L Zou, X Shen, H Zhang, D Fang
+JOURNAL-ZHEJIANG UNIVERSITY-SCIENCES EDITION- 28 (1), 112-118
+1
+2001
+Field Test and Study of Bucket Foundation Suction Pentration and Its
+Application
+S Zhang, X Chu
+JOURNAL OF OCEANOGRAPHY OF HUANGHAI AND BOHAI SEAS 18 (4), 51-55
+1
+2000
+Inhibitory Effect of Gomisin J on the Oxidative Modification of Low Density
+Lipoprotein
+X Zhang, D Chen, Z Gu
+JOURNAL-SHANGHAI MEDICAL UNIVERSITY 26, 258-260
+1
+1999
+Microvascular decompression of pons for idiopathic hemifacial spasm and
+exploration of its mechanism
+K Zhang
+Zhonghua er bi yan hou ke za zhi 33 (6), 344-346
+1
+1998
+Comprehensive utilization of tannin from Ephedra
+XF Zhang, BL Hu
+CHINESE JOURNAL OF PHARMACEUTICALS 28, 13-13
+1
+1997
+Model-group switching algorithm for multiple-model estimation with
+variable structure
+X Li, X Zhi, Y Zhang, X Li, X Zhi, Y Zhang
+Guidance, Navigation, and Control Conference, 3453
+1
+1997
+Influence of 6, 7-dimethoxycoumarin on toxicity and pharmacodynamics of
+cyclophosphamide
+YD Wan, ZY Zheng, JZ Huang, OZ Zang, JH Xu
+Zhongguo yao li xue bao= Acta pharmacologica Sinica 11 (1), 79-85
+1
+1990
+A New Extractant of Gold--(2-Ethylhexyl)-Ethylether
+W Zhang, J Zhao, L Zhou
+Guijinshu(Precious Metals) 9 (3), 9-14
+1
+1988
+Predictive Control of a Closed Grinding Circuit System in Cement Industry
+LI Minchala, Y Zhang, L Garza-Castañón
+IEEE Transactions on Industrial Electronics 65 (5), 4070-4079
+2018
+SYSTEMS (ICuAS 2018)
+ZP Jian, Y Zhang, F Quagliotti, D Zoldi, TA Johansen, J Stoustrup, ...
+2018
+Fault-Tolerant Containment Control of Multiple Unmanned Aerial Vehicles
+Based on Distributed Sliding-Mode Observer
+Z Yu, Y Qu, Y Zhang
+Journal of Intelligent & Robotic Systems, 1-15
+2018
+Prediction of Water Inrush Areas Under an Unconsolidated, Confined
+Aquifer: The Application of Multi-information Superposition Based on GIS
+and AHP in the Qido...
+L Chen, X Feng, D Xu, W Zeng, Z Zheng
+Mine Water and the Environment, 1-10
+2018
+
+-----
+TITLE
+CITED BY
+YEAR
+Collision-Free Trajectory Generation and Tracking for UAVs Using Markov
+Decision Process in a Cluttered Environment
+X Yu, X Zhou, Y Zhang
+Journal of Intelligent & Robotic Systems, 1-16
+2018
+Robust adaptive multivariable bi-limit homogeneous higher-order sliding
+mode flight control for AHVs with actuator faults
+P Li, X Yu, Y Zhang
+Advanced Mechatronic Systems (ICAMechS), 2017 International Conference on …
+2017
+Tire-road friction coefficient estimation based on longitudinal
+measurements
+J Hu, S Rakheja, Y Zhang
+Advanced Mechatronic Systems (ICAMechS), 2017 International Conference on …
+2017
+Special Issue on Unmanned Aircraft Systems
+KP Valavanis, YQ Chen, F Quagliotti, D Theilliol, A Tsourdos, Y Zhang
+JOURNAL OF INTELLIGENT & ROBOTIC SYSTEMS 88 (2-4), 217-217
+2017
+Adaptive Sliding Mode Fault-Tolerant Control for an Unmanned Aerial
+Vehicle
+B Wang, Y Zhang
+Unmanned Systems 5 (04), 209-221
+2017
+Non-prespecified Starting Depot Formulations for Minimum-Distance
+Trajectory Optimization in Patrolling Problem
+W Ghadiry, J Habibi, AG Aghdam, Y Zhang
+Journal of Intelligent & Robotic Systems 87 (3-4), 699-710
+2017
+Sensor Fault Diagnosis for Unmanned Quadrotor Helicopter via Adaptive
+Two-Stage Extended Kalman Filter
+Y Zhong, W Zhang, Y Zhang
+Sensing, Diagnostics, Prognostics, and Control (SDPC), 2017 International …
+2017
+Distributed Adaptive Fault-Tolerant Cooperative Control for Multi-UAVs
+Against Actuator and Sensor Faults
+Z Yu, Y Qu, Y Zhang, Y Zhang
+ASME 2017 International Design Engineering Technical Conferences and …
+2017
+Adaptive Fractional-Order Fault-Tolerant Tracking Control for UAV Based
+on High-Gain Observer
+Z Yu, Y Zhang, Y Qu, Z Xing
+ASME 2017 International Design Engineering Technical Conferences and …
+2017
+Adaptive robust control of quadrotor helicopter towards payload
+transportation applications
+B Wang, L Mu, Y Zhang
+Control Conference (CCC), 2017 36th Chinese, 4774-4779
+2017
+Fault-tolerant control design against actuator faults with application to UAV
+formation flight
+X Yu, P Li, Y Zhang
+Control Conference (CCC), 2017 36th Chinese, 7167-7171
+2017
+
+-----
+TITLE
+CITED BY
+YEAR
+Distributed path planning for controlling a fleet of UAVs: application to a
+team of quadrotors
+A Belkadi, H Abaunza, L Ciarletta, P Castillo, D Theilliol
+IFAC-PapersOnLine 50 (1), 15983-15989
+2017
+Fault-tolerant adaptive control allocation for unmanned multirotor helicopter
+B Wang, Y Zhang, JC Ponsart, D Theilliol
+IFAC-PapersOnLine 50 (1), 5269-5274
+2017
+Fuzzy adaptive fault-tolerant control for quadrotor helicopter
+B Wang, Y Zhang
+Unmanned Aircraft Systems (ICUAS), 2017 International Conference on, 945-950
+2017
+Real-time wind vector estimation for a micro UAV
+Y Qu, Z Xing, Y Zhang, Z Yu
+Unmanned Aircraft Systems (ICUAS), 2017 International Conference on, 1716-1721
+2017
+Adaptive robust tracking control of quadrotor helicopter with parametric
+uncertainty and external disturbance
+B Wang, L Mu, Y Zhang
+Unmanned Aircraft Systems (ICUAS), 2017 International Conference on, 402-407
+2017
+Collision-free trajectory generation for UAVs using Markov decision
+process
+X Yu, X Zhou, Y Zhang
+Unmanned Aircraft Systems (ICUAS), 2017 International Conference on, 56-61
+2017
+Path following control of unmanned quadrotor helicopter with obstacle
+avoidance capability
+Z Liu, L Ciarletta, C Yuan, Y Zhang, D Theilliol
+Unmanned Aircraft Systems (ICUAS), 2017 International Conference on, 304-309
+2017
+On the performance of improved extended state observer based control for
+uncertain systems with measurement noises
+Y Guo, Y Zhang
+Control And Decision Conference (CCDC), 2017 29th Chinese, 7072-7077
+2017
+Robust adaptive dynamic surface control for receiver UAV during boom
+refueling in the presence of vortex
+Z Yu, Y Qu, Y Zhang
+Control And Decision Conference (CCDC), 2017 29th Chinese, 1798-1803
+2017
+Fault detection based on belief rule base with online updating attribute
+weight
+Z Zhou, Z Feng, C Hu, F Zhao, Y Zhang, G Hu
+Automation (YAC), 2017 32nd Youth Academic Annual Conference of Chinese …
+2017
+Comparison of a novel un-baffled and a conventional shell-and-tube dry-
+expansion evaporator
+YD Yin, DS Zhu, JF Sun, XZ Li, JN Zhang, CD Lin
+Applied Thermal Engineering 113, 1137-1145
+2017
+A Global Path Planning Algorithm for Fixed-wing UAVs
+Y Qu, Y Zhang, Y Zhang
+Journal of Intelligent & Robotic Systems, 1-17
+2017
+
+-----
+TITLE
+CITED BY
+YEAR
+Design of an Energy Management System for Secure Integration of
+Renewable Energy Sources into Microgrids
+LI Minchala, Y Zhang, O Probst
+Development and Integration of Microgrids
+2017
+Special Issue: Unmanned Aircraft Systems
+YQ Chen, F Quagliotti, Y Zhang, K Valavanis
+Journal of Intelligent & Robotic Systems 84 (1-4), 3
+2016
+Fault-tolerant cooperative control of WMRs under actuator faults based on
+particle swarm optimization
+MA Kamel, X Yu, Y Zhang
+Control and Fault-Tolerant Systems (SysTol), 2016 3rd Conference on, 21-26
+2016
+An algorithm of online wind field estimation for small fixed-wing UAVs
+Y Qu, J Duan, Y Zhang
+Control Conference (CCC), 2016 35th Chinese, 10645-10650
+2016
+Belt grinding process with force control system for blade of aero-engine
+J Duan, Y Zhang, Y Shi
+Proceedings of the Institution of Mechanical Engineers, Part B: Journal of …
+2016
+On these pages, we feature a selection of the excellent work that has
+recently been published in our sister journals. If you are reading these
+pages on
+T van Leeuwen, J Gan, JCM Kistemaker, SF Pizzolato, MC Chang, ...
+Angew. Chem. Int. Ed 55, 6128-6131
+2016
+Active fault tolerant control of an unmanned surface vehicle
+Z Liu, Y Zhang, C Yuan
+Control, Automation and Systems (ICCAS), 2015 15th International Conference …
+2015
+Application of Model Predictive Control to Position and Height Limitation of
+a Quadrotor Unmanned Aerial Vehicle
+Y Dong, Z Liu, B Yu, Y Zhang
+ASME 2015 International Design Engineering Technical Conferences and …
+2015
+Active Disturbance Compensating Tracking Control of an Unmanned
+Quadrotor Helicopter
+Z Liu, X Yu, C Yuan, Y Zhang, J Luo
+ASME 2015 International Design Engineering Technical Conferences and …
+2015
+Optimization-based reliable control allocation/reallocation design for over-
+actuated systems
+D Theilliol, P Weber, A Chamseddine, Y Zhang
+IEEE International Conference on Unmanned Aircratf Systems, ICUAS 2015
+2015
+Data-Driven Model-Based Fault Diagnosis in a Wind Turbine With Actuator
+Faults
+H Badihi, JS Rad, Y Zhang, H Hong
+ASME 2014 International Mechanical Engineering Congress and Exposition …
+2014
+Fault-Tolerant Control of a Master Generation Unit in an Islanded Microgrid
+LI Minchala, A Vargas, L Garza-CastaÃ±Ã³n, R Morales-Menendez, ...
+World Congress 19 (1), 5327-5332
+2014
+
+-----
+TITLE
+CITED BY
+YEAR
+Passive fault-tolerant flight controller design against actuator outages
+X Yu, Y Zhang
+Guidance, Navigation and Control Conference (CGNCC), 2014 IEEE Chinese, 1276 …
+2014
+Dephosphorylation of NSSR1 regulates alternative splicing of the GluR-B
+minigene
+W Zhang, LL Li, XH Chen, ZY Peng
+Genetics and Molecular Research 13 (1), 1753-1763
+2014
+Hybrid adaptive fault-tolerant control algorithms for voltage and frequency
+regulation of an islanded microgrid: FAULT-TOLERANT CONTROL OF AN
+ISLANDED MI...
+A Vargas-Martínez, I Minchala, Y Zhang, LE Garza-Castañón
+2014
+Forest Fire Monitoring and Detection using a Network of Autonomous
+Vehicles
+F Sharifi, Y Zhang, AG Aghdam
+Proceedings of International Conference on Intelligent Unmanned Systems 10
+2014
+Automatic Vision-Based Forest Fire Detection Technologies for Unmanned
+Aerial Vehicles
+C Yuan, Y Zhang, Z Liu
+Proceedings of International Conference on Intelligent Unmanned Systems 10
+2014
+Fault-Tolerant Control design for a large off-shore wind turbine using Fuzzy
+Gain-Scheduling and Signal Correction
+H Badihi, Y Zhang, H Hong
+American Control Conference (ACC), 2013, 1448-1453
+2013
+Effect of~(60) Co-γ irradiation sterilization on the stability of
+alginate/chitosan microcapsules
+J ZHENG, H XIE, W YU, X LIU, W XIE, X MA
+Journal of Functional Materials 5, 010
+2013
+Mechanism of Cracks in Steel Plate-concrete Composite Shear Wall and
+Control Measures
+K Zhang, K Sun, Z Liu, J Zhou
+Shigong Jishu/Construction Technology 42 (1)
+2013
+Image Processing and Classification Applications in Aerospace NDT and
+Honey Bee Health Monitoring
+J Zheng
+Concordia University
+2012
+Comparative study of the earthing systems for micro-grid
+WH Lu, W Yao, J Luo, Z Cheng, JZ Cheng, PH Zhang, SS Li, SR Wang
+Power System Protection and Control 40 (19), 103-108
+2012
+Isolation and sequence analysis on virus of HFMD with encephalitis in
+Yantal city
+WQ Han, LF Gong, J Liu, P Zhang, Q Gao, Y Sun, LQ Lv, H Memg
+Zhonghua shi yan he lin chuang bing du xue za zhi= Zhonghua shiyan he …
+2012
+Retrieval System of Library Based on Ontology [J]
+P ZHANG, J LUO, Z CHENG, L WU
+Journal of Guangxi University for Nationalities (Natural Science Edition) 2, 013
+2012
+
+-----
+TITLE
+CITED BY
+YEAR
+Growth Factors, bFGF and IFG-1, in Pectoral Fin Passage Cells of
+Anguilla anguilla
+N MAO, Z ZHENG, S CHEN
+Fujian Journal of Agricultural Sciences 6, 005
+2012
+ENGR691X PROJECT PRESENTATION
+Y ZHANG
+2011
+Influence of mechanical bending and temperature on the threshold voltage
+instability of a-Si: H thin-film transistors under electrical stress
+SW Taso, TC Chang, MC Wang, SC Chen, J Lu, CF Weng, YF Wei, ...
+Solid-State Electronics 63 (1), 55-59
+2011
+Uncertainty Evaluation on Rockwell Hardness Results of X70 Pipeline
+Steel
+K ZHANG, D DONG
+Physical Testing and Chemical Analysis (Part A: Physical Testing) 9, 012
+2011
+Multiferroic double-perovskite Bi₂FeMnO₆ hollow particles
+Y Du, ZX Cheng, HY Zhao, H Kimura, P Zhang, ZP Guo, XL Wang
+Current applied physics
+2011
+Engineering functional chitosan for delivery of drugs or RNAs
+X Liu, Y Yang, H Zhou, W Yu, J Zheng, D Zhang, X Ma
+Drug Discovery Today 15 (23-24), 1084-1085
+2010
+Fault-Tolerant Flight Control System Design by a Dual-Loop Control
+Strategy
+M Mehrtash, WF Xie, Y Zhang
+48th AIAA Aerospace Sciences Meeting Including the New Horizons Forum and …
+2010
+Adaptive retrofit fault-tolerant flight controller design
+X Yu, Z Zheng, Y Zhang, X Lu
+Control Conference (ECC), 2009 European, 1662-1667
+2009
+Microstructure analysis of silver relics from Tang Dynasty Chen Yuan-tong
+couple’s tomb in Fujian
+J Ma, K Zhang, B Cheng, D Dong
+Sciences of Conservation and Archaeology 21 (3), 59-66
+2009
+The investigation for the neuropeptides of nasal septum in perennial
+allergic rhinitis patient
+Q Zhu, S Zhang, J Wu, H Tang
+Lin chuang er bi yan hou tou jing wai ke za zhi= Journal of clinical …
+2009
+The study about accelerated corrosion of the corn straw
+Q LI, P ZHANG, L YU, F SHI, Z CHENG
+Journal of Shandong University of Technology (Natural Science Edition) 1, 004
+2009
+Output Feedback Synthesis of Mixed H2/H∞ Fault-Tolerant Control
+S Ye, Y Zhang, X Wang, D Theilliol
+IFAC Proceedings Volumes 42 (8), 1055-1060
+2009
+Design of actuator reconfigurable control allocation versus reliability
+analysis
+D Theilliol, A Chamseddine, Y Zhang, P Weber
+23rd IAR Workshop on Advanced Control and Diagnosis, 327-332
+2008
+
+-----
+TITLE
+CITED BY
+YEAR
+Low-contrast small target image enhancement based on rough set theory
+[6833-63]
+Y Yong, B Wang, W Zhang, Z Peng
+PROCEEDINGS-SPIE THE INTERNATIONAL SOCIETY FOR OPTICAL ENGINEERING
+6833 (2 …
+2008
+From BCS to Hts and Rts
+CW Chu
+Proceedings Of The Conference In Honor Of CN Yang's 85th Birthday …
+2008
+Design and Implementation of Shooting Range WebGIS on ArcIMS
+Y MA, Y HUA, J ZHANG
+Journal of Geomatics Science and Technology 2, 019
+2008
+Research progress in computer-aided diagnosis of multidimensional
+medical images
+J Shuai, YQ Hua, JG Zhang
+Zhongguo yi liao qi xie za zhi= Chinese journal of medical instrumentation …
+2008
+Robust fault-tolerant tracking control with application to flight control
+systems with uncertainties
+S Ye, Y Zhang, Y Li, X Wang, R Camille-Alain
+Proceedings of the Tenth IASTED International Conference 622, 101
+2008
+Effects of ethyl acetate extract of Semen Hoveniae on liver microsomal
+cytochrome P450 isoenzyme in rat
+H Zhang, J Song, XA Zhan, Y Tan
+Zhongguo Zhong yao za zhi= Zhongguo zhongyao zazhi= China journal of Chinese …
+2007
+Integrated Protection Device for Low-voltage Motor Based on Single Chip
+C ZHANG, Y ZHAN, X XU
+Modern Electronics Technique 14, 012
+2007
+Inhibition of hepatitis B virus expression and replication by RNA
+interference
+XY Wang, JM Zhang, YK Yin, Y Xie, YX Huang, XH Wu, XH Weng
+WORLD CHINESE JOURNAL OF DIGESTOLOGY 15 (15), 1688
+2007
+Arterial Saccular Aneurysm Induction by Reducing the Pressure on the
+outer Wall of the Artery: A New Animal Model
+K Zhang, W Zhao, Z Liu
+World Congress on Medical Physics and Biomedical Engineering 2006, 3408-3410
+2007
+Expressing of the translationally controlled tumor protein gene of
+Plasmodium falciparum strain hainan in E. coli M15
+Z Fu, Z Chen, J Zhang, Y Hua, Y Cheng
+ACTA PARASITOLOGICA ET MEDICA ENTOMOLOGICA SINICA 14 (2), 67
+2007
+VISUALIZATION AND COMPUTER GRAPHICS
+H Li, W Chen, IF Shen, J Zheng, Y Cai, J Seo, B Shneiderman, ...
+2006
+In-service training of librarians under the network environment [in Chinese]
+X Zhang, J Zhou
+School of Communication & Information, Nanyang Technological University
+2006
+
+-----
+TITLE
+CITED BY
+YEAR
+Prevention and treatment of pulmonary infections after pancreas-kidney
+transplantation: an analysis of 4 cases
+Y Jiang, LZ Lv, HZ Hu, XJ Zhang, YB Chen, K Zhang, SH Chen, SG Zhang
+WORLD CHINESE JOURNAL OF DIGESTOLOGY 14 (24), 2464
+2006
+The therapeutic effect analysis of interventional therapy with microwave via
+bronchofibroscope for the 49 non-scar period endobronchial tuberculosis.
+Z HE, X ZHANG, Z GU
+Journal of Clinical and Experimental Medicine 10, 021
+2006
+Evaluation of design methods for large-diameter bored piles
+FLF Chu, L Zhang
+New Generation Design Codes For Geotechnical Engineering Practice—Taipei …
+2006
+Synthesis of 1-(4'-nitrophenyl)-3-(3"-methylpyridyl)-triazeneand Its Color
+Reaction with Zinc (II) Ion
+Y Zheng, C Zhang, Y Zhan
+PHYSICAL TESTING AND CHEMICAL ANALYSIS PART B CHEMICAL ANALYSIS 42
+(12), 988
+2006
+Application of elementary transformation of matrix
+X Zhan, J Wen, H Zhang
+JOURNAL-JILIN INSTITUTE OF CHEMICAL TECHNOLOGY 23 (3), 74
+2006
+Design and Application of Power High Voltage Current-stabilized Regulator
+Z MIN, Z LIU, W ZHENG
+Power Electronics 3, 036
+2006
+The Application of Learning Transfer in the Learning of Anatomy [J]
+S MEI, J ZHENG, Y JING, J CHENG
+Journal of Xiangfan Vocational and Technical College 6, 030
+2006
+Department of Materials Science & Engineering, Tsinghua University,
+Beijing 100084, China
+HP Yi, L Liu, XH Song, W Kang, L Liu, JS Zhang, Q Liu, Z Han, K Zheng
+Physica-Section C 419 (3-4), 109-114
+2005
+Design and development of internet resource navigation database on key
+disciplines in CALIS project
+X Zhang, H Zhang, X Xiao
+International Conference on Asian Digital Libraries, 630-635
+2004
+Knowledge and attitudes towards HIV/AIDS among the general
+populations in Hubei province
+CN Zhang, QH Xia, XY Hu, JD Xu, NN Xiong
+Chinese Journal of Health Education 20 (10), 877-880
+2004
+Original Research Papers-Systematics and Evolution-Phylogenetic
+Relationships of the Subclass Peritrichia (Oligohymenophorea, Ciliophora)
+Inferred from Small S...
+W Miao, WS Fen, YH Yu, XY Zhang, YF Shen
+Journal of Eukaryotic Microbiology 51 (2), 180-186
+2004
+Research on 2x1 plasma electrode electro-optical switch
+XJ Zhang, KX Zheng, B Feng, DS Wu, JP Lu, XL Tian, F Jin, Z Sui, XF Wei, ...
+High-power Lasers and Applications 5627, 25
+2004
+
+-----
+TITLE
+CITED BY
+YEAR
+Characteristic research on special neutron beam equipment
+Y Li, P Xia, Y Gao, G Zhu, W Zheng
+Atomic Energy Science and Technology 38 (Suppl.), 31-33
+2004
+Effect of Series Resistance on Stability of CdS/CdTe Solar Cell
+X Huang, J Zheng, Y Cai, L Wu, W Li, B Li, Q Yan
+JOURNAL-SICHUAN NORMAL UNIVERSITY NATURAL SCIENCE EDITION 27 (5), 513-
+515
+2004
+Complication of acute hemolytic crisis and fulminant hepatic failure in a
+Wilson's patient
+YK Yin, JW Wang, WQ Zhang, JM Zhang, QB Zhang, XH Wu
+Zhonghua gan zang bing za zhi= Zhonghua ganzangbing zazhi= Chinese journal …
+2003
+Introduction to Material Science and Engineering
+W Zhang, Q Shang, Z Peng
+Donghua University Press
+2003
+A clinical study of patient-controlled analgesis with epidural tramadol
+S Zhuang, X Fang
+Hainan Medical Journal 16 (1), 35-36
+2003
+The importance of pharmaceutical care in treatment of community-
+acquired pneumonia with antibiotics
+QL Zhang, YY Cai, S Zhang
+Pharmaceutical Care and Research 3 (1), 4-5
+2003
+The controlled preparation of ZnO superlattice particles with hexagonal
+shape
+XJ Wang, XX Zhang, CQ Ma, JH Zhang, QZ Zhu, JZ Jiang
+CHINESE JOURNAL OF INORGANIC CHEMISTRY 19 (1), 29-36
+2003
+Preparation of SL-II reservoir physical model
+J Wang, H Zhang, S Lu, H Luo
+ACTA PETROLEI SINICA 24 (6), 77-80
+2003
+Analysis of affecting factors on efficiency of warm-air coking and sand
+control
+K Zhang, Y Zhao, J Liang
+JOURNAL-UNIVERSITY OF PETROLEUM CHINA NATURAL SCIENCE EDITION 27 (3;
+ISSU …
+2003
+A general view about MPEG-7
+Q ZHANG, Y YIN
+Tv Engineering 7, 004
+2001
+REGULATORY AND INTEGRATIVE PHYSIOLOGY-Norepinephrine
+turnover in peripheral tissues of rats with heart failure
+KP Patel, K Zhang, PK Carmines
+American Journal of Physiology-Regulatory Integrative and Comparative …
+2000
+An analysis of serum lipoprotein (a) and lipid levels in pre-and post-
+menopausal hypertensive women
+S Zhang, Z Pei, L Zeng
+CHINESE JOURNAL OF INTERNAL MEDICINE 39 (7), 441-442
+2000
+
+-----
+TITLE
+CITED BY
+YEAR
+Sphingosine stereoisomers differentially affect death of estrogen receptor-
+negative human breast cancer cells.
+C Zhang, JJ Schroeder
+FASEB JOURNAL 13 (4), A584-A584
+1999
+Synthesis of 2-Dialkylaminoethyl Benzyloxyacetate Hydrochlorides and
+Their Promotion of Learning and Memory in mice
+YM Xia, HS Luo, MZ Li, HY Zhang
+CHINESE JOURNAL OF PHARMACEUTICALS 30, 357-359
+1999
+Influences of the Rare Earth Composition on the Properties of Hydrogen-
+storage Electrode of M~ 3B~ 5 Cell
+Z Du, Z Tian, H Zhang
+JOURNAL-TAIYUAN UNIVERSITY OF TECHNOLOGY 30, 476-478
+1999
+The application of laser-induced fluorencence in the diagnosis of colonic
+malignancies
+Y Han, LP Zhai, SR Li, G Gao, JG Zhang, HY Ding, YW Hua
+Gastroenterology 114, A606
+1998
+Sphingosine and ceramide differentially affect death of human breast
+cancer cells.
+C Zhang, JJ Schroeder
+FASEB JOURNAL 12 (5), A657-A657
+1998
+Floristic features and diversity of seed plants in Dehang region, Hunan
+G Chen, Z Gu, H Li, X Zhang
+Floristic characteristics and diversity of East Asian plants: proceedings of …
+1998
+The corrosion-inhibition of aluminum in acidic environment by in situ
+electrocoagulation of polybutadienoic acid
+Y Tao, Z Gu, X Zhang
+193 rd Meeting of The Electrochemical Society, Inc
+1998
+The electropurification technological process of the sulfur- containing
+sewage by electrooxidizing desulfidation in ECR
+Y Tao, X Zhang, Z Gu
+193 rd Meeting of The Electrochemical Society, Inc, 1998
+1998
+On the Polymerization Coating Performance of Chemically Modified
+Materials for the Chitin and Chitosan I. Preparation of Chitin and Chitosan
+and Its Properties
+X Zhang, Y Tao, Z Gu
+JOURNAL-WUHAN UNIVERSITY NATURAL SCIENCES EDITION 44, 193-197
+1998
+Ceramide inhibits growth and induces apoptosis in human breast cancer
+cells.
+C Zhang, JJ Schroeder
+FASEB JOURNAL 11 (3), 3277-3277
+1997
+Neutron diffraction studies of the magnetic structure of Ho 2 Fe 9 Ga 8∼ x
+Al x
+D Chen, C Gou, K Sun, Q Yan, P Zhang, B Shen, Z Cheng
+Chinese Journal of Nuclear Physics 19 (1), 44-47
+1997
+
+-----
+TITLE
+CITED BY
+YEAR
+Calcium signalling by muscarinic acetylcholine receptors involves
+activation of sphingosine kinase
+DMZ Heringdorf, KT Laser, C Zhang, M Schmidt, KH Jakobs, ...
+NAUNYN-SCHMIEDEBERGS ARCHIVES OF PHARMACOLOGY 355 (4), 180-180
+1997
+Neutron powder diffraction studies of magnetic structure of Ho 2 Fe 17
+series compounds
+D Chen, C Gou, K Sun, Q Yan, P Zhang, B Shen, H Gong
+Nuclear Techniques 19 (8), 473-478
+1996
+Study of mathematical model of PWR nuclear power plant suitable for
+analyzing the interaction between unit and grid under serious disturbance
+X Zhou, F Gan, W Zong, Y Gu, X Jin, X Zhang, X Hu
+Nuclear Power Engineering 17 (1), 6-12
+1996
+Blunted endogenous GABA-media ted inhibition in the para ventricular
+nucleus on renal nerve discharge in rats with heart failure
+KP Patel, K Zhang
+FASEB Journal 10 (3)
+1996
+Microstructure-based finite element analysis of heterogeneous media with
+partial interface cracks
+J Zhang, N Katsube
+University of California, Los Angeles, CA (United States)
+1995
+Volume 19, Numbers l&2, February 1995
+RJ MELOSH, WD PILKEY, W KANG, U SCHRAMM, J ZHANG, ...
+Finite Elements in Analysis and Design 19, 351-352
+1995
+Design and Implementation of an Object Oriented Application Program
+Generator
+Z Du, C Liu, H Zhang
+MINIMICRO SYSTEMS-SHENYANG- 16, 12-12
+1995
+Determination of Chloramphenicol in Eye Drops by Adsorption Stripping
+Voltammetry
+LJ Zhou, QC Zhu, YQ Cai, SF ZHANG
+CHINESE JOURNAL OF PHARMACEUTICALS 25, 276-276
+1994
+Microvascular Decompression by the Retromastoid Approach for Idiopathic
+Hemifacial Spasm: Experience of 300 Patients
+KW Zhang, ZT Shun
+The Facial Nerve, 396-396
+1994
+Stress intensity factors for cracks in anisotropic plate subjected to pin loads
+D Cui, X Zhang, Z Gu
+The Second International Symposium on Composite Materials and Structures …
+1992
+Kinetic approach of the deposition of silicon carbide based films obtained
+by PACVD
+W Zhang, M Lelogeais, M Ducarroir
+Le Journal de Physique IV 2 (C2), C2-381-C2-388
+1991
+Colloque C2, suppl. au Journal de Physique II, Vol. 1, septembre 1991
+W ZHANG, M LELOGEAIS, M DUCARROIR
+Actes de la 8ème Conférence Européenne Sur Les Dépôts Chimiques en Phase …
+1991
+
+-----
+TITLE
+CITED BY
+YEAR
+Study on Heat Transfer of Several Kinds of Particles in a Gas-Fired
+Fluidized Bed Furnace and Their Selection
+S Zhang, X Ni
+Iron and Steel(China)(People's Republic of China) 25 (7), 57-61
+1990
+Application of CAE in Asymmetrical Rolling of Stainless Steel Sheets
+K Zhang, D Dong, Y Zhu, C Yan, K Liu
+Iron and Steel(China)(People's Republic of China) 25 (5), 24-27
+1990
+The recently fallen Suizhou (L-group) chondrite.
+W Hou, ZY Ouyang, ZH Li, WH Chen, JL Peng, XY Fang, SJ Zhuang
+Kexue Tongbao 33, 669-671
+1988
+Transonic cascade flow solved by shock-capture computation followed by
+separate-region computation with shock fitting
+CH WU, Y HUA, B WANG, Z WANG, J ZHANG
+Journal of Engineering Thermophysics 7, 112-119
+1986
+A preliminary investigation on XI Ujumqin and Mianchi chondrites
+W Hou, D Wang, S Zhuang, M Wei
+Geochemistry 3, 268-275
+1983
+Paving Green Passage for Emergency Vehicle in Heavy Traffic: Real-Time
+Motion Planning under the Connected and Automated Vehicles
+Environment
+B Li, Y Zhang, N Jia, C Zhou, Y Ge, H Liu, W Meng, C Ji
+Design of an advanced automatic inspection system for aircraft parts
+based on fluorescent
+J Zheng, WF Xie, M Viens, L Birglen, I Mantegh
+Application of FMRAC to fault‐tolerant cooperative control of a wind farm
+with decreased power generation due to blade erosion/debris buildup
+H Badihi, Y Zhang, P Pillay, S Rakheja
+International Journal of Adaptive Control and Signal Processing
+Observer‐based fault‐tolerant control of hypersonic scramjet vehicles in the
+presence of actuator faults and saturation
+L Mu, L Li, X Yu, Y Zhang, P Li, X Wang
+International Journal of Robust and Nonlinear Control
+A QUARTERLY PUBLICATION OF THE IEEE AEROSPACE AND
+ELECTRONIC SYSTEMS SOCIETY
+A Chamseddine, Y Zhang, CA Rabbath, C Join, D Theilliol
+Control System Design with Multiple Actuator Failures
+Y Zhang, J Jiang, D Theilliol
+Fault Detection and Identification for Bimodal Piecewise Affine Systems
+L Rodrigues, Y Zhang
+Fault Diagnosis, Fault-tolerant Control, and Cooperative Control of Manned
+and Unmanned Aircraft Systems
+Y Zhang
+
+-----
+TITLE
+CITED BY
+YEAR
+Photonic Materials and Fabrication Technology The Effect of 3-MeV Proton
+Irradiation on the Performance of InGaN/GaN MQWs Solar
+Cells........................
+Z Bi, J Zhang, L Lv, Y Hao, L Fu, H Xia, Y Dong, S Li, X Gu, H Jiang, ...
+Power Cycling Reliability of Power Module: A Survey.......... C. Durand, M.
+Klingler, D. Coutellier, and H. Naceur 80
+DF Rahman, AF George, R Drinkard, X Li, J Qing, Y Wang, L Sun, Y Shi, ...
+Cleavage Initiation Angle for High Strength Steels under Mixed-Mode
+Conditions
+Z Zhang, X Qian
+Book of Abstracts, 257
+Asian Agricultural Research
+G CUI, L HE
+2013 Conference on Control and Fault-Tolerant Systems (SysTol)
+S Butler, J Ringwood, F O'Connor
+MECH 370: Modelling, Simulation and Analysis of Physical Systems
+Y Zhang
+Decentralized Receding Horizon Control of Multiple Vehicle Systems
+H Izadi, BW Gordon, CA Rabbath, Y Zhang
+Integrated Robust Fault Detection, Diagnosis and Reconfigurable Control
+System with Actuator Saturation
+J Fan, Y Zhang, Z Zheng
+
+-----

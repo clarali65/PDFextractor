@@ -1,0 +1,435 @@
+     
+  
+EDUCATION BACKGROUND
+·         Ph.D.,  08/1995, Northwestern Polytechnical University
+·         M.S.,    04/1986, Northwestern Polytechnical University
+·         B.S.,     07/1983, Northwestern Polytechnical University
+EMPLOYMENT EXPERIENCES
+·         2006-currently:  Professor, Associate Professor, Department of Mechanical and Industrial
+Engineering, Concordia University, 1455 de Maisonneuve Blvd. W., Montreal, Quebec H3G 1M8,
+Canada.
+·         2004 - 2006:   Assistant Professor, Department of Computer Science and Engineering, Aalborg
+University Esbjerg, Niels Bohrs Vej 8, 6700 Esbjerg, Denmark.
+·         1998 - 2004:    Postdoctoral Researcher/Research Associate/Assistant Professor, Department of
+Electrical and Computer Engineering, The University of Western Ontario, London, Ontario, N6A 5B9,
+Canada. Worked with Professor Jin Jiang.
+·         1998 - 1998:    Postdoctoral Researcher, Department of Electrical Engineering, State University of
+New York at Binghamton, Binghamton NY, USA. Worked with Professor N. Eva Wu.
+·         1997 - 1997:    Postdoctoral Researcher, Department of Electrical and Computer Engineering,
+Louisiana State University, Baton Rouge LA, USA. Worked with Professor Kemin Zhou.
+·         1995 - 1997:    Visiting Scholar, Department of Electrical Engineering, University of New Orleans,
+New Orleans LA, USA. Worked with Professor X. Rong Li.
+·         1986 - 1995:    Associate Professor (April 1992 - ); Lecturer and Assistant Lecturer (April 86 - Mar.
+92), Department of Automatic Control, Northwestern Polytechnical University, Xian, Shaanxi, P.R.
+China (Vice-Chair of the Department during 1994-1995).
+MAIN RESEARCH INTERESTS
+·         Avionics and Flight Control
+·         Fault Tolerant Control Systems
+·         Reliability and Fault Tolerant Techniques for Safety-critical Engineering Systems
+·         Reliability and Fault Tolerant Techniques for Computer Systems and Software
+·         Modelling, Simulation, Control, and Diagnosis for Engineering Applications
+·         Estimation, Identification and Information Fusion Techniques
+·         Advanced Signal Processing Techniques for Diagnosis and Control
+·         Advanced Control Algorithms and Implementation
+·         Real-time, Distributed and Embedded Systems
+RESEARCH ACHIEVEMENT AND AWARDS
+·         Publications (For details, please click here)
+·         Books: 4
+·         Journal papers: 137 +
+·         International conference papers: 318 +
+·         Citations (Web of Science): Items: 155; Sum of the Times Cited: 2924; Average Citations per Item:
+18.86; H-index: 25 (as of 2017-08-29)
+·         “Highly Cited Papers” —in the top 1% of its academic field at Web of Science (WoS)
+
+-----
+·       Y. M. Zhang and J. Jiang (2008), Bibliographical Review on Reconfigurable Fault-tolerant Control
+Systems, Annual Reviews in Control, 32(2), Dec. 2008, pp. 229-252.
+·       B. Xiao, Q.-L. Hu, and Y. M. Zhang (2012), Adaptive Sliding Mode Fault Tolerant Attitude Tracking
+Control for Flexible Spacecraft under Actuator Saturation, IEEE Trans. on Control Systems Technology,
+20(6), pp. 1605-1612.
+·         Awards
+·         The project, ``Aircraft nonlinear state estimation and parameter identification theory and
+applications,'' won the 1993 third-place Science and Technology Progress Award of National Education
+Commission of China, and the 1992 second-place Science and Technology Progress Award of Shaanxi
+Province Education Commission.
+·         The project, ``Theory and applications of flight path reconstruction, and modelling, compatibility
+check, derivatives identification of aircraft at high angle of attack,'' won the 1992 second-place Science
+and Technology Progress Award of Aeronautics and Astronauts Industry Ministry of China
+·         The project, ``New approach of flight state estimation and measurement parameter calibration,'' won
+the 1991 third-place Science and Technology Progress Award of Aeronautics and Astronauts Industry
+Ministry of China. The project was in collaboration with Chinese Flight Test Research Center.
+·         The projects, ``Dynamic property research of rotating mechanical rotator system'', ``Research on
+aircraft aerodynamic characteristics at high angle of attack'', ``Flight-path reconstruction theory and
+applications'', and ``Modelling, compatibility check, derivatives identification of aircraft at high angle of
+attack,'' won 2 second-place and 4 third-place Science and Technology Progress Awards of Shaanxi
+Province Education Commission.
+·         The project, ``Angle of attack sensor measurement and calibration by using estimation technique,'' in
+collaboration with Chengdu Airplane Manufacturing Company of China, won the 1986 third-place Science
+and Technology Progress Award of Aeronautics Industry Ministry of China. The work was main parts of
+my Master thesis.
+TEACHING ACHIEVEMENT AND AWARDS
+·         Be responsible for ``Automatic Control Theory'' course reform in the Department of Automatic
+Control and several outstanding achievements were achieved:
+·         The project, ``Automatic Control Theory Course Synthetic Reform,'' won 1993 Second-place
+Outstanding Teaching Award of Shaanxi Province, P.R. China;   
+·         Winner of 4 excellent teaching awards of Northwestern Polytechnical University in four consecutive
+academic years during 1991-1995;
+·         5 papers were published in journal of ``Higher Education Research'' and the national conference on
+automation education. Among them, ``Teaching experience on `automatic control theory' course synthetic
+reform'' won excellent paper award of 1994 national conference on automation education, Chengdu, P.R.
+China, Sept. 1994.
+·         Excellent teaching award of Northwestern Polytechnical University, 1990.
+OTHER HONORS
+·         Approved candidate for a Visiting Fellowship in Canadian Government Laboratories, Natural Sciences
+and Engineering Research Council (NSERC) of Canada, 1999.
+·         Recipient of Northwestern Polytechnical University special allowance, 1995.
+·         Winner of 1st Northwestern Polytechnical University and Li Yang Machinery Manufacturing Company
+teaching fellowship, 1994.
+·         Winner of 93-94 academic year advanced individual in teaching and research of Northwestern
+Polytechnical University, 1994.
+·         Winner of outstanding young teacher title of Northwestern Polytechnical University, 1993.
+·         Winner of ``Chinese M.Sc. degree receiver with excellent achievement'' title, 1991.
+ACDEMIC ACTIVITIES
+   Memberships:
+·         Fellow, CSME (Canadian Society for Mechanical Engineer)
+·         Senior Member, AIAA (American Institute of Aeronautics and Astronautics).
+·         Senior Member, IEEE (Institute of Electrical and Electronics Engineers).
+·         Member, USC (Unmanned Systems Canadian)
+·         Member, AUVSI (Association for Unmanned Vehicle Systems International)
+
+-----
+·         Member, Youth Committee of Chinese Association of Automation, 1994-
+ 
+   Membership of Technical Committees in Scientific Societies:
+ 
+·         Vice-President and TC Member of ISIUS (International Society of Intelligent Unmanned Systems)
+·         Executive Committee Member of ICUAS (International Conference on Unmanned Aircraft Systems)
+·         Member of the AIAA (American Institute of Aeronautics and Astronautics) Infotech@Aerospace Program
+Committee (PC) on Unmanned Systems
+·         Member of the IFAC (International Federation of Automatic Control) Technical Committee (TC) on Fault
+Detection, Supervision and Safety for Technical Processes (SAFEPROCESS)
+·         Member of the Technical Committee on Chinese Fault Detection, Supervision and Safety for Technical
+Processes (Chinese SAFEPROCESS)
+·         Member of the IEEE Robotics and Automation Society Technical Committee (TC) on Aerial Robotics and
+Unmanned Aerial Vehicles (IEEE RAS TC ARUAV)
+·         Member of the ASME/IEEE Technical Committee (TC) on Mechatronics and Embedded Systems and
+Applications (MESA)
+·         Vice-President, Youth Committee of Shaanxi Province Association of Automation, 1993
+ 
+   Editorial Board Member of International Journals:
+ 
+·         Editor-in-Chief, Journal of Instrumentation, Automation and Systems (2013- )
+·         Editorial Board Member and Editors-at-Large, Journal of Intelligent & Robotic Systems (2012- )
+·         Editorial Board Member and Editor, Unmanned Systems (2012- )
+·         Editorial Advisory Board Member, International Journal of Intelligent Unmanned Systems (2012- )
+·         Editorial Board Member, Journal of Unmanned System Technology (2012- )
+·         Editorial Board Member and Editor, Journal of Aeronautics & Aerospace Engineering (2012- )
+·         Editorial Board Member, International Journal of Aerospace Engineering (2010- )
+·         Editorial Board Member, International Journal of Applied Mathematics and Computer Science, 2008-
+2011
+ 
+   Organization to International Conferences:
+ 
+·         General Chair for ICUAS'18, Dallas, USA, June 12-15, 2018 (www.uasconferences.com)
+·         Program Chair for ICUAS'17, Miami, USA, June 13-16, 2017 (www.uasconferences.com)
+·         Program Co-Chair for SDPC'17, Shanghai, China, Aug. 16-18, 2017 (www.sdpcconf.org)
+·         A Co-General Chair for ICIUS'16, Xian, China, Aug. 23-25, 2016 (www.icius2016.org)
+·         A General Chair for ICUAS'15, Denver, USA, June 9-12, 2015 (www.uasconferences.com)
+·         General Chair for ICIUS'14, Montreal, Canada, Sept. 29-Oct. 1, 2014 (www.icius2014.org)
+·         Program Chair for ICUAS'14, Orlando, USA, May 27-30, 2014 (www.uasconferences.com)
+ 
+Invited Plenary Talks and Pre-Conference Workshops Given at Conferences:
+1.   2017-06-13, Pre-Conference Tutorial Workshop: New Developments on Sense-and-Avoid
+Systems, Fault-Tolerant Control and Fault-Tolerant Cooperative Control Techniques for
+Unmanned Systems and their Applications (Full Day), The 2017 International Conference
+on Unmanned Aircraft Systems (ICUAS'17), Miami, USA, June 13-16, 2017.
+2.   2016-09-17, 特邀大会报告: UAVs with Our Daily Life, 2016首届中加国际电影节的“娱乐科技
+高峰论坛" / The Entertainment Technology (ET) Summit at The 1st Canada-China
+International Film Festival (CCIFF), 2016年9月16-19日, 加拿大蒙特利尔市。
+3.   2016-08-25, 特邀大会报告：Fault-Tolerant Cooperative Control Techniques for Unmanned
+Systems and Their Applications, the 11th International Conference on Intelligent
+Unmanned Systems (ICIUS2016), Xi’an, China, Aug. 23-25, 2016.
+4.   2016-08-01, 大会专题研讨会: 如何做好科研, 第27届中国过程控制会议2016年7月30日-8月1日,
+兰州, Panelists: 姜钟平教授 (Chair , 美国New York大学), 陈杰教授 (北京理工大学副校
+长), 黄捷教授 (香港中文大学), 林宗利教授 (美国Virginia大学), 张友民教授 (加拿大
+Concordia大学)
+5.   2016-06-07, Pre-Conference Tutorial Workshop: New Development and Applications on
+Sense & Avoid, Fault-tolerant  Cooperative Control of Unmanned Systems, The 2016
+
+-----
+International Conference on Unmanned Aircraft Systems (ICUAS'16), Arlington, USA,
+June 7-10, 2016.
+6.   2015-11-27, Semi-Plenary Talk /大会专题报告：Opportunities, Challenges, and
+Developments on Fault Diagnosis, Fault-Tolerant Cooperative Control Techniques with
+Applications to Unmanned Systems / 故障诊断、容错协同控制技术及其在无人系统中应用的机
+遇、挑战与发展, 2015年中国自动化大会，武汉，中国，2015年11月27-29日.
+7.   2015-09-08, Plenary Talk/大会报告: Challenges and Developments on Fault Diagnosis and
+Fault-Tolerant Cooperative Control Techniques with Applications to Unmanned Systems,
+The 12th International Conference on Diagnostics of Processes and Systems (DPS 2015),
+Ustka, Poland, Sept. 6-9, 2015.
+8.   2015-06-09, Pre-Conference Tutorial Workshop: New Development and Applications on
+Sense & Avoid, Fault-tolerant & Cooperative Control of Unmanned Systems, The 2015
+International Conference on Unmanned Aircraft Systems (ICUAS'15), Denver, USA, June
+9-12, 2015.
+9.   2015-05-08, Plenary Talk/大会报告: Opportunities, Challenges, Developments, and
+Applications of Unmanned Systems, The 2nd International Conference of Control,
+Dynamic Systems, and Robotics (CDSR'15), Ottawa, Canada, May 7-8, 2015.
+10. 2014-10-21, Plenary Talk/大会报告: Fault-Tolerant Cooperative Control of Multiple
+Unmanned Aerial Vehicles, 2014 International Mini-workshop on Safe Formation Flying
+of Unmanned Rotorcraft Swarms (IMSFF 2014), October 21, 2014, 清华大学, Beijing,
+China.
+11. 2014-08-24, Pre-Conference Tutorial Workshop: Fault Diagnosis, Fault-tolerant
+Control, and Cooperative Control of Manned and Unmanned Aircraft Systems, IFAC World
+Congress, Cape Town, South Africa, August 24, 2014.
+12. 2014-08-08, Pre-Conference Tutorial Workshop/会前大会报告: 无人机及无人系统的机遇，挑
+战，发展及其应用前景/Opportunities, Challenges, Developments, and Future Applications
+of Unmanned Aerial Vehicles (UAVs) and Other Unmanned Systems, IEEE 2014 Chinese
+Guidance, Navigation, and Control Conference (CGNCC 2014), 烟台, August 8-10, 2014.
+13. 2014-05-27, Full-day Pre-conference Tutorial Workshop: Fault-tolerant Control and
+Cooperative Control of Unmanned Aircraft Systems (UASs): with Applications to
+Quadrotor Helicopter and Fixed-wing Unmanned Aerial Vehicles (UAVs), 2014
+International Conference on Unmanned Aircraft Systems, Orlando, USA, May 27-30, 2014.
+14. 2013-10-11, Semi-Plenary Talk/大会报告, Challenges, Opportunities, and Developments
+on Fault-Tolerant Control with Applications to Autonomous Unmanned Systems,
+International Conference on Control and Fault-Tolerant Systems (SysTol'13), Nice,
+France, October 9-11, 2013.
+15. 2013-07-25, Pre-conference Tutorial Workshop/会前大会报告, Research and Development
+on Fault Diagnosis, Fault-Tolerant and Cooperative Control with Applications to
+Manned and Unmanned Aircraft Systems, The 32nd Chinese Control Conference (CCC 2013),
+Xi'an, China, July 26-28, 2013.
+16. 2013-07-16, Full-day Pre-conference Workshop on Fault Diagnosis, Fault-tolerant
+Control, and Cooperative Control of Manned and Unmanned Systems, The 2013 European
+Control Conference (ECC 2013), Zurich, Switzerland, July 16, 2013.
+17. 2013-05-28, Full-day Pre-conference Tutorial Workshop: Fault-tolerant Control and
+Cooperative Control of Unmanned Aerial Systems (UAS): with Applications to Quadrotor
+Helicopter and Fixed-wing Unmanned Aerial Vehicles (UAVs), 2013 International
+Conference on Unmanned Aircraft Systems, Atlanta, USA, May 28-31, 2013.
+18. 2013-05-27, Plenary Talk/大会报告, Fault Diagnosis, Fault-tolerant and Cooperative
+Control for Unmanned Systems, 第八届全国技术过程故障诊断与安全性学术会议/The 8th
+Chinese Technical Process Fault Diagnosis and Security Conference (2013 CSP), 贵阳市,
+2013年5月25日-27日.
+19. 2012-06-26, Full-day Pre-conference workshop on Health Management, Fault-tolerant
+Control, and Cooperative Control of Unmanned Systems at the 2012 American Control
+Conference (ACC 2012), Montreal, Canada, June 16, 2012.
+20. 2014-06-12, Full-day Pre-conference Tutorial Workshop: Fault-tolerant Control and
+Cooperative Control of Unmanned Aerial System (UAS) with Applications to Quadrotor
+Helicopter and Fixed-wing Unmanned Aerial Vehicles (UAVs), 2012 International
+Conference on Unmanned Aircraft Systems, Philadelphia, USA, June 12-15, 2012.
+21. 2012-04-18, Plenary Talk/大会报告, Autonomous Aircraft Systems, International
+Congress of Mechatronics Engineering, Monterrey, Mexico, April 18-22, 2012.
+
+-----
+22. 2011-02-10, Plenary Talk/大会报告: Fault Diagnosis, Fault-tolerant and Cooperative
+Control with Applications to Aerospace Systems: Current and Future Research Work at
+MIE of Concordia University, A Mini-Workshop on Development and Challenges in
+Spacecraft/Satellites and Unmanned Aerial Vehicles (UAVs) Guidance, Navigation, and
+Control in Formation Flight, Concordia University, Feb. 10, 2011.
+23. 2010-08-06, Plenary Talk/大会报告: Fault Diagnosis, Tolerant and Cooperative Control
+with Applications to Aerospace Systems: Current and Future Research Work at
+Concordia University, International Workshop of Future Aerospace Systems (FAS),
+Ryerson University, Toronto, Aug. 6, 2010.
+24. 2009-09-05, Plenary Talk/大会报告: Fault-Tolerant Control Systems: Past, Present and
+Future, The Workshop on Control for the Autonomy of Mobile Robots/Unmanned Systems,
+Dalian, P. R. China, Sept. 4-6, 2009.
+25. 2007-09-11, Plenary Talk/大会报告: Active Fault-Tolerant Control Systems: Integration
+of Fault Diagnosis and Reconfigurable Control, The 8th Conference on Diagnosis of
+Processes and Systems, Slubice, Poland, Sept. 10-12, 2007.
+26.     2006-11-16, Plenary Talk/大会报告: Current Status and Future Trends in Fault Tolerant
+Control, The Workshop on Advanced Control and Diagnosis, Nancy, France, Nov. 16-17,
+2006.
+   Organization to Conferences/Workshops:
+·         Youmin Zhang (Concordia University, Canada), A Full-day Pre-conference Tutorial Workshop on
+“Research and Development on Fault Diagnosis, Fault-Tolerant and Cooperative Control with
+Applications to Manned and Unmanned Aircraft Systems” to be presented at The 32nd Chinese Control
+Conference (CCC13), Xi’an, China, July 25, 2013 (http://ccc.amss.ac.cn/2013/en/workshops).
+·         Youmin Zhang (Concordia University, Canada), YangQuan Chen (Utah State University, USA),
+Christopher Edwards (University of Leicester, UK), Cameron Fulford (Quanser Inc., Canada), Philippe
+Goupil (Airbus Operations S.A.S., France), Qinglei Hu (Harbin Institute of Technology, China), Hugh H.-
+T. Liu (University of Toronto, Canada), Andres Marcos (DEIMOS-SPACE S.L., Spain), Hassan Noura
+(United Arab Emirates University, UAE), Vicenc Puig (Universitat Politecnica de Catalunya, Spain),
+Didier Theilliol (University of Lorraine, France), Antonios Tsourdos (Cranfield University, UK), A Full-
+day Pre-conference Workshop on “Fault Diagnosis, Fault-tolerant Control, and Cooperative Control of
+Manned and Unmanned Systems” to be presented at the 2013 European Control Conference (ECC13),
+Zurich, Switzerland, July 16, 2013 (http://www.ecc13.ch/workshops.html).
+·         Youmin Zhang (Concordia University, Canada), Camille Alain Rabbath (Concordia University and
+DRDC, Canada), YangQuan Chen (Utah State University, USA), Christopher Edwards (University of
+Leicester, UK), Cameron Fulford (Quanser Inc., Canada), Khashayar Khorasani (Concordia University,
+Canada), Hugh H.-T. Liu (University of Toronto, Canada), Vicenç Puig (Universitat Politècnica de
+Catalunya, Spain), Didier Theilliol (University of Lorraine, France), A Full-day Pre-conference workshop
+on “Health Management, Fault-tolerant Control, and Cooperative Control of Unmanned Systems” to be
+presented at the 2013 American Control Conference (ACC13), Washington, DC, USA, June 16, 2013
+(http://a2c2.org/conferences/acc2013/workshops.html).
+·         Youmin Zhang (Concordia University, Canada), YangQuan Chen (Utah State University, USA), Didier
+Theilliol (University of Lorraine, France), and Antonios Tsourdos (Cranfield University, UK), An Invited
+Full-day Pre-conference Workshop on “Fault-tolerant Control and Cooperative Control of Unmanned
+Aerial Systems (UAS)” presented at the IEEE 2013 International Conference on Unmanned Aircraft
+Systems (ICUAS’13), Atlanta, GA, USA, May 28, 2013 (http://www.uasconferences.com/program.php).
+·         Youmin Zhang (Concordia University, Canada), Camille Alain Rabbath (DRDC, Canada), YangQuan
+Chen (University of California, Merced, USA), Christopher Edwards (University of Leicester, UK),
+Cameron Fulford (Quanser Inc., Canada), Hugh H.-T. Liu (University of Toronto, Canada), Didier
+Theilliol (University of Lorraine, France), and Antonios Tsourdos (Cranfield University, UK), A Full-day
+Pre-conference Workshop on “Health Management, Fault-tolerant Control and Cooperative Control of
+Unmanned Systems” presented at the 2012 American Control Conference (ACC12), Montreal, Canada,
+June 26, 2012 (http://a2c2.org/conferences/acc2012/workshops.php).
+·         Youmin Zhang (Concordia University, Canada), YangQuan Chen (Utah State University, USA),
+Christopher Edwards (University of Leicester, UK), Didier Theilliol (University of Lorraine, France), and
+Antonios Tsourdos (Cranfield University, UK), An Invited Full-day Pre-conference Workshop on “Fault-
+tolerant Control and Cooperative Control of Unmanned Aerial System (UAS) with Applications to
+Quadrotor Helicopter and Fixed-wing Unmanned Aerial Vehicles (UAVs)” presented at the IEEE 2012
+International Conference on Unmanned Aircraft Systems (ICUAS’12), Philadelphia, PA USA, June 12,
+2012 (http://uasconferences.com/Program.htm).
+
+-----
+·         Organizer (with Prof. YangQuan Chen at Utah University, USA): The 4th Symposium on Small
+Unmanned Aerial Vehicle Technologies and Applications (SUAVTA), as a part of the 8th ASME/IEEE
+International Conference on Mechatronics and Embedded Systems and Applications (MESA’2012), July
+8-10, 2012, Suzhou, Jiangsu, China.
+·         Co-organizer (with Prof. Didier Theilliol at Nancy University, France): An Invited Session on “Advanced
+Reliable Fault-Tolerant Control Methods for Aerial/Aerospace Systems” in the 18th World Congress of
+IFAC (International Federation of Automatic Control), August 28-September 2, 2011, Milano, Italy.
+·         Co-organizer (with Prof. YangQuan Chen at Utah University, USA): The Third Symposium on Small
+Unmanned Aerial Vehicle Technologies and Applications (SUAVTA), as a part of the 7th ASME/IEEE
+International Conference on Mechatronics and Embedded Systems and Applications (MESA’2011),
+August 29-31, 2011, Washington DC, USA.
+·         Co-chair (with Prof. Yang Shi at Victoria University, Canada) for a Special Session on “Advanced
+Control, Robotics, and Aerospace Applications” in Canadian Society of Mechanical Engineer (CSME)
+Forum 2010, June 7-9, 2010, Victoria, BC, Canada.
+·         General Chair of the 10th Chinese Youth Conference on Automatic Control and Automation, Xian, P.R.
+China, Aug. 1994.
+·         Vice-Chair of Program Committee of the First Chinese Youth Conference on Electronic Systems, Xian,
+P.R. China, Sept. 1995.
+   Services to Conferences:
+·         General Chair，IEEE 2018 International Conference on Unmanned Aircraft
+Systems (ICUAS’18), June 12-15, 2018, Dallas, USA.
+·         Program Chair，IEEE 2017 International Conference on Unmanned Aircraft
+Systems (ICUAS’17), June 13-16, 2017, Miami, USA.
+·         Co-General Chair，The 12th International Conference on Intelligent Unmanned Systems,
+(ICIUS’16), Aug. 23-25, 2016, Xi’an, China.
+·         A General Chair，IEEE 2015 International Conference on Unmanned Aircraft Systems
+(ICUAS’15), June 9-12, 2015, Denver, USA.
+·         The General Chair，The 10th International Conference on Intelligent Unmanned
+Systems, (ICIUS’14), Sept. 29 - Oct. 2, 2014, Montreal, Canada.
+·         Program Chair，IEEE 2014 International Conference on Unmanned Aircraft Systems
+(ICUAS’14), May 27-30, 2014, Orlando, USA.
+·         Program Vice-Chair，IEEE 2013 International Conference on Unmanned Aircraft Systems
+(ICUAS’13), May 28-31, 2013, Atlanta, USA.
+·         The General Chair, The 10th Chinese Youth Conference on Automatic Control and
+Automation, Xian, China, Aug. 1994.
+·         Session Chair of many AIAA, ASME, IEEE, IFAC and other international conferences.
+·         Co-Organizer for an Invited Session (with Prof. Ron Patton, Hull University, UK), Reconfigurable
+Control in Aerospace Systems, IEEE Conference on Control and Fault-Tolerant Systems (SysTol’13),
+October 9-11, 2013, Nice, France.
+·         Invited Sessions Chair, The 2013 International Conference on Intelligent Robotics and Applications
+(ICIRA’13) Sept. 25-28, 2013, Busan, Korea.
+·         IPC Member, 2013 IEEE International Conference on Mechatronics and Automation (IEEE ICMA
+2013), August 4-7, 2013, Takamatsu, Kagawa, Japan.
+·         IPC Member and Co-Organizer (with Prof. YangQuan Chen at Utah University, USA), The 5th
+Symposium on Small Unmanned Aerial Vehicle Technologies and Applications (SUAVTA), as a part of the
+9th ASME/IEEE International Conference on Mechatronics and Embedded Systems and Applications
+(MESA’2013), Aug. 4-7, 2013, Portland, OR, USA.
+·         Organizer for an Invited Session (with Prof. Lihua Xie, Nanyang Technological University, Singapore,
+and Prof. Ben M. Chen, National University of Singapore, Singapore), Unmanned Systems Technologies
+and Applications, The 32nd Chinese Control Conference (CCC2013), July 26-28, 2013, Xi’an, China.
+·         Organizer for an Invited Session (with Prof. Danwei Wang, Nanyang Technological University, Singapore,
+and Prof. Qinglei Hu, Harbin Institute of Technology, China), New Development on Fault Diagnosis and
+Fault-tolerant Control, The 32nd Chinese Control Conference (CCC2013), July 26-28, 2013, Xi’an, China.
+·         Organizer for an Invited Session (with Prof. Donghua Zhou, Tsinghua University, and Prof. Bin Jiang,
+Nanjing University of Aeronautics and Astronautics), Fault-Tolerant/Cooperative Control Designs for
+Multiple Aerial Vehicles, IEEE 2013 International Conference on Unmanned Aircraft Systems
+(ICUAS’13), May 28-31, 2013, Atlanta, GA, USA.
+·         Organized Sessions Chair, The 5th International Conference on Intelligent Robotics and Applications,
+Montréal, Québec, Canada October 3-5, 2012.
+
+-----
+·         IPC Member, 2012 IEEE International Conference on Mechatronics and Automation (ICMA 2012),
+Chengdu, Sichuan, China, August 5-8, 2012.
+·         IPC Member, 8th ASME/IEEE International Conference on Mechatronics and Embedded Systems and
+Applications (MESA’2012), Suzhou, China, July 8-10, 2012.
+·         IPC Member, IEEE 2012 International Conference on Unmanned Aircraft Systems (ICUAS’12),
+Philadelphia, PA USA, June 12-15, 2012.
+·         IPC Member, IASTED International Conference on Control and Applications (CA 2012), Crete, Greece,
+June 18-20, 2012.
+·         IPC Member, 2012 IEEE International Conference on Information and Automation, Shenyang, China,
+June 6-8, 2012.
+·         IPC Member, IASTED International Conference on Control and Applications (CA 2011), Vancouver, BC,
+Canada, June 01-03, 2011.
+·         IPC Member, AIAA Infotech@Aerospace 2011: Unleashing Unmanned Systems, St. Louis, Missouri,
+USA, March 29-31, 2011.
+·         IPC Member, 8th Workshop on Advanced Control and Diagnosis, Ferrara, Italy, November 15-16, 2010.
+·         IPC Member, Session Chair for two sessions, 1st Int. Conference on Control and Fault-Tolerant Systems
+(SysTol'10), Nice, France, Oct. 6-8, 2010.
+·         Sessions Chair, 2010 AIAA Guidance, Navigation, and Control Conference, Toronto, Ontario, Canada, 2-
+5 Aug. 2010.
+·         Sessions Chair, 2010 IEEE/ASME International Conference on Mechatronic and Embedded Systems and
+Applications, July 15-17, 2010, Qingdao, P. R. China.
+·         Session Co-chair, Canadian Society of Mechanical Engineer (CSME) Forum 2010, June 7-9, 2010,
+Victoria, BC, Canada.
+·         IPC Member, The 12th IASTED International Conference on Control and Applications (CA 2010), Banff,
+Alberta, Canada, July 15-17, 2010.
+·         IPC Member, The ICNPAA 2010 World Congress- 8th International Conference on ”Mathematical
+Problems in Engineering, Aerospace and Sciences”, Sao Jose dos Campos (SP), Brazil, June 30-July 3,
+2010.
+·         IPC Member, 2010 IEEE International Conference on Information and Automation, Harbin, Heilongjiang,
+China, June 20-23, 2010.
+·         IPC Member, The IASTED International Conference on Automation, Control, and Information
+Technology Control, Diagnostics, and Automation, Novosibirsk, Russia, June 15-18, 2010.
+·         IPC Member, 3rd International Symposium on Systems and Control in Aeronautics and Astronautics,
+Harbin, China, June 08-10, 2010.
+·         IPC Member, 2010 Control and Fault-Tolerant Systems (SysTol’10), Nice, France, October 2010.
+·         IPC Member, IX International Conference on Diagnostics of Processes and Systems, Gdansk, Poland,
+Sept. 7-9, 2009.
+·         IPC Member, IASTED International Conference on Control and Applications (CA 2009), Cambridge,
+UK, July 2009.
+·         IPC Member, IEEE International Conference on Information and Automation, Zhuhai (ICIA 2009),
+China, June, 2009.
+·         IPC Member, 23rd IAR Workshop on Advanced Control and Diagnosis, November 27-28, 2008, Coventry
+University, UK.
+·         IPC Member, IASTED International Conference on Control and Applications (CA 2008), Quebec City,
+Canada, May 26-28, 2008.
+·         IPC Member, 16th IEEE Mediterranean Conf. on Control and Automation (MED’08), Corsica Island,
+France, June 2008.
+·         IPC Member, The 2007 IEEE Conference on Control Applications (CCA2007), Singapore, 1-3 October
+2007.
+·         IPC Member, The 3rd International Conference on Advances in Vehicle Control and Safety (AVCS’07),
+Buenos Aires, Argentina, 8-10 February 2007.
+·         IPC Member, The 4th Workshop on Advanced Control and Diagnosis, Nancy, France, 16-17 November
+2006; Gave an Invited Plenary Lecture on Current Status and Future Trends in Fault Tolerant Control.
+·         Session Co-chair of the 1st Workshop on Networked Control System and Fault Tolerant Control, Ajaccio,
+France, 6-7 October 2005.
+·         Session Chair of the 10th IEEE Int. Conf. on Methods and Models in Automation and Robotics,
+Miedzyzdroje, Poland, Aug. 30-Sept. 2, 2004
+·         Session Co-chair of the 5th IFAC Symposium on Fault Detection, Supervision and Safety for Technical
+Processes (Safeprocess2003), Washington, D.C., USA, June 9-11, 2003.
+·         Program Committee Member/Associate Editor of the 2001 IEEE Conference on Control Applications,
+Mexico City, Mexico, Sept. 2001.
+
+-----
+·         IPC Member, The Second International Workshop on Intelligent Control, Research Triangle Park, North
+Carolina, USA, Oct., 1998.
+·         IPC Member and the Session Chair of the IFAC First Youth Automation International Conference,
+Beijing, P.R. China, Aug. 1995.
+ 
+   Reviewers for Journals and Conferences:
+ 
+·         Automatica
+·         AIAA Journal of Guidance, Control, and Dynamics
+·         ASME Journal of Dynamic Systems, Measurement and Control;
+·         European Journal of Control
+·         IEEE Trans. on Aerospace and Electronic Systems
+·         IEEE Trans. on Automatic Control
+·         IEEE Trans. on Circuit and Systems
+·         IEEE Trans. on Signal Processing
+·         IEEE Trans. on Systems, Man and Cybernetics
+·         IEEE Signal Processing Letters
+·         Information Science: An International Journal
+·         International Journal of Systems Science
+·         SPIE Optical Engineering
+·         American Control Conference      
+·         IEEE Conference on Control Applications
+·         IEEE Conference on Decision and Control
+·         IFAC Symposium on Fault Detection, Supervision and Safety for Technical Processes
+·         IFAC World Congress
+·         IFAC Youth Automation International Conference
+·         International Workshop on Intelligent Control …
+
+-----

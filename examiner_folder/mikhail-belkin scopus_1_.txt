@@ -1,0 +1,444 @@
+Scopus 
+Author details 
+About Scopus Author Id
+ Print
+
+Belkin, Mikhail A.
+, Austin, United 
+States 
+Author ID: 35430285200
+University of Texas at Austin, Department of 
+Electrical & Computer Engineering
+Follow this Author
+View potential author matches 
+Other name formats: 
+Nookala, Nishant
+Belkin, Mikhall A.
+Belkin, Mikhail
+Belkin, M.
+Belkin, M. A.
+Subject area: 
+Physics and Astronomy
+Engineering
+Materials Science
+Computer Science
+Mathematics
+Chemistry
+Energy
+Biochemistry, Genetics and Molecular Biology
+Multidisciplinary
+Social Sciences
+Medicine
+Chemical Engineering
+Document and 
+citation trends:
+Year
+Documents
+Citations
+2008
+2018
+0
+28
+0
+553
+ Get citation alerts
++ Add to ORCID 
+ Request author detail corrections
+ Export profile to SciVal
+242
+h-index: 
+33
+Documents by author
+Total citations
+3706 by 
+documents 
+❓
+View h-
+Analyze author o
+2460
+View citation ove
+Sort on: 
+Document title
+Authors
+Year Source
+Ci
+, 
+, 
+, 
+(...), 
+, 
+2018 
+97(4),043801
+, 
+, 
+, 
+, 
+2018 
+57(1),011020
+Open Access 
+, 
+, 
+, 
+2017 
+7(1),7360
+, 
+, 
+, (...), 
+, 
+2017 
+111(21),211102
+, 
+, 
+, 
+, 
+2017 2017 Conference on Lasers and Electro-Optics, 
+CLEO 2017 - Proceedings 
+2017-January, pp. 1-2 
+We are not able to communicate with RefWorks. Any features that require connection with RefWorks will not work at the moment. Please try again 
+later.
+×
+242 Documents
+Cited by 2460 documents 
+150 co-authors
+Author history
+▻
+View all in search results format
+Date (newest)
+Export all
+Add all to list
+Set document alert
+Set document feed
+Enhancement of the spontaneous emission in 
+subwavelength quasi-two-dimensional waveguides and 
+resonators
+Tokman, M. Long, Z. Almutairi, S.
+Belkin, M. Belyanin, A.
+Physical Review A
+
+View abstract
+View at Publisher
+Related documents 
+Broadly tunable terahertz difference-frequency generation 
+in quantum cascade lasers on silicon
+Jung, S. Kim, J.H. Jiang, Y.
+Vijayraghavan, K. Belkin, M.A.
+Optical Engineering
+
+View abstract
+View at Publisher
+Related documents 
+Dielectric properties of semi-insulating Fe-doped InP in the 
+terahertz spectral region
+Alyabyeva, L.N. Zhukova, E.S.
+Belkin, M.A. Gorshunov, B.P.
+Scientific Reports
+
+View abstract
+View at Publisher
+Related documents 
+Quantum cascade lasers transfer-printed on silicon-on-
+sapphire
+Jung, S. Kirch, J. Kim, J.H.
+Botez, D. Belkin, M.A.
+Applied Physics Letters
+
+View abstract
+View at Publisher
+Related documents 
+Low-loss ge-on-gaas platform for mid-infrared photonics
+Liao, H.-Y. Jung, S. Chakravarty, S.
+Chen, R.T. Belkin, M.A.
+Page 1 of 3
+Scopus - Author details (Belkin, Mikhail A.)
+4/18/2018
+https://www-scopus-com.ezlibproxy1.ntu.edu.sg/authid/detail.uri?authorId=354302852...
+
+-----
+Document title
+Authors
+Year Source
+Ci
+, 
+, 
+, 
+, 
+2017 2017 Conference on Lasers and Electro-Optics, 
+CLEO 2017 - Proceedings 
+2017-January, pp. 1-2 
+, 
+, 
+, (...), 
+, 
+2017 2017 Conference on Lasers and Electro-Optics, 
+CLEO 2017 - Proceedings 
+2017-January, pp. 1-2 
+, 
+, 
+, (...), 
+, 
+2017 2017 Conference on Lasers and Electro-Optics, 
+CLEO 2017 - Proceedings 
+2017-January, pp. 1-2 
+, 
+, 
+, (...), 
+, 
+2017 2017 Conference on Lasers and Electro-Optics, 
+CLEO 2017 - Proceedings 
+2017-January, pp. 1-2 
+, 
+, 
+, 
+(...), 
+, 
+2017 
+3(9),e1603317
+, 
+, 
+, 
+, 
+2017 
+19(10),104001
+, 
+, 
+, (...), 
+, 
+2017 
+122(7),075105
+, 
+, 
+2017 
+7(4),7949074, pp. 349-350 
+, 
+, 
+, 
+, 
+2017 
+375(2090),0061
+, 
+, 
+, 
+, 
+2017 2016 IEEE Photonics Conference, IPC 2016 
+7830985, pp. 74-75 
+, 
+, 
+, 
+, 
+2017 
+4(1), pp. 38-43 
+, 
+, 
+, 
+, 
+2017 
+10123,1012316
+, 
+, 
+, 
+, 
+2017 Optics InfoBase Conference Papers 
+Part F41-CLEO_SI 2017
+, 
+, 
+, 
+, 
+2017 Optics InfoBase Conference Papers 
+Part F41-CLEO_SI 2017
+
+View abstract
+View at Publisher
+Related documents 
+Difference-frequency generation quantum cascade laser 
+sources on silicon
+Jung, S. Kim, J.H. Jiang, Y.
+Vijayraghavan, K. Belkin, M.A.
+
+View abstract
+View at Publisher
+Related documents 
+Mid-infrared quantum cascade lasers transfer-printed on 
+silicon-on-sapphire
+Jung, S. Kirch, J. Kim, J.H.
+Botez, D. Belkin, M.A.
+
+View abstract
+View at Publisher
+Related documents 
+Efficient THz generation in long-wavelength infrared 
+quantum cascade lasers
+Jiang, Y. Kim, J.H. Jung, S.
+Amann, M.C. Belkin, M.A.
+
+View abstract
+View at Publisher
+Related documents 
+1.9 THz difference-frequency generation in mid-infrared 
+quantum cascade lasers with grating outcouplers
+Kim, J.H. Jung, S. Jiang, Y.
+Edamura, T. Belkin, M.A.
+
+View abstract
+View at Publisher
+Related documents 
+Spectral purity and tunability of terahertz quantum cascade 
+laser sources based on intracavity difference-frequency 
+generation
+Consolino, L. Jung, S. Campa, A.
+Belkin, M.A. Vitiello, M.S.
+Science Advances
+
+View abstract
+View at Publisher
+Related documents 
+Highly-efficient THz generation using nonlinear plasmonic 
+metasurfaces
+Tymchenko, M. Gomez-Diaz, J.S.
+Lee, J. Belkin, M.A. Alu, A.
+Journal of Optics (United Kingdom)
+
+View abstract
+View at Publisher
+Related documents 
+Strain compensated superlattices on m -plane gallium 
+nitride by ammonia molecular beam epitaxy
+Fireman, M.N. Bonef, B. Young, 
+E.C.
+Belkin, M.A. Speck, J.S.
+Journal of Applied Physics
+
+View abstract
+View at Publisher
+Related documents 
+Guest Editorial Mini-Special Issue on International 
+Quantum Cascade Lasers School and Workshop (IQCLSW 
+2016)
+Davies, A.G. Linfield, E.H. Belkin, 
+M.A.
+IEEE Transactions on Terahertz Science and 
+Technology
+View at Publisher
+Electrical tuning of the polarization state of light using 
+graphene-integrated anisotropic metasurfaces
+Dutta-Gupta, S. Dabidian, N.
+Kholmanov, I. Belkin, M.A. Shvets, 
+G.
+Philosophical Transactions of the Royal Society A: 
+Mathematical, Physical and Engineering Sciences
+
+View abstract
+View at Publisher
+Related documents 
+Spectroscopic study of terahertz difference-frequency 
+nonlinear susceptibility in mid-infrared quantum cascade 
+lasers
+Jiang, Y. Jung, S. Kim, J.H.
+Vijayraghavan, K. Belkin, M.A.
+
+View abstract
+View at Publisher
+Related documents 
+Terahertz difference-frequency quantum cascade laser 
+sources on silicon
+Jung, S. Kim, J.H. Jiang, Y.
+Vijayraghavan, K. Belkin, M.A.
+Optica
+
+View abstract
+View at Publisher
+Related documents 
+Terahertz difference frequency generation in quantum 
+cascade lasers on silicon
+Jung, S. Kim, J.H. Jiang, Y.
+Vijayraghavan, K. Belkin, M.A.
+Proceedings of SPIE - The International Society 
+for Optical Engineering
+
+View abstract
+View at Publisher
+Related documents 
+Difference-frequency generation quantum cascade laser 
+sources on silicon
+Jung, S. Kim, J.H. Jiang, Y.
+Vijayraghavan, K. Belkin, M.A.
+
+View abstract
+View at Publisher
+Related documents 
+Low-loss Ge-on-GaAs platform for mid-infrared photonics
+Liao, H.-Y. Jung, S. Chakravarty, S.
+Chen, R.T. Belkin, M.A.
+Page 2 of 3
+Scopus - Author details (Belkin, Mikhail A.)
+4/18/2018
+https://www-scopus-com.ezlibproxy1.ntu.edu.sg/authid/detail.uri?authorId=354302852...
+
+-----
+Document title
+Authors
+Year Source
+Ci
+, 
+, 
+, (...), 
+, 
+2017 Optics InfoBase Conference Papers 
+Part F41-CLEO_SI 2017
+
+View abstract
+View at Publisher
+Related documents 
+Efficient THz generation in long-wavelength infrared 
+quantum cascade lasers
+Jiang, Y. Kim, J.H. Jung, S.
+Amann, M.C. Belkin, M.A.
+
+View abstract
+View at Publisher
+Related documents 
+Display: 
+results per page
+20
+
+...
+1
+2
+3
+4
+5
+13
+▻
+▻▻
+ Top o
+The data displayed above is compiled exclusively from documents indexed in the Scopus database. To request corrections to any inaccuracies 
+or provide any further feedback, please use the 
+.
+Author Feedback Wizard 
+About Scopus
+What is Scopus
+Content coverage
+Scopus blog
+Scopus API
+Privacy matters
+Language
+⽇本語に切り替える
+切换到简体中文
+切換到繁體中文
+Русский язык
+Customer Service
+Help
+Contact us 
+Copyright © 2018 
+. All rights reserved. Scopus® is a registered trademark of Elsevier 
+B.V. 
+Cookies are set by this site. To decline them or learn more, visit our 
+. 
+Terms and conditions Privacy policy 
+Elsevier B.V
+Cookies page
+Page 3 of 3
+Scopus - Author details (Belkin, Mikhail A.)
+4/18/2018
+https://www-scopus-com.ezlibproxy1.ntu.edu.sg/authid/detail.uri?authorId=354302852...
+
+-----

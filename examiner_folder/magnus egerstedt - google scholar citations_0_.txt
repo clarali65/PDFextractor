@@ -1,0 +1,2775 @@
+All
+Since 2013
+Citations
+13845
+7962
+h-index
+48
+33
+i10-index
+218
+134
+Magnus Egerstedt
+Professor of Electrical and Computer
+Engineering,
+Georgia Institute of Technology
+Control Theory
+Robotics
+TITLE
+CITED BY
+YEAR
+Graph theoretic methods in multiagent networks
+M Mesbahi, M Egerstedt
+Princeton University Press
+1526
+2010
+Formation constrained multi-agent control
+M Egerstedt, X Hu
+IEEE transactions on robotics and automation 17 (6), 947-951
+832
+2001
+Distributed coordination control of multiagent systems while preserving
+connectedness
+M Ji, M Egerstedt
+IEEE Transactions on Robotics 23 (4), 693-703
+630
+2007
+Controllability of multi-agent systems from a graph-theoretic perspective
+A Rahmani, M Ji, M Mesbahi, M Egerstedt
+SIAM Journal on Control and Optimization 48 (1), 162-186
+541
+2009
+A control Lyapunov function approach to multi-agent coordination
+P Ogren, M Egerstedt, X Hu
+Decision and Control, 2001. Proceedings of the 40th IEEE Conference on 2 …
+508
+2001
+On the regularization of Zeno hybrid automata
+KH Johansson, M Egerstedt, J Lygeros, S Sastry
+Systems & control letters 38 (3), 141-150
+413
+1999
+Containment control in mobile networks
+M Ji, G Ferrari-Trecate, M Egerstedt, A Buffa
+IEEE Transactions on Automatic Control 53 (8), 1972-1975
+373
+2008
+Symbolic planning and control of robot motion [grand challenges of
+robotics]
+C Belta, A Bicchi, M Egerstedt, E Frazzoli, E Klavins, GJ Pappas
+IEEE Robotics & Automation Magazine 14 (1), 61-70
+311
+2007
+Control of mobile platforms using a virtual vehicle approach
+M Egerstedt, X Hu, A Stotsky
+IEEE transactions on automatic control 46 (11), 1777-1782
+273
+2001
+Transition-time optimization for switched-mode dynamical systems
+M Egerstedt, Y Wardi, H Axelsson
+IEEE Transactions on Automatic Control 51 (1), 110-115
+272
+2006
+Graph-theoretic connectivity control of mobile robot networks
+MM Zavlanos, MB Egerstedt, GJ Pappas
+Proceedings of the IEEE 99 (9), 1525-1540
+267
+2011
+Distributed containment control with multiple stationary or dynamic leaders
+in fixed and switching directed networks
+Y Cao, W Ren, M Egerstedt
+Automatica 48 (8), 1586-1597
+245
+2012
+
+-----
+TITLE
+CITED BY
+YEAR
+Autonomous UAV path planning and estimation
+J Tisdale, ZW Kim, JK Hedrick
+IEEE Robotics & Automation Magazine 16 (2)
+183
+2009
+Optimal control of switching times in switched dynamical systems
+M Egerstedt, Y Wardi, F Delmotte
+Decision and Control, 2003. Proceedings. 42nd IEEE Conference on 3, 2138-2143
+168
+2003
+Containment in leader–follower networks with switching communication
+topologies
+G Notarstefano, M Egerstedt, M Haque
+Automatica 47 (5), 1035-1040
+159
+2011
+Leader-based multi-agent coordination: Controllability and optimal control
+M Ji, A Muhammad, M Egerstedt
+American Control Conference, 2006, 6 pp.
+158
+2006
+Autonomous driving in urban environments: approaches, lessons and
+challenges
+M Campbell, M Egerstedt, JP How, RM Murray
+Philosophical Transactions of the Royal Society of London A: Mathematical …
+156
+2010
+A hybrid control approach to action coordination for mobile robots
+M Egerstedt, X Hu
+Automatica 38 (1), 125-130
+146
+2002
+Observability of switched linear systems
+M Babaali, M Egerstedt
+International Workshop on Hybrid Systems: Computation and Control, 48-63
+130
+2004
+On the existence of executions of hybrid automata
+J Lygeros, KH Johansson, S Sastry, M Egerstedt
+Decision and Control, 1999. Proceedings of the 38th IEEE Conference on 3 …
+126
+1999
+Simulation of Zeno hybrid automata
+KH Johansson, J Lygeros, S Sastry, M Egerstedt
+Decision and Control, 1999. Proceedings of the 38th IEEE Conference on 4 …
+118
+1999
+Interacting with networks: How does structure relate to controllability in
+single-leader, consensus networks?
+M Egerstedt, S Martini, M Cao, K Camlibel, A Bicchi
+IEEE Control Systems 32 (4), 66-73
+113
+2012
+Behavior based robotics using hybrid automata
+M Egerstedt
+International Workshop on Hybrid Systems: Computation and Control, 103-116
+111
+2000
+A graph-theoretic characterization of controllability for multi-agent systems
+M Ji, M Egerstedt
+American Control Conference, 2007. ACC'07, 4588-4593
+106
+2007
+Laplacian sheep: A hybrid, stop-go policy for leader-based containment
+control
+G Ferrari-Trecate, M Egerstedt, A Buffa, M Ji
+International Workshop on Hybrid Systems: Computation and Control, 212-226
+104
+2006
+
+-----
+TITLE
+CITED BY
+YEAR
+Controllability analysis of multi-agent systems using relaxed equitable
+partitions
+S Martini, M Egerstedt, A Bicchi
+International Journal of Systems, Control and Communications 2 (1-3), 100-121
+102
+2010
+Gradient descent approach to optimal mode scheduling in hybrid
+dynamical systems
+H Axelsson, Y Wardi, M Egerstedt, EI Verriest
+Journal of Optimization Theory and Applications 136 (2), 167-186
+99
+2008
+Connectivity graphs as models of local interactions
+A Muhammad, M Egerstedt
+Applied mathematics and computation 168 (1), 243-269
+98
+2005
+Control theoretic smoothing splines
+S Sun, MB Egerstedt, CF Martin
+IEEE Transactions on automatic control 45 (12), 2271-2279
+97
+2000
+Multi-UAV convoy protection: An optimal approach to path planning and
+coordination
+XC Ding, AR Rahmani, M Egerstedt
+IEEE Transactions on Robotics 26 (2), 256-268
+92
+2010
+Sufficient conditions for connectivity maintenance and rendezvous in
+leader–follower networks
+T Gustavi, DV Dimarogonas, M Egerstedt, X Hu
+Automatica 46 (1), 133-139
+88
+2010
+A leader-based containment control strategy for multiple unicycles
+DV Dimarogonas, M Egerstedt, KJ Kyriakopoulos
+Decision and Control, 2006 45th IEEE Conference on, 5968-5973
+82
+2006
+Optimal control of switching surfaces in hybrid dynamical systems
+M Boccadoro, Y Wardi, M Egerstedt, E Verriest
+Discrete Event Dynamic Systems 15 (4), 433-448
+78
+2005
+Feedback can reduce the specification complexity of motor programs
+MB Egerstedt, RW Brockett
+IEEE Transactions on Automatic Control 48 (2), 213-223
+75
+2003
+Connectedness preserving distributed coordination control over dynamic
+graphs
+M Ji, M Egerstedt
+American Control Conference, 2005. Proceedings of the 2005, 93-98
+71
+2005
+Role-assignment in multi-agent coordination
+M Ji, S Azuma, MB Egerstedt
+Georgia Institute of Technology
+70
+2006
+Control using higher order Laplacians in network topologies
+A Muhammad, M Egerstedt
+Proc. of 17th International Symposium on Mathematical Theory of Networks and …
+68
+2006
+Optimal trajectory planning and smoothing splines
+M Egerstedt, CF Martin
+Automatica 37 (7), 1057-1064
+64
+2001
+
+-----
+TITLE
+CITED BY
+YEAR
+Distributed formation control while preserving connectedness
+M Ji, M Egerstedt
+Decision and Control, 2006 45th IEEE Conference on, 5962-5967
+63
+2006
+On the structural complexity of the motion description language MDLe
+D Hristu-Varsakelis, M Egerstedt, PS Krishnaprasad
+Decision and Control, 2003. Proceedings. 42nd IEEE Conference on 4, 3360-3365
+60
+2003
+Multirobot control using time-varying density functions
+SG Lee, Y Diaz-Mercado, M Egerstedt
+IEEE Transactions on Robotics 31 (2), 489-493
+56
+2015
+On-line optimization of switched-mode dynamical systems
+XC Ding, Y Wardi, M Egerstedt
+IEEE Transactions on Automatic Control 54 (9), 2266-2271
+55
+2009
+Courteous cars
+H Kress-Gazit, DC Conner, H Choset, AA Rizzi, GJ Pappas
+IEEE Robotics & Automation Magazine 15 (1)
+54
+2008
+Motion probes for fault detection and recovery in networked control
+systems
+M Franceschelli, M Egerstedt, A Giua
+American Control Conference, 2008, 4358-4363
+52
+2008
+B-splines and control theory
+H Kano, M Egerstedt, H Nakata, CF Martin
+Applied mathematics and computation 145 (2-3), 263-288
+52
+2003
+Complex networks: Degrees of control
+M Egerstedt
+Nature 473 (7346), 158
+50
+2011
+Optimal control, statistics and path planning
+CF Martin, S Sun, M Egerstedt
+Mathematical and Computer Modelling 33 (1-3), 237-253
+50
+2001
+Automatic generation of persistent formations for multi-agent networks
+under range constraints
+BS Smith, M Egerstedt, A Howard
+Mobile Networks and Applications 14 (3), 322-335
+49
+2009
+Control theoretic splines: optimal control, statistics, and path planning
+M Egerstedt, C Martin
+Princeton University Press
+48
+2009
+Control of multiagent systems under persistent disturbances
+T Yucelen, M Egerstedt
+American Control Conference (ACC), 2012, 5264-5269
+47
+2012
+Coordinated trajectory following for mobile manipulation
+N Egerstedt, X Hu
+Robotics and Automation, 2000. Proceedings. ICRA'00. IEEE International …
+46
+2000
+Observability and estimation in distributed sensor networks
+M Ji, M Egerstedt
+Decision and Control, 2007 46th IEEE Conference on, 4221-4226
+45
+2007
+
+-----
+TITLE
+CITED BY
+YEAR
+Motion description languages for multi-modal control in robotics
+M Egerstedt
+Control Problems in Robotics, 75-89
+44
+2003
+Algorithm for optimal mode scheduling in switched systems
+Y Wardi, M Egerstedt
+American Control Conference (ACC), 2012, 4546-4551
+43
+2012
+Control of a car-like robot using a virtual vehicle approach
+M Egerstedt, X Hu, A Stotsky
+Decision and Control, 1998. Proceedings of the 37th IEEE Conference on 2 …
+43
+1998
+Distributed frequency control of prosumer-based electric energy systems
+MH Nazari, Z Costello, MJ Feizollahi, S Grijalva, M Egerstedt
+IEEE Transactions on Power Systems 29 (6), 2934-2942
+42
+2014
+Hybrid LQ-optimization using dynamic programming
+V Azhmyakov, R Galvan-Guerra, M Egerstedt
+American Control Conference, 2009. ACC'09., 3617-3623
+42
+2009
+Optimal mode-switching for hybrid systems with varying initial states
+H Axelsson, M Boccadoro, M Egerstedt, P Valigi, Y Wardi
+Nonlinear Analysis: Hybrid Systems 2 (3), 765-772
+42
+2008
+Control of a car-like robot using a dynamic model
+M Egerstedt, X Hu, A Stotsky
+Robotics and Automation, 1998. Proceedings. 1998 IEEE International …
+42
+1998
+Reactive mobile manipulation using dynamic trajectory tracking
+P Ogren, N Egerstedt, X Hu
+Robotics and Automation, 2000. Proceedings. ICRA'00. IEEE International …
+41
+2000
+Executive decision support
+XC Ding, M Powers, M Egerstedt, S Young, T Balch
+IEEE Robotics & Automation Magazine 16 (2)
+40
+2009
+Controllability decompositions of networked systems through quotient
+graphs
+S Martini, M Egerstedt, A Bicchi
+Decision and Control, 2008. CDC 2008. 47th IEEE Conference on, 5244-5249
+40
+2008
+Learning from examples in unstructured, outdoor environments
+J Sun, T Mehta, D Wooden, M Powers, J Rehg, T Balch, M Egerstedt
+Journal of Field Robotics 23 (11‐12), 1019-1036
+39
+2006
+A hybrid control architecture for mobile manipulation
+L Petersson, M Egerstedt, HI Christensen
+Intelligent Robots and Systems, 1999. IROS'99. Proceedings. 1999 IEEE/RSJ …
+39
+1999
+Multi-robot deployment and coordination with embedded graph grammars
+B Smith, A Howard, JM McNew, J Wang, M Egerstedt
+Autonomous Robots 26 (1), 79-98
+38
+2009
+Control of epidemics by vaccination
+E Verriest, F Delmotte, M Egerstedt
+American Control Conference, 2005. Proceedings of the 2005, 985-990
+37
+2005
+
+-----
+TITLE
+CITED BY
+YEAR
+Multi-process control using queuing theory
+M Egerstedt, Y Wardi
+Decision and Control, 2002, Proceedings of the 41st IEEE Conference on 2 …
+37
+2002
+Autonomous formation switching for multiple, mobile robots
+H Axelsson, A Muhammad, M Egerstedt
+IFAC Proceedings Volumes 36 (6), 117-122
+36
+2003
+Behavior based robotics using regularized hybrid automata
+M Egerstedt, K Johansson, J Lygeros, S Sastry
+Decision and Control, 1999. Proceedings of the 38th IEEE Conference on 4 …
+35
+1999
+Solving coverage problems with embedded graph grammars
+JM McNew, E Klavins, M Egerstedt
+International Workshop on Hybrid Systems: Computation and Control, 413-427
+33
+2007
+System and methods for data-driven control of manufacturing processes
+LG Barajas, MB Egerstedt, A Goldstein, EW Kamen
+US Patent 7,171,897
+33
+2007
+Differentially private cloud-based multi-agent optimization with constraints
+MT Hale, M Egerstedty
+American Control Conference (ACC), 2015, 1235-1240
+31
+2015
+Control with delayed and limited information: A first look
+E Verriest, M Egerstedt
+Decision and Control, 2002, Proceedings of the 41st IEEE Conference on 2 …
+31
+2002
+Human-in-the-loop: MPC for shared control of a quadruped rescue robot
+R Chipalkatty, H Daepp, M Egerstedt, W Book
+Intelligent Robots and Systems (IROS), 2011 IEEE/RSJ International …
+30
+2011
+Optimal impulsive control for point delay systems with refractory period
+EI Verriest, F Delmotte, M Egerstedt
+Proceedings of the 5-th IFAC Workshop on Time Delay Systems, Leuven, Belgium
+30
+2004
+Motion programs for puppet choreography and control
+M Egerstedt, T Murphey, J Ludwig
+International Workshop on Hybrid Systems: Computation and Control, 190-202
+29
+2007
+Smoothing spline curves and surfaces for sampled data
+H Fujioka, H Kano, M Egerstedt, CF Martin
+Int. J. of Innovative Computing, Information and Control 1 (3), 429-449
+29
+2005
+A direct algebraic approach to observer design under switching
+measurement equations
+M Babaali, M Egerstedt, EW Kamen
+IEEE transactions on automatic control 49 (11), 2044-2049
+29
+2004
+Style based robotic motion
+A LaViers, M Egerstedt
+American Control Conference (ACC), 2012, 4327-4332
+28
+2012
+Automatic generation of balletic motions
+A LaViers, M Egerstedt, Y Chen, C Belta
+Cyber-Physical Systems (ICCPS), 2011 IEEE/ACM International Conference on, 13-21
+28
+2011
+
+-----
+TITLE
+CITED BY
+YEAR
+Oriented visibility graphs: Low-complexity planning in real-time
+environments
+D Wooden, M Egerstedt
+Robotics and Automation, 2006. ICRA 2006. Proceedings 2006 IEEE …
+28
+2006
+Control barrier certificates for safe swarm behavior
+U Borrmann, L Wang, AD Ames, M Egerstedt
+IFAC-PapersOnLine 48 (27), 68-73
+27
+2015
+Continuous-time proportional-integral distributed optimisation for
+networked systems
+G Droge, H Kawashima, MB Egerstedt
+Journal of Control and Decision 1 (3), 191-213
+27
+2014
+Controllability Characterizations of Leader-Based Swarm Interactions.
+JP de la Croix, M Egerstedt
+AAAI Fall Symposium: Human Control of Bioinspired Swarms
+27
+2012
+A hybrid Bellman equation for bimodal systems
+P Caines, M Egerstedt, R Malhame, A Schöllig
+International Workshop on Hybrid Systems: Computation and Control, 656-659
+27
+2007
+Flipping the controls classroom around a MOOC
+JP de la Croix, M Egerstedt
+American Control Conference (ACC), 2014, 2557-2562
+26
+2014
+Less is more: Mixed-initiative model-predictive control with human inputs
+R Chipalkatty, G Droge, MB Egerstedt
+IEEE Transactions on Robotics 29 (3), 695-703
+26
+2013
+Experience from the DARPA urban challenge
+C Rouff, M Hinchey
+Springer Publishing Company, Incorporated
+26
+2011
+What are the ants doing? vision-based tracking and reconstruction of
+control programs
+M Egerstedt, T Balch, F Dellaert, F Delmotte, Z Khan
+IEEE International Conference on Robotics and Automation 4, 4182
+26
+2005
+Optimal control of switching times in hybrid systems
+M Egerstedt, Y Wardi, H Axelsson
+9th IEEE International Conference on Methods and Models in Automation and …
+26
+2003
+The GRITSBot in its natural habitat-a multi-robot testbed
+D Pickem, M Lee, M Egerstedt
+Robotics and Automation (ICRA), 2015 IEEE International Conference on, 4062-4067
+25
+2015
+Robust graph topologies for networked systems
+W Abbas, M Egerstedt
+IFAC Proceedings Volumes 45 (26), 85-90
+25
+2012
+Automatic sequencing of ballet poses
+A LaViers, Y Chen, C Belta, M Egerstedt
+IEEE Robotics & Automation Magazine 18 (3), 87-95
+25
+2011
+
+-----
+TITLE
+CITED BY
+YEAR
+Curve tracking control for autonomous vehicles with rigidly mounted range
+sensors
+J Kim, F Zhang, M Egerstedt
+Journal of Intelligent and Robotic Systems 56 (1-2), 177-197
+25
+2009
+Design, control, and applications of real-world multirobot systems [from the
+guest editors]
+C Kitts, M Egerstedt
+IEEE Robotics & Automation Magazine 15 (1), 8-8
+25
+2008
+Optimal multi-UAV convoy protection
+XC Ding, A Rahmani, M Egerstedt
+Robot Communication and Coordination, 2009. ROBOCOMM'09. Second …
+24
+2009
+Hybrid systems: computation and control
+J Hespanha, A Tiwari
+Springer Berlin/Heidelberg.
+24
+2006
+Distributed reactive power sharing control for microgrids with event-
+triggered communication
+Y Fan, G Hu, M Egerstedt
+IEEE Transactions on Control Systems Technology 25 (1), 118-128
+23
+2017
+Switched-mode systems: gradient-descent algorithms with Armijo step
+sizes
+Y Wardi, M Egerstedt, M Hale
+Discrete Event Dynamic Systems 25 (4), 571-599
+23
+2015
+Optimization of switched-mode systems with switching costs
+XC Ding, Y Wardi, D Taylor, M Egerstedt
+American Control Conference, 2008, 3965-3970
+23
+2008
+Optimal timing control of switched linear systems based on partial
+information
+M Egerstedt, S Azuma, Y Wardi
+Nonlinear Analysis: Theory, Methods & Applications 65 (9), 1736-1750
+23
+2006
+An optimal control approach to mode generation in hybrid systems
+TR Mehta, M Egerstedt
+Nonlinear Analysis: Theory, Methods & Applications 65 (5), 963-983
+23
+2006
+Special section on symbolic methods for complex control systems
+MB Egerstedt, E Frazzoli, G Pappas
+Georgia Institute of Technology
+23
+2006
+Asymptotic observers for discrete-time switched linear systems
+M Babaali, M Egerstedt
+IFAC Proceedings Volumes 38 (1), 1269-1274
+23
+2005
+A tight lower bound on the controllability of networks with multiple leaders
+AY Yazicioglu, W Abbas, M Egerstedt
+Decision and Control (CDC), 2012 IEEE 51st Annual Conference on, 1978-1983
+22
+2012
+Design of optimal switching surfaces for switched autonomous systems
+A Schild, XC Ding, M Egerstedt, J Lunze
+Decision and Control, 2009 held jointly with the 2009 28th Chinese Control …
+22
+2009
+
+-----
+TITLE
+CITED BY
+YEAR
+A hybrid bellman equation for systems with regional dynamics
+A Schollig, PE Caines, M Egerstedt, R Malhamé
+Decision and Control, 2007 46th IEEE Conference on, 3393-3398
+22
+2007
+On the structural complexity of multi-agent robot formations
+A Muhammad, M Egerstedt
+American Control Conference, 2004. Proceedings of the 2004 6, 4957-4962
+22
+2004
+Pathwise observability and controllability are decidable
+M Babaali, M Egerstedt
+Decision and Control, 2003. Proceedings. 42nd IEEE Conference on 6, 5771-5776
+22
+2003
+Leader selection via the manipulability of leader-follower networks
+H Kawashima, M Egerstedt
+American Control Conference (ACC), 2012, 6053-6058
+21
+2012
+The ballet automaton: A formal model for human motion
+A LaViers, M Egerstedt
+American Control Conference (ACC), 2011, 3837-3842
+21
+2011
+On the observability of piecewise linear systems
+M Babaali, M Egerstedt
+Decision and Control, 2004. CDC. 43rd IEEE Conference on 1, 26-31
+21
+2004
+Conflict resolution for autonomous vehicles: A case study in hierarchical
+control design
+MB Egerstedt, CF Martin
+Georgia Institute of Technology
+21
+2002
+Safe, remote-access swarm robotics research on the robotarium
+D Pickem, L Wang, P Glotfelter, Y Diaz-Mercado, M Mote, A Ames, ...
+arXiv preprint arXiv:1604.00640
+20
+2016
+Humanoid robot teleoperation for tasks with power tools
+R O'Flaherty, P Vieira, MX Grey, P Oh, A Bobick, M Egerstedt, M Stilman
+Technologies for Practical Robot applications (TePRa), 2013 ieee …
+20
+2013
+Controlled coverage using time-varying density functions
+SG Lee, M Egerstedt
+IFAC Proceedings Volumes 46 (27), 220-226
+20
+2013
+A controlled-precision algorithm for mode-switching optimization
+Y Wardi, M Egerstedt, P Twu
+Decision and Control (CDC), 2012 IEEE 51st Annual Conference on, 713-718
+20
+2012
+A provably complete exploration strategy by constructing Voronoi diagrams
+J Kim, F Zhang, M Egerstedt
+Autonomous Robots 29 (3-4), 367-380
+20
+2010
+Control Theoretic Splines
+M Egerstedt, C Martin
+Princeton University Press
+20
+2010
+Stencil printing process modeling and control using statistical neural
+networks
+LG Barajas, MB Egerstedt, EW Kamen, A Goldstein
+IEEE Transactions on Electronics Packaging Manufacturing 31 (1), 9-18
+20
+2008
+
+-----
+TITLE
+CITED BY
+YEAR
+Algorithm for switching-time optimization in hybrid dynamical systems
+H Axelsson, M Egerstedt, Y Wardi, G Vachtsevanos
+Intelligent Control, 2005. Proceedings of the 2005 IEEE International …
+20
+2005
+Statistical estimates for generalized splines
+M Egerstedt, C Martin
+ESAIM: Control, Optimisation and Calculus of Variations 9, 553-562
+20
+2003
+Probabilistic lifetime maximization of sensor networks
+H Jaleel, A Rahmani, M Egerstedt
+IEEE Transactions on Automatic Control 58 (2), 534-539
+19
+2013
+Path planning and flight controller scheduling for an autonomous helicopter
+M Egerstedt, TJ Koo, F Hoffmann, S Sastry
+International Workshop on Hybrid Systems: Computation and Control, 91-102
+19
+1999
+Controls for the masses [focus on education]
+M Egerstedt
+IEEE Control Systems 33 (4), 40-44
+18
+2013
+A game theoretic approach to distributed coverage of graphs by
+heterogeneous mobile agents
+AY Yazıcıoğlu, M Egerstedt, JS Shamma
+IFAC Proceedings Volumes 46 (27), 309-315
+18
+2013
+Optimal smoothing spline curves and contour synthesis
+H Kano, H Fujioka, M Egerstedt, CF Martin
+IFAC Proceedings Volumes 38 (1), 297-302
+18
+2005
+Optimal control of switching surfaces
+Y Wardi, M Egerstedt, M Boccadoro, E Verriest
+Decision and Control, 2004. CDC. 43rd IEEE Conference on 2, 1854-1859
+18
+2004
+Optimal control and monotone smoothing splines
+M Egerstedt, C Martin
+New Trends in Nonlinear Dynamics and Control and their Applications, 279-294
+18
+2003
+Multi-objective compositions for collision-free connectivity maintenance in
+teams of mobile robots
+L Wang, AD Ames, M Egerstedt
+Decision and Control (CDC), 2016 IEEE 55th Conference on, 2659-2664
+17
+2016
+Distribution of agents in heterogeneous multiagent systems
+W Abbas, M Egerstedt
+Decision and Control and European Control Conference (CDC-ECC), 2011 50th …
+17
+2011
+Adaptive look-ahead for robotic navigation in unknown environments
+G Droge, M Egerstedt
+Intelligent Robots and Systems (IROS), 2011 IEEE/RSJ International …
+17
+2011
+Observability and controllability verification in multi-agent systems through
+decentralized Laplacian spectrum estimation
+M Franceschelli, S Martini, M Egerstedt, A Bicchi, A Giua
+Decision and Control (CDC), 2010 49th IEEE Conference on, 5775-5780
+17
+2010
+*
+
+-----
+TITLE
+CITED BY
+YEAR
+Human-in-the-loop: Terminal constraint receding horizon control with
+human inputs
+R Chipalkatty, M Egerstedt
+Robotics and Automation (ICRA), 2010 IEEE International Conference on, 2712-2717
+17
+2010
+Linguistic control of mobile robots
+M Egerstedt
+Intelligent Robots and Systems, 2001. Proceedings. 2001 IEEE/RSJ …
+17
+2001
+Motion planning and control of mobile robots
+M Egerstedt
+Matematik
+17
+2000
+Toward optimal control of switched linear systems
+M Egerstedt, P Ogren, O Shakernia, J Lygeros
+Decision and Control, 2000. Proceedings of the 39th IEEE Conference on 1 …
+17
+2000
+Automatic formation deployment of decentralized heterogeneous multi-
+robot networks with limited sensing capabilities
+BS Smith, J Wang, M Egerstedt, A Howard
+Robotics and Automation, 2009. ICRA'09. IEEE International Conference on …
+16
+2009
+On the number of leaders needed to ensure network connectivity
+DV Dimarogonas, T Gustavi, M Egerstedt, X Hu
+Decision and Control, 2008. CDC 2008. 47th IEEE Conference on, 1797-1802
+16
+2008
+On-line optimization of switched-mode systems: Algorithms and
+convergence properties
+Y Wardi, XC Ding, M Egerstedt, S Azuma
+Decision and Control, 2007 46th IEEE Conference on, 5005-5010
+16
+2007
+A modular, hybrid system architecture for autonomous, urban driving
+D Wooden, M Powers, M Egerstedt, H Christensen, T Balch
+Journal of Aerospace Computing, Information, and Communication 4 (12), 1047-1058
+16
+2007
+Optimal approximation of functions
+Y Zhou, M Ergerstedt, C Martin
+Communications in Information and Systems 1 (1), 101-112
+16
+2001
+The Robotarium: A remotely accessible swarm robotics research testbed
+D Pickem, P Glotfelter, L Wang, M Mote, A Ames, E Feron, M Egerstedt
+Robotics and Automation (ICRA), 2017 IEEE International Conference on, 1699-1706
+15
+2017
+Haptic interactions with multi-robot swarms using manipulability
+T Setter, A Fouraker, H Kawashima, M Egerstedt
+Journal of Human-Robot Interaction 4 (1), 60–74
+15
+2015
+Minimizing mobility and communication energy in robotic networks: An
+optimal control approach
+H Jaleel, Y Wardi, M Egerstedt
+American Control Conference (ACC), 2014, 2662-2667
+15
+2014
+Multi-process control software for hubo2 plus robot
+MX Grey, N Dantam, DM Lofaro, A Bobick, M Egerstedt, P Oh, M Stilman
+Technologies for Practical Robot Applications (TePRA), 2013 IEEE …
+15
+2013
+
+-----
+TITLE
+CITED BY
+YEAR
+Distributed autonomous robotic systems
+A Martinoli, F Mondada, G Mermoud, N Correll, M Egerstedt, A Hsieh, ...
+Springer Tracts in Advanced Robotics, Springer-Verlag
+15
+2013
+Hybrid systems tools for compiling controllers for cyber-physical systems
+P Martin, MB Egerstedt
+Discrete Event Dynamic Systems 22 (1), 101-119
+15
+2012
+Network discovery: An estimation based approach
+G Chowdhary, M Egerstedt, EN Johnson
+American Control Conference (ACC), 2011, 1076-1081
+15
+2011
+Biologically inspired confinement of multi-robot systems
+MA Haque, AR Rahmani, MB Egerstedt
+International Journal of Bio-Inspired Computation 3 (4), 213-224
+15
+2011
+Controllability of homogeneous single-leader networks
+P Twu, M Egerstedt, S Martini
+Decision and Control (CDC), 2010 49th IEEE Conference on, 5869-5874
+15
+2010
+Continuity properties of nonlinear affine control systems: applications to
+hybrid and sliding mode dynamics
+V Azhmyakov, M Egerstedt, L Fridman, A Poznyak
+IFAC Proceedings Volumes 42 (17), 204-209
+15
+2009
+Periodic smoothing splines
+H Kano, M Egerstedt, H Fujioka, S Takahashi, C Martin
+Automatica 44 (1), 185-192
+15
+2008
+Graph-theoretic methods for multi-agent coordination
+MB Egerstedt
+Georgia Institute of Technology
+15
+2007
+On observability and reachability in a class of discrete-time switched linear
+systems
+M Egerstedt, M Babaali
+American Control Conference, 2005. Proceedings of the 2005, 1179-1180
+15
+2005
+Deformable-medium affordances for interacting with multi-robot systems
+M Diana, JP de la Croix, M Egerstedt
+Intelligent Robots and Systems (IROS), 2013 IEEE/RSJ International …
+14
+2013
+Distributed power allocation in prosumer networks
+T Ramachandran, Z Costello, P Kingston, S Grijalva, M Egerstedt
+IFAC Proceedings Volumes 45 (26), 156-161
+14
+2012
+Constructing and implementing motion programs for robotic marionettes
+P Martin, E Johnson, T Murphey, M Egerstedt
+IEEE Transactions on Automatic Control 56 (4), 902-907
+14
+2011
+On-line optimal timing control of switched systems
+Y Wardi, P Twu, M Egerstedt
+Decision and Control (CDC), 2010 49th IEEE Conference on, 2137-2142
+14
+2010
+Timing control of switched systems with applications to robotic marionettes
+P Martin, MB Egerstedt
+Discrete Event Dynamic Systems 20 (2), 233-248
+14
+2010
+*
+
+-----
+TITLE
+CITED BY
+YEAR
+Automatic deployment and formation control of decentralized multi-agent
+networks
+BS Smith, M Egerstedt, A Howard
+Robotics and Automation, 2008. ICRA 2008. IEEE International Conference on …
+14
+2008
+Decentralized formation selection mechanisms inspired by foraging
+bottlenose dolphins
+MA Haque, MB Egerstedt
+Georgia Institute of Technology
+14
+2008
+On time: Clocks, chronometers, and open-loop control
+SM LaValle, MB Egerstedt
+Decision and Control, 2007 46th IEEE Conference on, 1916-1922
+14
+2007
+Output-based optimal timing control of switched systems
+S Azuma, M Egerstedt, Y Wardi
+International Workshop on Hybrid Systems: Computation and Control, 64-78
+14
+2006
+Hilbert space methods for control theoretic splines: A unified treatment
+Y Zhou, M Egerstedt, C Martin
+Communications in Information & Systems 6 (1), 55-81
+14
+2006
+Decentralized coordination with local interactions: Some new directions
+A Muhammad, M Egerstedt
+Cooperative Control, 153-170
+14
+2005
+Trajectory planning in the infinity norm for linear control systems
+M Egerstedt, CF Martin
+International Journal of Control 72 (13), 1139-1146
+14
+1999
+Path planning and robust tracking for a car-like robot
+M Egerstedt, X Hu, H Rehbinder, A Stotsky
+Proceedings of the 5th symposium on intelligent robotic systems, 237-243
+14
+1997
+Balanced deployment of multiple robots using a modified Kuramoto model
+Z Xu, M Egerstedt, G Droge, K Schilling
+American Control Conference (ACC), 2013, 6138-6144
+13
+2013
+Index-free multi-agent systems: An eulerian approach
+P Kingston, M Egerstedt
+IFAC Proceedings Volumes 43 (19), 215-220
+13
+2010
+Real-time optimal feedback control of switched autonomous systems
+XC Ding, A Schild, M Egerstedt, J Lunze
+IFAC Proceedings Volumes 42 (17), 108-113
+13
+2009
+Simultaneous cooperative exploration and networking based on Voronoi
+diagrams
+J Kim, F Zhang, M Egerstedt
+IFAC Proceedings Volumes 42 (22), 1-6
+13
+2009
+Persistent formation control of multi-robot networks
+BS Smith, J Wang, MB Egerstedt
+Decision and Control, 2008. CDC 2008. 47th IEEE Conference on, 471-476
+13
+2008
+
+-----
+TITLE
+CITED BY
+YEAR
+Optimal timing control of interconnected, switched systems with
+applications to robotic marionettes
+P Martin, M Egerstedt
+Discrete Event Systems, 2008. WODES 2008. 9th International Workshop on, 156-161
+13
+2008
+Leader-based multi-agent coordination through hybrid optimal control
+S Björkenstam, M Ji, MB Egerstedt, CF Martin
+Georgia Institute of Technology
+13
+2006
+A provably convergent algorithm for transition-time optimization in switched
+systems
+H Axelsson, Y Wardi, M Egerstedt, E Verriest
+Decision and Control, 2005 and 2005 European Control Conference. CDC-ECC'05 …
+13
+2005
+An observer for linear systems with randomly-switching measurement
+equations
+M Babaali, M Egerstedt, EW Kamen
+American Control Conference, 2003. Proceedings of the 2003 3, 1879-1884
+13
+2003
+On the specification complexity of linguistic control procedures
+MB Egerstedt
+Georgia Institute of Technology
+13
+2002
+Distributed dynamic density coverage for human-swarm interactions
+Y Diaz-Mercado, SG Lee, M Egerstedt
+American Control Conference (ACC), 2015, 353-358
+12
+2015
+Multilevel coalition formation strategy for suppression of enemy air
+defenses missions
+M Haque, M Egerstedt, A Rahmani
+Journal of Aerospace Information Systems 10 (6), 287-296
+12
+2013
+Leader selection and network assembly for controllability of leader-follower
+networks
+AY Yazicioğlu, M Egerstedt
+American Control Conference (ACC), 2013, 3802-3807
+12
+2013
+Approximate manipulability of leader-follower networks
+H Kawashima, M Egerstedt
+Decision and Control and European Control Conference (CDC-ECC), 2011 50th …
+12
+2011
+Switched linear systems: Stability and the convergence of random
+products
+B Hanlon, N Wang, MB Egerstedt, C Martin
+Georgia Institute of Technology
+12
+2011
+Geometric foraging strategies in multi-agent systems based on biological
+models
+M Haque, A Rahmani, M Egerstedt
+Decision and Control (CDC), 2010 49th IEEE Conference on, 6040-6045
+12
+2010
+On the LQ-based optimization techniques for impulsive hybrid control
+systems
+V Azhmyakov, R Galvan-Guerra, M Egerstedt
+American Control Conference (ACC), 2010, 129-135
+12
+2010
+
+-----
+TITLE
+CITED BY
+YEAR
+Power-aware sensor coverage: An optimal control approach
+P Martin, R Galvan-Guerra, MB Egerstedt, V Azhmyakov
+Georgia Institute of Technology
+12
+2010
+An exploration strategy by constructing Voronoi Diagrams with provable
+completeness
+J Kim, F Zhang, M Egerstedt
+Decision and Control, 2009 held jointly with the 2009 28th Chinese Control …
+12
+2009
+An optimal timing approach to controlling multiple UAVs
+XC Ding, M Powers, M Egerstedt, R Young
+American Control Conference, 2009. ACC'09., 5374-5379
+12
+2009
+Optimization of multi-agent motion programs with applications to robotic
+marionettes
+P Martin, M Egerstedt
+International Workshop on Hybrid Systems: Computation and Control, 262-275
+12
+2009
+A hybrid, multi-agent model of foraging bottlenose dolphins
+M Haque, A Rahmani, M Egerstedt
+IFAC Proceedings Volumes 42 (17), 262-267
+12
+2009
+Hierarchical containment control in heterogeneous mobile networks
+M Ji, MB Egerstedt, G Ferrari-Trecate, A Buffa
+Georgia Institute of Technology
+12
+2006
+Nonpathological sampling of switched linear systems
+M Babaali, M Egerstedt
+IEEE transactions on automatic control 50 (12), 2102-2105
+12
+2005
+Sliding mode control of a car-like mobile robot using single-track dynamic
+model
+A Stotsky, X Hu
+Variable structure systems, sliding mode and nonlinear control, 181-191
+12
+1999
+Trust-based interactions in teams of mobile agents
+T Setter, A Gasparri, M Egerstedt
+American Control Conference (ACC), 2016, 6158-6163
+11
+2016
+Deploying Robots With Two Sensors in K1, 6‐Free Graphs
+W Abbas, M Egerstedt, CH Liu, R Thomas, P Whalen
+Journal of Graph Theory 82 (3), 236-252
+11
+2016
+Correct-by-construction control synthesis for multi-robot mixing
+Y Diaz-Mercado, A Jones, C Belta, M Egerstedt
+Decision and Control (CDC), 2015 IEEE 54th Annual Conference on, 221-226
+11
+2015
+Heterogeneous multi-robot routing
+S Chopra, M Egerstedt
+American Control Conference (ACC), 2014, 5390-5395
+11
+2014
+Optimization of multiagent systems with increasing state dimensions:
+hybrid LQ approach
+R Galvan-Guerra, V Azhmyakov, M Egerstedt
+American Control Conference (ACC), 2011, 881-887
+11
+2011
+
+-----
+TITLE
+CITED BY
+YEAR
+Approximability of nonlinear affine control systems
+V Azhmyakov, M Egerstedt, L Fridman, A Poznyak
+Nonlinear Analysis: Hybrid Systems 5 (2), 275-288
+11
+2011
+Trajectory planning for linear control systems with generalized splines
+M Egerstedt, CF Martin
+Proceedings of the mathematical theory of networks and systems, Padova, Italy
+11
+1998
+Safety Barrier certificates for collisions-free multirobot systems
+L Wang, AD Ames, M Egerstedt
+IEEE Transactions on Robotics 33 (3), 661-674
+10
+2017
+A control lyapunov function approach to human-swarm interactions
+JP de la Croix, M Egerstedt
+American Control Conference (ACC), 2015, 4368-4373
+10
+2015
+Cloud-based optimization: A quasi-decentralized approach to multi-agent
+coordination
+MT Hale, M Egerstedt
+Decision and Control (CDC), 2014 IEEE 53rd Annual Conference on, 6635-6640
+10
+2014
+Shortest paths through 3-dimensional cluttered environments
+J Lu, Y Diaz-Mercado, M Egerstedt, H Zhou, SN Chow
+Robotics and Automation (ICRA), 2014 IEEE International Conference on, 6579-6585
+10
+2014
+Interacting with networks of mobile agents
+M Egerstedt, JP de la Croix, H Kawashima, P Kingston
+Large-Scale Networks in Engineering and Life Sciences, 199-224
+10
+2014
+Hierarchical assembly of leader-asymmetric, single-leader networks
+W Abbas, M Egerstedt
+American Control Conference (ACC), 2011, 1082-1087
+10
+2011
+Adaptive time horizon optimization in model predictive control
+G Droge, M Egerstedt
+American Control Conference (ACC), 2011, 1843-1848
+10
+2011
+Controllability of networked systems
+M Egerstedt
+Mathematical Theory of Networks and Systems
+10
+2010
+Constrained invariant motions for networked multi-agent systems
+M Franceschelli, M Egerstedt, A Giua, C Mahulea
+American Control Conference, 2009. ACC'09., 5749-5754
+10
+2009
+First-order, networked control models of swarming silkworm moths
+MA Haque, M Egerstedt, CF Martin
+American Control Conference, 2008, 3798-3803
+10
+2008
+Control-driven mapping and planning
+D Wooden, M Powersy, DC MacKenziex, T Balchy, M Egerstedt
+Intelligent Robots and Systems, 2007. IROS 2007. IEEE/RSJ International …
+10
+2007
+Optimal control of multi-dimensional, hybrid ice-skater model
+TR Mehta, D Yeung, EI Verriest, M Egerstedt
+American Control Conference, 2007. ACC'07, 2787-2792
+10
+2007
+
+-----
+TITLE
+CITED BY
+YEAR
+Choreography for marionettes: Imitation, planning, and control
+TD Murphey, MB Egerstedt
+Georgia Institute of Technology
+10
+2007
+Control theoretic splines with deterministic and random data
+Y Zhou, M Egerstedt, C Martin
+Decision and Control, 2005 and 2005 European Control Conference. CDC-ECC'05 …
+10
+2005
+Transition-time optimization for switched systems
+H Axelsson, Y Wardi, M Egerstedt
+IFAC Proceedings volumes 38 (1), 453-458
+10
+2005
+A note on the connection between Bezier curves and linear optimal control
+MB Egerstedt, CF Martin
+IEEE transactions on automatic control 49 (10), 1728-1732
+10
+2004
+Some complexity aspects of the control of mobile robots
+M Egerstedt
+American Control Conference, 2002. Proceedings of the 2002 1, 710-715
+10
+2002
+A hybrid control approach to action coordination for mobile robots
+M Egerstedt, X Hu, A Stotsky
+IFAC Proceedings Volumes 32 (2), 617-622
+10
+1999
+Formation of robust multi-agent networks through self-organizing random
+regular graphs
+AY Yazıcıoğlu, M Egerstedt, JS Shamma
+IEEE Transactions on Network Science and Engineering 2 (4), 139-151
+9
+2015
+Team-level properties for haptic human-swarm interactions
+T Setter, H Kawashima, M Egerstedt
+American Control Conference (ACC), 2015, 453-458
+9
+2015
+Manipulability of leader–follower networks with the rigid-link approximation
+H Kawashima, M Egerstedt
+Automatica 50 (3), 695-706
+9
+2014
+Style-based robotic motion in contemporary dance performance
+A LaViers, L Teague, M Egerstedt
+Controls and Art, 205-229
+9
+2014
+Distributed parameterized model predictive control of networked multi-
+agent systems
+G Droge, M Egerstedt
+American Control Conference (ACC), 2013, 1332-1337
+9
+2013
+Optimal switching control of a step-down dc-dc converter
+H Kawashima, Y Wardi, D Taylor, M Egerstedt
+American Control Conference (ACC), 2012, 1454-1459
+9
+2012
+Rendezvous with multiple, intermittent leaders
+G Notarstefano, M Egerstedt, M Haque
+Decision and Control, 2009 held jointly with the 2009 28th Chinese Control …
+9
+2009
+Coalition formation in multi-agent systems based on bottlenose dolphin
+alliances
+MA Haque, M Egerstedt
+American Control Conference, 2009. ACC'09., 3280-3285
+9
+2009
+
+-----
+TITLE
+CITED BY
+YEAR
+Multi-modal control using adaptive motion description languages
+TR Mehta, M Egerstedt
+Automatica 44 (7), 1912-1917
+9
+2008
+A software tool for hybrid control
+F Delmotte, TR Mehta, M Egerstedt
+IEEE robotics & automation magazine 15 (1)
+9
+2008
+Reconstruction of low-complexity control programs from data
+F Delmotte, M Egerstedt
+Decision and Control, 2004. CDC. 43rd IEEE Conference on 2, 1460-1465
+9
+2004
+Optimal control of switching surfaces in hybrid dynamic systems
+M Boccadoro, M Egerstedt, Y Wardi
+IFAC Proceedings Volumes 37 (18), 129-134
+9
+2004
+Observability and policy optimization for mobile robots
+M Egerstedt, D Hristu-Varsakelis
+Decision and Control, 2002, Proceedings of the 41st IEEE Conference on 4 …
+9
+2002
+On the regularization of Zeno hybrid automata
+M Egerstedt, KH Johansson, S Sastry, J Lygeros
+Systems and Control Letters 38, 141-150
+9
+1999
+Graph distances and controllability of networks
+AY Yazıcıoğlu, W Abbas, M Egerstedt
+IEEE Transactions on Automatic Control 61 (12), 4125-4130
+8
+2016
+Cloud-based centralized/decentralized multi-agent optimization with
+communication delays
+MT Hale, A Nedić, M Egerstedt
+Decision and Control (CDC), 2015 IEEE 54th Annual Conference on, 700-705
+8
+2015
+Spatio-temporal multi-robot routing
+S Chopra, M Egerstedt
+Automatica 60, 173-181
+8
+2015
+Optimal control of switched dynamical systems under dwell time
+constraints
+U Ali, M Egerstedt
+Decision and Control (CDC), 2014 IEEE 53rd Annual Conference on, 4673-4678
+8
+2014
+A measure of heterogeneity in multi-agent systems
+P Twu, Y Mostofi, M Egerstedt
+American Control Conference (ACC), 2014, 3972-3977
+8
+2014
+Optimal trajectory generation for next generation flight management
+systems
+Y Diaz-Mercado, SG Lee, M Egerstedt, SY Young
+Digital Avionics Systems Conference (DASC), 2013 IEEE/AIAA 32nd, 3C5-1-3C5-10
+8
+2013
+Responsiveness and manipulability of formations of multi-robot networks
+H Kawashima, G Zhu, J Hu, M Egerstedt
+Decision and Control (CDC), 2012 IEEE 51st Annual Conference on, 4622-4628
+8
+2012
+Musical abstractions in distributed multi-robot systems
+A Albin, G Weinberg, M Egerstedt
+Intelligent Robots and Systems (IROS), 2012 IEEE/RSJ International …
+8
+2012
+
+-----
+TITLE
+CITED BY
+YEAR
+Securing multiagent systems against a sequence of intruder attacks
+W Abbas, M Egerstedt
+American Control Conference (ACC), 2012, 4161-4166
+8
+2012
+Dynamic chess: Strategic planning for robot motion
+T Kunz, P Kingston, M Stilman, M Egerstedt
+Robotics and Automation (ICRA), 2011 IEEE International Conference on, 3796-3803
+8
+2011
+Biologically inspired coalition formation of multi-agent systems
+M Haque, A Rahmani, M Egerstedt
+Proceedings of the 9th International Conference on Autonomous Agents and …
+8
+2010
+Mode reconstruction for source coding and multi-modal control
+A Austin, M Egerstedt
+International Workshop on Hybrid Systems: Computation and Control, 36-49
+8
+2003
+Formation control under limited sensory range constraints
+MB Egerstedt, M Abubakr, X Hu
+Georgia Institute of Technology
+8
+2002
+Monotone smoothing splines
+M Egerstedt, CF Martin
+Proceedings of the Mathematical Theory of Networks and Systems, 1020-1028
+8
+2000
+Safety barrier certificates for heterogeneous multi-robot systems
+L Wang, A Ames, M Egerstedt
+American Control Conference (ACC), 2016, 5213-5218
+7
+2016
+Altering UAV flight path by threatening collision
+P Pierpaoli, M Egerstedt, A Rahmani
+Digital Avionics Systems Conference (DASC), 2015 IEEE/AIAA 34th, 4A4-1-4A4-10
+7
+2015
+The degree of nonholonomy in distributed computations
+Z Costello, M Egerstedt
+Decision and Control (CDC), 2014 IEEE 53rd Annual Conference on, 6092-6098
+7
+2014
+Efficient foraging strategies in multi-agent systems through curve
+evolutions
+M Haque, A Rahmani, M Egerstedt, A Yezzi
+IEEE Transactions on Automatic Control 59 (4), 1036-1041
+7
+2014
+Multi-robot routing for servicing spatio-temporal requests: A musically
+inspired problem
+S Chopra, M Egerstedt
+IFAC Proceedings Volumes 45 (9), 319-324
+7
+2012
+Distributed-infrastructure multi-robot routing using a Helmholtz-Hodge
+decomposition
+P Kingston, M Egerstedt
+Decision and Control and European Control Conference (CDC-ECC), 2011 50th …
+7
+2011
+Duty cycle scheduling in dynamic sensor networks for controlling event
+detection probabilities
+H Jaleel, A Rahmani, M Egerstedt
+American Control Conference (ACC), 2011, 3233-3238
+7
+2011
+
+-----
+TITLE
+CITED BY
+YEAR
+A switching active sensing strategy to maintain observability for vision-
+based formation control
+GL Mariottini, S Martini, MB Egerstedt
+Robotics and Automation, 2009. ICRA'09. IEEE International Conference on …
+7
+2009
+Optimal impulsive control of delay systems
+F Delmotte, EI Verriest, M Egerstedt
+ESAIM: Control, Optimisation and Calculus of Variations 14 (4), 767-779
+7
+2008
+Optimal membership functions for multi-modal control
+TR Mehta, M Egerstedt
+American Control Conference, 2006, 6 pp.
+7
+2006
+Applications of connectivity graph processes in networked sensing and
+control
+A Muhammad, M Ji, M Egerstedt
+Networked Embedded Sensing and Control, 69-82
+7
+2006
+Beyond the construction of optimal switching surfaces for autonomous
+hybrid systems
+M Boccadoro, M Egerstedt, P Valigi, Y Wardi
+Analysis and Design of Hybrid Systems 2006, 101-105
+7
+2006
+Motion alphabet augmentation based on past experiences
+TR Mehta, F Delmotte, M Egerstedt
+Decision and Control, 2005 and 2005 European Control Conference. CDC-ECC'05 …
+7
+2005
+Reactive robot navigation using optimal timing control
+H Axelsson, M Egerstedt, Y Wardi
+American Control Conference, 2005. Proceedings of the 2005, 4929-4934
+7
+2005
+Positivstellensatz certificates for non-feasibility of connectivity graphs in
+multi-agent coordination
+A Muhammad, M Egerstedt
+IFAC Proceedings Volumes 38 (1), 217-222
+7
+2005
+Topology and complexity of formations
+A Muhammad, MB Egerstedt
+Georgia Institute of Technology
+7
+2003
+How hard is it to control switched systems?
+M Egerstedt, VD Blondel
+American Control Conference, 2002. Proceedings of the 2002 3, 1869-1873
+7
+2002
+Optimal pesticide scheduling in precision agriculture
+A Jones, U Ali, M Egerstedt
+Cyber-Physical Systems (ICCPS), 2016 ACM/IEEE 7th International Conference …
+6
+2016
+Set-valued protocols for almost consensus of multiagent systems with
+uncertain interagent communication
+T Sadikhov, WM Haddad, R Goebel, M Egerstedt
+American Control Conference (ACC), 2014, 4002-4007
+6
+2014
+Controls and Art: Inquiries at the Intersection of the Subjective and the
+Objective
+A LaViers, M Egerstedt
+Springer Science & Business Media
+6
+2014
+
+-----
+TITLE
+CITED BY
+YEAR
+Energy-efficient data collection in heterogeneous wireless sensor and actor
+networks
+W Abbas, H Jaleel, M Egerstedt
+Decision and Control (CDC), 2013 IEEE 52nd Annual Conference on, 4164-4169
+6
+2013
+Scaling the size of a multiagent formation via distributed feedback
+S Coogan, M Arcak, M Egerstedt
+Decision and Control and European Control Conference (CDC-ECC), 2011 50th …
+6
+2011
+Distributed scheduling for air traffic throughput maximization during the
+terminal phase of flight
+R Chipalkatty, P Twu, A Rahmani, M Egerstedt
+Decision and Control (CDC), 2010 49th IEEE Conference on, 1195-1200
+6
+2010
+Multi-pendulum synchronization using constrained agreement protocols
+R Chipalkatty, M Egerstedt, SI Azuma
+Robot Communication and Coordination, 2009. ROBOCOMM'09. Second …
+6
+2009
+Learning multi-modal control programs
+TR Mehta, M Egerstedt
+International Workshop on Hybrid Systems: Computation and Control, 466-479
+6
+2005
+Control of autonomous mobile robots
+M Egerstedt
+Handbook of Networked and Embedded Control Systems, 767-778
+6
+2005
+Pathwise observability through arithmetic progressions and non-
+pathological sampling
+M Babaali, M Egerstedt
+American Control Conference, 2004. Proceedings of the 2004 6, 5824-5828
+6
+2004
+Data-driven generation of low-complexity control programs
+F Delmotte, MB Egerstedt, A Austin
+Georgia Institute of Technology
+6
+2004
+Communication-free distributed coverage for networked systems
+AY Yazıcıoğlu, M Egerstedt, JS Shamma
+IEEE Transactions on Control of Network Systems 4 (3), 499-510
+5
+2017
+Overcoming communication delays in distributed frequency regulation
+T Ramachandran, MH Nazari, S Grijalva, M Egerstedt
+IEEE Transactions on Power Systems 31 (4), 2965-2973
+5
+2016
+Hybrid control of multi-robot systems using embedded graph grammars
+M Guo, M Egerstedt, DV Dimarogonas
+Robotics and Automation (ICRA), 2016 IEEE International Conference on, 5242-5247
+5
+2016
+Temporal heterogeneity and the value of slowness in robotic systems
+RC Arkin, M Egerstedt
+Robotics and Biomimetics (ROBIO), 2015 IEEE International Conference on …
+5
+2015
+From global, finite-time, linear computations to local, edge-based
+interaction rules
+Z Costello, M Egerstedt
+IEEE Transactions on Automatic Control 60 (8), 2237-2241
+5
+2015
+
+-----
+TITLE
+CITED BY
+YEAR
+Proportional integral distributed optimization for dynamic network
+topologies
+G Droge, M Egerstedt
+American Control Conference (ACC), 2014, 3621-3626
+5
+2014
+The Inaugural Issue of the IEEE Transactions on Control of Network
+Systems
+M Egerstedt
+IEEE Transactions on Control of Network Systems 1 (1), 1-3
+5
+2014
+Multi-robot mixing using braids
+Y Diaz-Mercado, M Egerstedt
+Decision and Control (CDC), 2013 IEEE 52nd Annual Conference on, 2001-2005
+5
+2013
+Complete heterogeneous self-reconfiguration: Deadlock avoidance using
+hole-free assemblies
+D Pickem, M Egerstedt, JS Shamma
+IFAC Proceedings Volumes 46 (27), 404-410
+5
+2013
+Kinematics and Inverse Kinematics for the Humanoid Robot HUBO2+
+R O’Flaherty, P Vieira, M Grey, P Oh, A Bobick, M Egerstedt, M Stilman
+Georgia Institute of Technology
+5
+2013
+Behavior-based switch-time mpc for mobile robots
+G Droge, P Kingston, M Egerstedt
+Intelligent Robots and Systems (IROS), 2012 IEEE/RSJ International …
+5
+2012
+Merging and spacing of heterogeneous aircraft in support of NextGen
+R Chipalkatty, P Twu, AR Rahmani, M Egerstedt
+Journal of Guidance, Control, and Dynamics 35 (5), 1637-1646
+5
+2012
+Towards power-aware rendezvous
+H Jaleel, S Bopardikar, M Egerstedt
+Decision and Control and European Control Conference (CDC-ECC), 2011 50th …
+5
+2011
+Time and output warping of control systems: Comparing and imitating
+motions
+P Kingston, M Egerstedt
+Automatica 47 (8), 1580-1588
+5
+2011
+A hardware testbed for multi-uav collaborative ground convoy protection in
+dynamic environments
+P Twu, R Chipalkatty, JP de la Croix, A Rahmani, T Ramachandran, ...
+AIAA Modeling and Simulation Technologies Conference, 6665
+5
+2011
+Biologically motivated shape optimization of foraging fronts
+M Haque, A Rahmani, M Egerstedt, A Yezzi
+American Control Conference (ACC), 2011, 4143-4148
+5
+2011
+Air traffic maximization for the terminal phase of flight under faa's nextgen
+framework
+P Twu, R Chipalkatty, A Rahmani, M Egerstedt, R Young
+Digital Avionics Systems Conference (DASC), 2010 IEEE/AIAA 29th, 2. C. 1-1-2 …
+5
+2010
+Sustainable group sizes for multi-agent search-and-patrol teams
+M Haque, M Egerstedt, C Martin
+GEORGIA INST OF TECH ATLANTA SCHOOL OF ELECTRICAL AND COMPUTER
+ENGINEERING
+5
+2010
+
+-----
+TITLE
+CITED BY
+YEAR
+Optimal motion primitives for multi-UAV convoy protection
+A Rahmani, XC Ding, M Egerstedt
+Robotics and Automation (ICRA), 2010 IEEE International Conference on, 4469-4474
+5
+2010
+Dynamic spectral clustering
+A LaViers, AR Rahmani, MB Egerstedt
+Georgia Institute of Technology
+5
+2010
+Statistical learning for optimal control of hybrid systems
+J Piovesan, C Abdallah, M Egerstedt, H Tanner, Y Wardi
+American Control Conference, 2007. ACC'07, 2775-2780
+5
+2007
+On finding globally optimal paths through weighted colored graphs
+D Wooden, M Egerstedt
+Decision and Control, 2006 45th IEEE Conference on, 1948-1953
+5
+2006
+Optimal mode-switching for hybrid systems with unknown initial state
+H Axelsson, M Boccadoro, Y Wardi, M Egerstedt
+Analysis and Design of Hybrid Systems 2006, 95-100
+5
+2006
+Obstacle avoidance for mobile robots using switching surface optimization
+M Boccadoro, M Egerstedt, Y Wardi
+IFAC Proceedings Volumes 38 (1), 19-24
+5
+2005
+Process control in a high-noise environment using a limited number of
+measurements
+LG Barajas, MB Egerstedt, EW Kamen, A Goldstein
+American Control Conference, 2003. Proceedings of the 2003 1, 597-602
+5
+2003
+Nonsmooth Barrier Functions With Applications to Multi-Robot Systems
+P Glotfelter, J Cortés, M Egerstedt
+IEEE control systems letters 1 (2), 310-315
+4
+2017
+Optimal exploration in unknown environments
+R O'Flaherty, M Egerstedt
+Intelligent Robots and Systems (IROS), 2015 IEEE/RSJ International …
+4
+2015
+Decentralized formation of random regular graphs for robust multi-agent
+networks
+AY Yazıcıoğlu, M Egerstedt, JS Shamma
+Decision and Control (CDC), 2014 IEEE 53rd Annual Conference on, 595-600
+4
+2014
+Multi-robot mixing of nonholonomic mobile robots
+Y Diaz-Mercado, M Egerstedt
+Control Applications (CCA), 2014 IEEE Conference on, 524-529
+4
+2014
+Style-based abstractions for human motion classification
+A LaViers, M Egerstedt
+Cyber-Physical Systems (ICCPS), 2014 ACM/IEEE International Conference on, 84-91
+4
+2014
+Characterizing heterogeneity in cooperative networks from a resource
+distribution view-point
+W Abbas, M Egerstedt
+Georgia Institute of Technology
+4
+2014
+Decentralized degree regularization for multi-agent networks
+AY Yazicioglu, M Egerstedt, JS Shamma
+Decision and Control (CDC), 2013 IEEE 52nd Annual Conference on, 7498-7503
+4
+2013
+
+-----
+TITLE
+CITED BY
+YEAR
+Distributed Control of Multiagent Systems under Unknown Persistent
+Disturbances
+T Yucelen, M Egerstedt
+arXiv preprint arXiv:1310.3489
+4
+2013
+A separation signal for heterogeneous networks
+JP de la Croix, M Egerstedt
+Communication, Control, and Computing (Allerton), 2013 51st Annual Allerton …
+4
+2013
+Continuous-time proportional-integral distributed optimization for
+networked systems
+G Droge, H Kawashima, M Egerstedt
+arXiv preprint arXiv:1309.6613
+4
+2013
+Pancakes: A software framework for distributed robot and sensor network
+applications
+P Martin, JP de la Croix, M Egerstedt
+Distributed Autonomous Robotic Systems, 115-127
+4
+2013
+Multi-robot routing under connectivity constraints
+S Chopra, M Egerstedt
+IFAC Proceedings Volumes 45 (26), 67-72
+4
+2012
+Optimal decentralized gait transitions for snake robots
+G Droge, M Egerstedt
+Robotics and Automation (ICRA), 2012 IEEE International Conference on, 317-322
+4
+2012
+Self-reconfiguration using graph grammars for modular robotics
+D Pickem, M Egerstedt
+IFAC Proceedings Volumes 45 (9), 313-318
+4
+2012
+Intruder capturing game on a topological map assisted by information
+networks
+J Kim, S Maxon, M Egerstedt, F Zhang
+Decision and Control and European Control Conference (CDC-ECC), 2011 50th …
+4
+2011
+Scheduling multiple uninhabited aerial vehicles for target classification by
+single human operator
+AE Ortiz, C Langbort
+Journal of Aerospace Computing, Information, and Communication 8 (12), 328-345
+4
+2011
+Power-aware rendezvous with shrinking footprints
+H Jaleel, M Egerstedt
+Intelligent Robots and Systems (IROS), 2011 IEEE/RSJ International …
+4
+2011
+Decentralized classification in societies of autonomous and heterogenous
+robots
+S Martini, A Fagiolini, G Zichittella, M Egerstedt, A Bicchi
+Robotics and Automation (ICRA), 2011 IEEE International Conference on, 32-39
+4
+2011
+Expanding motion programs under input constraints
+P Martin, M Egerstedt
+American Control Conference (ACC), 2010, 2416-2421
+4
+2010
+Optimal decentralization of multi-agent motions
+P Twu, M Egerstedt
+American Control Conference (ACC), 2010, 2326-2331
+4
+2010
+
+-----
+TITLE
+CITED BY
+YEAR
+On-line adaptive optimal timing control of switched systems
+XC Ding, Y Wardi, M Egerstedt
+Decision and Control, 2009 held jointly with the 2009 28th Chinese Control …
+4
+2009
+Comparing apples and oranges through partial orders: An empirical
+approach
+P Kingston, M Egerstedt
+American Control Conference, 2009. ACC'09., 5434-5439
+4
+2009
+A control theoretic formulation of the generalized slam problem in robotics
+M Egerstedt, P Jensfelt
+American Control Conference, 2008, 2409-2414
+4
+2008
+Health monitoring of networked systems
+P Kingston, M Egerstedt, E Verriest
+Math. Theory of Networked Syst.(MTNS)
+4
+2008
+Symbolic Control and Planning of Robotic Motion [Grand Challenges of
+Robotics]
+C Belta, A Bicci, M Egerstedt, E Frazzoli, E Klavins, GJ Pappas
+Departmental Papers (ESE), 232
+4
+2007
+Optimal control of switched systems with applications to robotics and
+manufacturing
+M Boccadoro, M La Cava, Y Wardi, M Egerstedt
+Tesi di dottorato, Universita degli Studi, Perugia, Italia
+4
+2004
+A Closed-Loop Control Algorithm for Stencil Printing
+LG Barajas, EW Kamen, A Goldstein, M Egerstedt, B Small
+Proceedings of the Surface Mount Technology Association International …
+4
+2002
+Reactive mobile manipulation using dynamic trajectory tracking: design
+and implementation
+P Ogren, L Petersson, M Egerstedt, X Hu
+Decision and Control, 2000. Proceedings of the 39th IEEE Conference on 3 …
+4
+2000
+A control theoretic model of the combined planar motion of the human
+head and eye
+M Egerstedt, C Martin
+Applied mathematics and computation 90 (1), 61-95
+4
+1998
+A control theoretic model of the muscular actions in human head-eye
+coordination
+M Egerstedt, C Martin
+Journal of Mathematical Systems Estimation and Control 8, 245-248
+4
+1998
+Asynchronous Multiagent Primal-Dual Optimization
+MT Hale, A Nedić, M Egerstedt
+IEEE Transactions on Automatic Control 62 (9), 4421-4435
+3
+2017
+Safe certificate-based maneuvers for teams of quadrotors using differential
+flatness
+L Wang, AD Ames, M Egerstedt
+Robotics and Automation (ICRA), 2017 IEEE International Conference on, 3293-3298
+3
+2017
+
+-----
+TITLE
+CITED BY
+YEAR
+Differentially private objective functions in distributed cloud-based
+optimization
+Y Wang, M Hale, M Egerstedt, GE Dullerud
+Decision and Control (CDC), 2016 IEEE 55th Conference on, 3688-3694
+3
+2016
+Cloud-enabled multi-agent optimization with constraints and differentially
+private states
+M Hale, M Egerstedt
+Retrived from http://arxiv. org/abs/1507.04371
+3
+2015
+Distribution of agents with multiple capabilities in heterogeneous
+multiagent networks-A graph theoretic view
+W Abbas, M Egerstedt
+Decision and Control (CDC), 2012 IEEE 51st Annual Conference on, 290-295
+3
+2012
+Open Access and the Future of Scientific Publishing [President's Message]
+CG Cassandras
+IEEE Control Systems 32 (5), 10-12
+3
+2012
+Motion preference learning
+P Kingston, M Egerstedt
+American Control Conference (ACC), 2011, 3819-3824
+3
+2011
+The sting racing team's entry to the urban challenge
+M Powers, D Wooden, MB Egerstedt, HI Christensen, T Balch
+Georgia Institute of Technology
+3
+2011
+Automatic Generation of Ballet Phrases
+A LaViers, Y Chen, C Belta, M Egerstedt
+3
+2011
+Graph process specifications for hybrid networked systems
+P Twu, P Martin, M Egerstedt
+IFAC Proceedings Volumes 43 (12), 65-70
+3
+2010
+Stability of switched linear systems and the convergence of random
+products
+N Wang, M Egerstedt, C Martin
+Decision and Control, 2009 held jointly with the 2009 28th Chinese Control …
+3
+2009
+Motion description language-based topological maps for robot navigation
+P Martin, M Egerstedt
+Communications in Information & Systems 8 (2), 171-184
+3
+2008
+Realization of the sensor web concept for earth science using mobile
+robotic platforms
+AM Howard, B Smith, M Egerstedt
+Aerospace Conference, 2007 IEEE, 1-6
+3
+2007
+Convergence of gradient-descent algorithms for mode-scheduling
+problems in hybrid systems
+H Axelsson, Y Wardi, M Egerstedt
+Proceedings of the 17th international symposium on mathematical theory of …
+3
+2006
+Network configuration control via connectivity graph processes
+A Muhammad, M Egerstedt
+American Control Conference, 2006, 6 pp.
+3
+2006
+
+-----
+TITLE
+CITED BY
+YEAR
+Beyond graphs: higher dimensional structures for networked control
+systems
+A Muhammad, R Ghrist, M Egerstedt
+to appear, Control Sys
+3
+2006
+Modeling and control of SMT manufacturing lines using hybrid dynamic
+systems
+LG Barajas, A Kansal, A Saxena, M Egerstedt, A Goldstein, EW Kamen
+International Workshop on Hybrid Systems: Computation and Control, 66-80
+3
+2003
+Safe Learning of Quadrotor Dynamics Using Barrier Certificates
+L Wang, EA Theodorou, M Egerstedt
+arXiv preprint arXiv:1710.05472
+2
+2017
+Cloud-enabled differentially private multi-agent optimization with
+constraints
+MT Hale, M Egerstedt
+IEEE Transactions on Control of Network Systems
+2
+2017
+A Distributed Version of the Hungarian Method for Multirobot Assignment
+S Chopra, G Notarstefano, M Rice, M Egerstedt
+IEEE Transactions on Robotics 33 (4), 932-947
+2
+2017
+Convergence rate estimates for consensus over random graphs
+MT Hale, M Egerstedt
+American Control Conference (ACC), 2017, 1024-1029
+2
+2017
+Human–Swarm Interactions via Coverage of Time-Varying Densities
+Y Diaz-Mercado, SG Lee, M Egerstedt
+Trends in Control and Decision-Making for Human–Robot Collaboration Systems …
+2
+2017
+Hamiltonian-Based Algorithm for Optimal Control
+MT Hale, Y Wardi, H Jaleel, M Egerstedt
+arXiv preprint arXiv:1603.02747
+2
+2016
+Controllability of prosumer-based networks in the presence of
+communication failures
+T Ramachandran, M Nazari, M Egerstedt
+Decision and Control (CDC), 2015 IEEE 54th Annual Conference on, 4770-4775
+2
+2015
+From algorithms to architectures in cyber-physical networks
+M Egerstedt
+Cyber-Physical Systems 1 (2-4), 67-75
+2
+2015
+Effects of insufficient time-scale separation in cascaded, networked
+systems
+K Sakurama, EI Verriest, M Egerstedt
+American Control Conference (ACC), 2015, 4683-4688
+2
+2015
+Analyzing Human-Swarm Interactions Using Control Lyapunov Functions
+and Optimal Control.
+JP de la Croix, MB Egerstedt
+Georgia Institute of Technology
+2
+2015
+Low-dimensional learning for complex robots
+R O'Flaherty, M Egerstedt
+IEEE Transactions on Automation Science and Engineering 12 (1), 19-27
+2
+2015
+
+-----
+TITLE
+CITED BY
+YEAR
+Minimum time power-aware rendezvous for multi-agent networks
+T Setter, M Egerstedt
+Control Applications (CCA), 2014 IEEE Conference on, 2159-2164
+2
+2014
+From global linear computations to local interaction rules
+Z Costello, M Egerstedt
+arXiv preprint arXiv:1311.5959
+2
+2013
+Sleep scheduling of wireless sensor networks using hard-core point
+processes
+H Jaleel, M Egerstedt
+American Control Conference (ACC), 2013, 788-793
+2
+2013
+Graph process specifications for hybrid networked systems
+PY Twu, P Martin, MB Egerstedt
+Discrete Event Dynamic Systems 22 (4), 541-577
+2
+2012
+3D reconfiguration using graph grammars for modular robotics
+D Pickem
+Georgia Institute of Technology
+2
+2011
+Topology-induced connectivity bounds in leader-follower networks
+T Gustavi, DV Dimarogonas, MB Egerstedt, X Hu
+Georgia Institute of Technology
+2
+2010
+System and Methods for Data-Driven Control of Manufacturing Processes
+L Barajas, M Egerstedt, A Goldstein, E Kamen
+US Patent App. 11/567,961
+2
+2007
+Solving coverage problems with embedded graph grammars. hybrid
+systems: Computation and control
+J Mcnew, E Klavins, M Egerstedt
+2
+2007
+Hybrid function approximation: a variational approach
+F Delmotte, M Egerstedt, E Verriest
+Decision and Control, 2005 and 2005 European Control Conference. CDC-ECC'05 …
+2
+2005
+Robust finite-time connectivity preserving coordination of second-order
+multi-agent systems
+C Sun, G Hu, L Xie, M Egerstedt
+Automatica 89, 21-27
+1
+2018
+Hybrid optimal control under mode switching constraints with applications
+to pesticide scheduling
+U Ali, M Egerstedt
+ACM Transactions on Cyber-Physical Systems 2 (1), 2
+1
+2018
+Coverage Control for Multi-Robot Teams With Heterogeneous Sensing
+Capabilities
+M Santos, Y Diaz-Mercado, M Egerstedt
+IEEE Robotics and Automation Letters
+1
+2018
+Infinitesimally shape-similar motions using relative angle measurements
+I Buckley, M Egerstedt
+Intelligent Robots and Systems (IROS), 2017 IEEE/RSJ International …
+1
+2017
+
+-----
+TITLE
+CITED BY
+YEAR
+Realizing simultaneous lane keeping and adaptive speed regulation on
+accessible mobile robot testbeds
+X Xu, T Waters, D Pickem, P Glotfelter, M Egerstedt, P Tabuada, ...
+Control Technology and Applications (CCTA), 2017 IEEE Conference on, 1769-1775
+1
+2017
+Collisions as information sources in densely packed multi-robot systems
+under mean-field approximations
+S Mayya, P Pierpaoli, G Nair, M Egerstedt
+Proc. Robot., Sci. Syst. Conf.
+1
+2017
+Energy-constrained coordination of multi-robot teams
+T Setter, M Egerstedt
+IEEE Transactions on Control Systems Technology 25 (4), 1257-1263
+1
+2017
+Robust finite-time connectivity preserving consensus tracking and
+formation control for multi-agent systems
+C Sun, G Hu, L Xie, M Egerstedt
+American Control Conference (ACC), 2017, 1990-1995
+1
+2017
+Trust in multi-agent networks: From self-centered to team-oriented
+T Setter, A Gasparri, M Egerstedt
+American Control Conference (ACC), 2017, 997-1002
+1
+2017
+Scalable stability and time-scale separation of networked, cascaded
+systems
+K Sakurama, EI Verriest, M Egerstedt
+IEEE Transactions on Control of Network Systems
+1
+2016
+On the construction of local interaction rules that perform global linear
+computation
+Z Costello, J Ruths, M Egerstedt
+Decision and Control (CDC), 2015 IEEE 54th Annual Conference on, 2588-2593
+1
+2015
+A game-theoretic formulation of the homogeneous self-reconfiguration
+problem
+D Pickem, M Egerstedt, JS Shamma
+Decision and Control (CDC), 2015 IEEE 54th Annual Conference on, 2829-2834
+1
+2015
+Inter-Robot Interactions in Multi-Robot Systems Using Braids
+Y Diaz-Mercado, M Egerstedt
+arXiv preprint arXiv:1509.04826
+1
+2015
+Coordinated Convoy Protection Among Teams of Unmanned Aerial
+Vehicles
+M Egerstedt, A Rahmani, SYR Young
+Handbook of Unmanned Aerial Vehicles, 2049-2077
+1
+2015
+Metric preference learning with applications to motion imitation
+P Kingston, J von Hinezmeyer, M Egerstedt
+Controls and Art, 1-26
+1
+2014
+Distributed and adaptive power-aware scheduling of wireless sensor
+networks
+H Jaleel, M Egerstedt
+Decision and Control (CDC), 2013 IEEE 52nd Annual Conference on, 4152-4157
+1
+2013
+
+-----
+TITLE
+CITED BY
+YEAR
+Learning to locomote: Action sequences and switching boundaries
+R O'Flaherty, M Egerstedt
+Automation Science and Engineering (CASE), 2013 IEEE International …
+1
+2013
+On the Role of Homogeneity When Controlling Single‐Leader Networks
+P Twu, M Egerstedt
+Asian Journal of Control 15 (4), 944-956
+1
+2013
+Multi-robot search and rescue: An open-ended educational bridge between
+theory and practice
+PY Twu, MB Egerstedt
+Georgia Institute of Technology
+1
+2013
+Constrained agreement protocols for tree graph topologies
+R Chipalkatty, M Egerstedt
+International Journal of Control 85 (5), 457-474
+1
+2012
+Switching control in DC-DC converter circuits: Optimizing tracking-energy
+tradeoffs
+H Kawashima, Y Wardi, D Taylor, M Egerstedt
+IFAC Proceedings Volumes 45 (9), 198-203
+1
+2012
+Optimization of foraging multi-agent system front: A flux-based curve
+evolution method
+M Haque, A Rahmani, M Egerstedt, A Yezzi
+Robotics and Biomimetics (ROBIO), 2011 IEEE International Conference on, 859-864
+1
+2011
+Make your robot talk correctly: Deriving models of hybrid system
+N Dantam, M Stilman, MB Egerstedt
+Georgia Institute of Technology
+1
+2011
+Battery level estimation of mobile agents under communication constraints
+J Kim, F Zhang, M Egerstedt
+Sensor Networks, Ubiquitous, and Trustworthy Computing (SUTC), 2010 IEEE …
+1
+2010
+Smoothing Splines on the Torus
+F Egebrand, MB Egerstedt, CF Martin
+Georgia Institute of Technology
+1
+2010
+Pilot Decision Support for Controlling Multiple UAVs
+XC Ding, M Powers, M Egerstedt, R Young, T Balch
+IEEE Robotics and Automation Magazine
+1
+2009
+Adaptive Optimal Timing Control of Hybrid Systems
+D Ding, Y Wardi, M Egerstedt
+Mathematical Theory of Networks and Systems
+1
+2008
+DARPA Urban Challenge
+T Balch, H Christensen, V Camp, D Logston, T Collins, M Powers, ...
+1
+2007
+Optimal Switching Surfaces in Behavior-Based Robotics
+H Axelsson, M Egerstedt, Y Wardi
+Decision and Control, 2006 45th IEEE Conference on, 1954-1959
+1
+2006
+Quantized Principal Component Analysis with Applications to Low-
+Bandwidth Image Compression and Communication
+D Wooden, M Egerstedt, BK Ghosh
+ISCIE Symposium on Stochastic Systems Theory and Its Applications
+1
+2005
+
+-----
+TITLE
+CITED BY
+YEAR
+From empirical data to multi-modal control procedures
+F Delmotte, M Egerstedt
+New Directions and Applications in Control Theory, 81-95
+1
+2005
+Optimal sample time selections for interpolation and smoothing
+F Delmotte, M Egerstedt, C Martin
+IFAC Proceedings Volumes 38 (1), 105-110
+1
+2005
+Tracking the fluid level in a double tank system: an example of optimal
+control in a switched-mode system with arbitrary number of switches
+H Axelsson, Y Wardi, M Egerstedt, EI Verriest
+Technical Memorandum, Georgia Institute of Technology, School of Electrical …
+1
+Herdable Systems Over Signed, Directed Graphs
+SF Ruf, M Egerstedt, JS Shamma
+arXiv preprint arXiv:1804.04230
+2018
+Coverage Control for Wire-Traversing Robots
+G Notomista, M Egerstedt
+arXiv preprint arXiv:1802.08847
+2018
+Permissive Barrier Certificates for Safe Stabilization Using Sum-of-squares
+L Wang, D Han, M Egerstedt
+arXiv preprint arXiv:1802.08917
+2018
+A Parametric MPC Approach to Balancing the Cost of Abstraction for
+Differential-Drive Mobile Robots
+P Glotfelter, M Egerstedt
+arXiv preprint arXiv:1802.07199
+2018
+F. Bullo
+R Bitmead, E Chong, F Jabbari, M Egerstedt, T Parisini, LC Fu, ...
+IEEE CONTROL SYSTEMS MAGAZINE
+2018
+Safety-aware Adaptive Reinforcement Learning with Applications to
+Brushbot Navigation
+M Ohnishi, L Wang, G Notomista, M Egerstedt
+arXiv preprint arXiv:1801.09627
+2018
+Persistification of Robotic Tasks using Control Barrier Functions
+G Notomista, S Ruf, M Egerstedt
+IEEE Robotics and Automation Letters
+2018
+Dynamics of opinion-dependent product spread
+SF Ruf, K Paarporn, PE Paré, M Egerstedt
+Decision and Control (CDC), 2017 IEEE 56th Annual Conference on, 2935-2940
+2017
+Multirobot Mixing via Braid Groups
+Y Diaz-Mercado, M Egerstedt
+IEEE Transactions on Robotics 33 (6), 1375-1385
+2017
+Performance Regulation and Tracking via Lookahead Simulation:
+Preliminary Results and Validation
+Y Wardi, C Seatzu, M Egerstedt, I Buckley
+arXiv preprint arXiv:1708.04117
+2017
+
+-----
+TITLE
+CITED BY
+YEAR
+Safe open-loop strategies for handling intermittent communications in
+multi-robot systems
+S Mayya, M Egerstedt
+Robotics and Automation (ICRA), 2017 IEEE International Conference on, 5818-5823
+2017
+Phenomena Identification and Ranking Tables (PIRTs) Report for Material
+Selection and Possible Material Degradation Mechanisms in FHR
+PM Singh, K Chan, F Rahnema
+Georgia Institute of Technology
+2017
+Method of evolving junctions: A new approach to optimal path-planning in
+2D environments with moving obstacles
+W Li, SN Chow, M Egerstedt, J Lu, H Zho
+The International Journal of Robotics Research 36 (4), 403-413
+2017
+ThE RObOTARIuM A Remotely Accessible Swarm-Robotics Testbed
+M Egerstedt
+2017
+Control of Swarming Robots
+M Egerstedt, SG Lee, Y Diaz-Mercado, S Chopra
+US Patent App. 15/309,146
+2017
+Persistent Environmental Monitoring: Robots That Seemingly Do Nothing
+Most of the Time
+M Egerstedt
+Georgia Institute of Technology
+2017
+E. Chong
+F Bullo, F Doyle, M Prandini, M Egerstedt, T Parisini, LC Fu, ...
+IEEE CONTROL SYSTEMS MAGAZINE
+2017
+Coordinated Control of Multi-Robot Systems: A Survey
+J CORTÉS, M EGERSTEDT
+SICE Journal of Control, Measurement, and System Integration 10 (6), 495-503
+2017
+Hamiltonian-based algorithm for relaxed optimal control
+Y Wardi, M Egerstedt, MU Qureshi
+Decision and Control (CDC), 2016 IEEE 55th Conference on, 7222-7227
+2016
+Motion Coordination and Adaptation Using Deception and Human
+Interactions
+M Egerstedt, P Tsiotras
+Georgia Institute of Technology Atlanta United States
+2016
+Distributed frequency regulation in the presence of communication failure
+MH Nazari, S Grijalva, M Egerstedt
+Innovative Smart Grid Technologies Conference (ISGT), 2016 IEEE Power …
+2016
+Swarming robots
+M Egerstedt
+Mathematisches Forschungsinstitut Oberwolfach
+2016
+Approximately Truthful Multi-Agent Optimization Using Cloud-Enforced
+Joint Differential Privacy
+MT Hale, M Egerstedt
+arXiv preprint arXiv:1509.08161
+2015
+
+-----
+TITLE
+CITED BY
+YEAR
+2015 Index IEEE Transactions on Network Science and Engineering Vol. 2
+A Bemporad, S Bubeck, B Chazelle, Y Chen, G Como, M Egerstedt, ...
+Matrix 97, 111
+2015
+ME Valcher
+F Doyle, JA Farrell, A Annaswamy, R Bitmead, F Dabbene, S Hirche, ...
+IEEE CONTROL SYSTEMS MAGAZINE
+2015
+2014 IEEE Control Systems Society Awards
+R Madani, G Fazelnia, S Sojoudi, J Lavaei, M Egerstedt, VS Dolk, ...
+IEEE CONTROL SYSTEMS MAGAZINE
+2015
+2015 American Control Conference (ACC)
+M Alekajbaf, L Scardovi, JP de la Croix, M Egerstedt
+American Control Conference (ACC) 4392, 4397
+2015
+Graphs for Modeling Networked Interactions
+M Mesbahi, M Egerstedt
+Encyclopedia of Systems and Control, 510-514
+2015
+Control and coordination of multi-robot teams
+M Egerstedt
+Control Automation Robotics & Vision (ICARCV), 2014 13th International …
+2014
+Control of Multi-Robot Systems
+M Egerstedt
+2014
+JA Farrell
+E Valcher, Y Yamamoto, A Annaswamy, EKP Chong, F Bullo, KA Morris, ...
+IEEE CONTROL SYSTEMS MAGAZINE
+2014
+Group-Size Selection for a Parameterized Class of Predator-Prey Models
+JP de la Croix, M Egerstedt
+Georgia Institute of Technology
+2014
+Learnability for Dynamical Systems
+R O’Flaherty, M Egerstedt
+Georgia Institute of Technology
+2014
+2013 Index IEEE Control Systems Magazine Vol. 33
+J Aguero, A Alawieh, G Antonelli, A Arisoy, A Astolfi, MK Bayrakceken, ...
+IEEE CONTROL SYSTEMS MAGAZINE 33 (6), 1
+2013
+Optimal trajectory generation for NextGen flight management systems
+Y Diaz-Mercado, SG Lee, M Egerstedt, SY Young
+Digital Avionics Systems Conference (DASC), 2013 IEEE/AIAA 32nd, 1-21
+2013
+Y. Yamamoto
+JA Farrell, CG Cassandras, M Fujita, EKP Chong, F Bullo, KA Morris, ...
+IEEE CONTROL SYSTEMS MAGAZINE
+2013
+Pair-wise Agreement Using Set-Valued Sensors
+T Ramachandran, M Egerstedt
+IFAC Proceedings Volumes 46 (27), 89-94
+2013
+Special Issue on the 18th IFAC World Congress
+E Egerstedt, A Giua
+NONLINEAR ANALYSIS 7 (1)
+2013
+
+-----
+TITLE
+CITED BY
+YEAR
+COMMITTEE CHAIRS
+CG Cassandras, Y Yamamoto, RH Middleton, M Fujita, EKP Chong, ...
+IEEE CONTROL SYSTEMS MAGAZINE
+2012
+2012 Index IEEE Control Systems Vol. 32
+A Astolfi, LF Bertuccelli, A Bicchi, F Borrelli, RD Braatz, JH Burridge, ...
+IEEE CONTROL SYSTEMS MAGAZINE 32 (6), 1
+2012
+Optimal control of switched systems: The case of a step-down DC-DC
+converter
+H Kawashima, Y Wardi, D Taylor, M Egerstedt
+Electrical & Electronics Engineers in Israel (IEEEI), 2012 IEEE 27th …
+2012
+Part II: Localization, Navigation, and Formations
+M Egerstedt
+Distributed Autonomous Robotic Systems, 131
+2012
+Mid-level planning and control for articulated locomoting systems
+M Egerstedt, H Choset
+Georgia Institute of Technology
+2012
+Guest editorial: hybrid systems, part II
+Y Wardi, M Egerstedt
+Discrete Event Dynamic Systems 22 (1), 1-2
+2012
+CG Cassandras
+Y Yamamoto, RH Middleton, M Fujita, EKP Chong, FJ Doyle, SS Ge, ...
+IEEE CONTROL SYSTEMS MAGAZINE
+2012
+Guest editorial: hybrid systems, part I
+Y Wardi, M Egerstedt
+Discrete Event Dynamic Systems 21 (4), 425
+2011
+Pilot decision aids for multi-vehicle ops
+MB Egerstedt, R Chipalkatty, PY Twu, AR Rahmani
+Georgia Institute of Technology
+2011
+Summer school on cyber physical systems
+MC Wolf, MB Egerstedt
+Georgia Institute of Technology
+2011
+PEOPLE IN CONTROL
+M Egerstedt, S Yurkovich
+IEEE CONTROL SYSTEMS MAGAZINE 31 (2), 39-43
+2011
+R. Middleton
+CG Cassandras, R Tempo, M Fujita, P Misra, F Doyle, SS Ge, F Bullo, ...
+IEEE CONTROL SYSTEMS MAGAZINE
+2011
+B. Hanlon, C. Martin, and V. Tyuryaev
+M Egerstedt
+Communications in Information and Systems 11 (4)
+2011
+Degrees of control Combining network science with control theory
+M Egerstedt
+NATURE-LONDON- 473 (7346), 158-158
+2011
+
+-----
+TITLE
+CITED BY
+YEAR
+A Formal Approach to the Automatic Generation of Ballet Phrases
+A LaViers, Y Chen, C Belta, MB Egerstedt
+Georgia Institute of Technology
+2011
+R. Tempo
+R Middleton, T Samad, ME Valcher, P Misra, CG Cassandras, S Hara, ...
+IEEE CONTROL SYSTEMS MAGAZINE
+2010
+Algorithm for optimal mode-scheduling in switched-mode hybrid dynamical
+systems
+Y Wardi, M Egerstedt
+Electrical and Electronics Engineers in Israel (IEEEI), 2010 IEEE 26th …
+2010
+Controllability of Homogeneous Single-Leader Networks
+MB Egerstedt, S Martini, PY Twu
+Georgia Institute of Technology
+2010
+Optimal Decentralization of Multi-Agent Motions
+MB Egerstedt, PY Twu
+Georgia Institute of Technology
+2010
+Graph Process Specifications for Hybrid Networked Systems
+P Martin, MB Egerstedt, PY Twu
+Georgia Institute of Technology
+2010
+Motion Programs for Multi-Agent Control: From Specification to Execution
+P Martin, MB Egerstedt
+Georgia Institute of Technology
+2010
+CSR-EHS: Optimal, multi-modal control of complex systems
+M Egerstedt, Y Wardi, D Ding, H Axelsson
+Georgia Institute of Technology
+2009
+RoboComm Editorial
+L Schenato, F De Pellegrini, J Redi, M Egerstedt, AFT Winfield
+Mobile Networks and Applications 14 (4), 551-551
+2009
+On the number of leaders needed to ensure network connectivity in
+arbitrary dimensions
+T Gustavi, DV Dimarogonas, M Egerstedt, X Hu
+Control and Automation, 2009. MED'09. 17th Mediterranean Conference on, 98-103
+2009
+T. Samad
+R Tempo, DA Castañón, ME Valcher, EH Abed, E Misawa, S Hara, SS Ge, ...
+IEEE CONTROL SYSTEMS MAGAZINE
+2009
+RoboComm Editorial
+J Redi
+Mobile Networks and Applications 14 (3), 265-266
+2009
+Hybrid Systems: Computation and Control: 12th International Conference,
+HSCC 2009, San Francisco, CA, USA, April 13-15, 2009, Proceedings
+R Majumdar, P Tabuada
+Springer
+2009
+
+-----
+TITLE
+CITED BY
+YEAR
+Orbital control for a class of planar impulsive hybrid systems with
+controllable resets
+A Schild, M Egerstedt, J Lunze
+International Workshop on Hybrid Systems: Computation and Control, 465-469
+2009
+An Information Space View of “Time”: From Clocks to Open-Loop Control
+SM LaValle, M Egerstedt
+Emergent Problems in Nonlinear Systems and Control, 93-106
+2009
+Decentralized algorithms for locally interacting mobile robots
+MB Egerstedt
+Georgia Institute of Technology
+2008
+2008 Index IEEE Transactions on Electronics Packaging Manufacturing
+Vol. 31
+AO Aggarwal, SS Asfour, DF Baldwin, C Banda, LG Barajas, DD Barry, ...
+IEEE Transactions on Electronics Packaging Manufacturing 31 (4), 361
+2008
+Hybrid Systems: Computation and Control: 11th International Workshop,
+HSCC 2008, St. Louis, MO, USA, April 22-24, 2008, Proceedings
+M Egerstedt, B Mishra
+Springer
+2008
+MEMBERS OF THE CSS BOARD OF GOVERNORS
+DA Castañón, TE Djaferis, ME Valcher, T Parisini, C Abdallah, L Guo, ...
+IEEE CONTROL SYSTEMS MAGAZINE
+2008
+Sean B. Andersson, Dimitris Hristu-Varsakelis, and Morteza Lahijanian
+MA Belabbas, G Dirr, U Helmke, A Arsie, C Ebenbauer, M Egerstedt, ...
+Communications in Information and Systems 8 (2)
+2008
+Curve Tracking for Autonomous Vehicles with Rigidly Mounted Range
+Sensors
+J Kim, F Zhang, MB Egerstedt
+Georgia Institute of Technology
+2008
+A variational approach to constructivist learning for mobile robot navigation
+TR Mehta, M Egerstedt
+Decision and Control, 2007 46th IEEE Conference on, 4179-4184
+2007
+Development of Autonomous, Robotic Meteorological Stations for
+Improved Ice Sheet Climate Monitoring.
+A Howard, DJ Lampkin, M Egerstedt, P Spollen, N Mercurio, J Allshouse, ...
+AGU Fall Meeting Abstracts
+2007
+2 From the Editor’s Desk 4 President’s Message 9 From the Guest Editors
+12 Society News 18 Education
+CC Kemp, A Edsinger, E Torres-Jara, B Dellon, Y Matsuoka, A Tapus, ...
+2007
+Trade-offs between precision and computation horizon in real-time optimal
+control of switched systems
+H Axelsson, M Egerstedt, Y Wardi
+American Control Conference, 2006, 6 pp.
+2006
+Yi Guo, Zhong-Ping Jiang, Daniel W. Repperger, and Xingxing Wu
+N Cai, RW Yeung, M Egerstedt, C Martin, Y Zhou
+Communications in Information and Systems 6 (1)
+2006
+
+-----
+TITLE
+CITED BY
+YEAR
+An Optimal Control Approach to Mode Generation in Hybrid Systems
+MB Egerstedt, S Azuma, Y Wardi
+Georgia Institute of Technology
+2006
+OPTIMAL IMPULSIVE CONTROL FOR POINT DELAY SYSTEMS WITH
+REFRACTORY PERIOD
+EIVF Delmotte, M Egerstedt
+Time-delay Systems 2004: A Proceedings Volume from the 5th IFAC Workshop …
+2005
+What Are the Ants Doing? Vision-Based Tracking and Reconstruction of
+Control Programs
+T Balch, F Dellaert, F Delmotte, Z Khan, MB Egerstedt
+Georgia Institute of Technology
+2005
+Optimal design of smoothing spline surface using B-spline functions
+H Fujioka, H Kano, M Egerstedt
+SICE 2004 Annual Conference 1, 107-110
+2004
+Structure and synthesis of PID controllers: Aniruddha Datta, Ming-Tzu Ho
+and Shankar P. Bhattacharyya; Springer, London, 2000, ISBN 1-85233-
+614-5
+QG Wang
+Automatica 39 (4), 758-759
+2003
+Robot Force Control: Bruno Siciliano and Luigi Villani, Kluwer Academic
+Publishers, Boston, 1999, ISBN 0-7923-7733-8
+M Egerstedt
+Automatica 39 (4), 757-758
+2003
+2003 CSS Awards
+M Babaali, M Egerstedt, P Grieder, DE Quevedo, GC Goodwin
+IEEE Transactions on Control Systems Technology 22 (3)
+2002
+B-splines and control theory
+H Kano, M Egerstedt, H Nakata, CF Martin
+IFAC Proceedings Volumes 35 (1), 341-346
+2002
+Reactive Mobile Manipulation: Design and Implementation
+P Ögren, MB Egerstedt, X Hu
+Georgia Institute of Technology
+2000
+Trajectory planning with smoothing splines
+S Sun, M Egerstedt, CF Martin
+IFAC Proceedings Volumes 32 (2), 1885-1890
+1999
+Control of the Planar Rotation in Human Head-Eye-Coordination
+M Egerstedt, CF Martiny
+1997
+A Control Lyapunov Function Approach to Multi-Agent Coordination1
+P VOgren, M Egerstedt, X Hu
+For more information please visit: sites. bu. edu/tcns
+M Chertkov, M di Bernardo, N Elia, F Fagnani, R Fierro, M Franceschetti, ...
+A Matlab-Simulink simulation code Alcasim has been developed for Alcator
+C-Mod. The simulator includes models of the tokamak and plasma, the
+magnetic diagno...
+B de Jager
+
+-----
+TITLE
+CITED BY
+YEAR
+IEEE CONTROL SYSTEMS SOCIETY
+M EGERSTEDT, K JOHANSSON
+The Robotarium: An open, remote-access, multi-robot laboratory
+D Pickem, E Squires, M Egerstedt
+2015 IEEE CSS Awards
+G Lv, D Pickem, M Egerstedt, JS Shamma
+Hybrid Centralized/Decentralized Multi-Agent Optimization with
+Communication Delays
+MT Hale, A Nedic, M Egerstedt
+2014 Index IEEE Transactions on Control of Network Systems Vol.
+F Allgower, E Altman, Z Altman, B Bamieh, A Beck, F Bullo, SY Caliskan, ...
+Towards Rationally Safe Robots
+KP Hawkins, M Egerstedt, AF Bobick
+Robust and Probabilistic Power-aware Scheduling of Wireless Sensor
+Networks
+H Jaleel, M Egerstedt
+Abrate, Fabrizio 147 Afshar, Mohammad 389 Alonso-Mora, Javier 203 An,
+Qi 531
+T Arai, E Aro, M Asadpour, H Asama, A Asiaee Taheri, A Bahr, S Barman, ...
+Distributed Autonomous Robotic Systems, 611
+Responsive Algorithms for Defending Reconfigurable Networks
+IC Boman, J Saia, E Schamiloglu, CT Abdallah
+JANUARY 2008 VOLUME 31 NUMBER 1 ITEPFL (ISSN 1521-334X)
+C Banda, RW Johnson, T Zhang, Z Hou, HK Charles, LG Barajas, ...
+Distributed-Infrastructure Generation of Hybrid Homological Patrol
+Strategies
+P Kingston, M Egerstedt
+JANUARY 2008 VOLUME 31 NUMBER
+C Banda, RW Johnson, T Zhang, Z Hou, HK Charles, LG Barajas, ...
+SPLINES AND CONTROL THEORY: PAST, PRESENT AND FUTURE
+C MARTIN, M EGERSTEDT
+Observability and State Estimation for Hybrid Systems
+M Egerstedt
+magnuse-, hu-, stotsky@ math. kth. se Optimization and Systems Theory
+Royal Institute of Technology SE-100 44 Stockholm, Sweden
+M Egerstedt, X Hu
+Distributed Coordination Control of Multi-Agent Systems While Preserving
+Connectedness (Regular Paper)
+M Ji, M Egerstedt
+Additions to 2004 Index IEEE Transactions on Automatic Control Vol. 49
+Z Achour, A Astolfi, M Babaali, B Er-Wei, B Cheng, I Barkana, B Song, ...
+
+-----
+TITLE
+CITED BY
+YEAR
+SWARMING IN NATURAL AND ENGINEERED SYSTEMS
+S Berman, Q Lindsey, MS Sakar, V Kumar, SC Pratt, F Bullo, E Frazzoli, ...
+Control with Delayed and Limited Information
+E Verriest, M Egerstedt
+Vice Chair, Tutorial Sessions
+F Bianchini, Y Wardi, E Chong, M Egerstedt, L Zaccarian, L Alvarez-Icaza, ...
+Conference organizing committee
+MW Spong, F Ghorbel, M Egerstedt, G Song, K Morgansen, A Rundell, ...
+Graphs, Simplicial Complexes and Beyond: Topological Tools for
+Networked Control Systems
+A Muhammad, M Egerstedt, R Ghrist
+Trajectory Planning in the Infinity Norm for
+M Egerstedt, CF Martin
+Graph-Based Control of Heterogeneous Robot Networks
+M Egerstedt
+IEEE CONTROL SYSTEMS SOCIETY
+D ANGELI, D ARZELIER, A ASTOLFI, R BRAATZ, S CELIKOVSKY, ...
+SOCIETY REVIEW CHAIRS
+L Bushnell, J Abell, F Allgöwer, M Berg, M Borrello, R Braatz, M Broucke, ...
+Ann Arbor 1001, 48109
+
+-----

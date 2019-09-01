@@ -1,0 +1,397 @@
+Scopus 
+Author details 
+About Scopus Author Id
+Print
+Rus, Daniela L.
+, Cambridge, United States 
+Author ID: 7004511052
+MIT Computer Science and Artificial Intelligence 
+Laboratory
+Follow this Author
+View potential author matches 
+Other name formats: 
+Rus, Danieia
+Rus, D.
+Rus, D. L.
+Rus, Daniela
+Subject area: 
+Computer Science
+Engineering
+Mathematics
+Biochemistry, Genetics and Molecular Biology
+Materials Science
+Physics and Astronomy
+Social Sciences
+Multidisciplinary
+Agricultural and Biological Sciences
+Earth and Planetary Sciences
+Environmental Science
+Chemistry
+Energy
+Decision Sciences
+Chemical Engineering
+Neuroscience
+Business, Management and Accounting
+Document and 
+citation trends:
+Year
+Documents
+Citations
+2008
+2018
+0
+46
+0
+1961
+Get citation alerts
++ Add to ORCID
+Request author detail corrections
+Export profile to SciVal
+454
+h-index: 
+60
+Documents by author
+Total citations
+13712 by 
+documen
+❓
+View h-
+Analyze author o
+10026
+View citation ove
+Sort on: 
+Document title
+Authors
+Year Source
+Ci
+, 
+, 
+, (...), 
+, 
+2018 
+360(6389), pp. 632-635 
+, 
+2018 
+pp. 1-12 
+Article in Press 
+, 
+, 
+, 
+2018 
+pp. 1-16 
+Article in Press 
+, 
+, 
+, 
+2018 
+pp. 1-16 
+Article in Press 
+454 Documents
+Cited by 10026 documents 
+150 co-authors
+Author history
+▻
+View all in search results format
+Date (newest)
+Export all
+Add all to list
+Set document alert
+Set document feed
+Handedness in shearing auxetics creates rigid and 
+compliant structures
+Lipton, J.I. MacCurdy, R. Manchester, 
+Z.
+Cellucci, D. Rus, D.
+Science
+View abstract
+View at Publisher
+Related documents 
+Design, fabrication and control of origami robots
+Rus, D. Tolley, M.T.
+Nature Reviews Materials
+View abstract
+View at Publisher
+Robust proprioceptive grasping with a soft robot hand
+Homberg, B.S. Katzschmann, R.K.
+Dogar, M.R. Rus, D.
+Autonomous Robots
+View abstract
+View at Publisher
+Multi-robot grasp planning for sequential assembly 
+operations
+Dogar, M. Spielberg, A. Baker, S.
+Rus, D.
+Autonomous Robots
+Page 1 of 3
+Scopus - Author details (Rus, Daniela L.)
+6/11/2018
+https://www-scopus-com.ezlibproxy1.ntu.edu.sg/authid/detail.uri?authorId=7004511052
+
+-----
+Document title
+Authors
+Year Source
+Ci
+, 
+, 
+, 
+, 
+2018 
+42(4), pp. 801-824 
+, 
+, 
+, 
+2018 IEEE Conference on Intelligent Transportation 
+Systems, Proceedings, ITSC 
+2018-March, pp. 1-8 
+, 
+, 
+, (...), 
+, 
+2018 IEEE Conference on Intelligent Transportation 
+Systems, Proceedings, ITSC 
+2018-March, pp. 1-8 
+Open Access 
+, 
+, 
+2018 
+26(3), pp. 583-593 
+, 
+, 
+, (...), 
+, 
+2018 
+Article in Press 
+, 
+2018 2017 International Symposium on Multi-Robot 
+and Multi-Agent Systems, MRS 2017 
+2018-January, pp. 83-89 
+, 
+, 
+, 
+, 
+2017 
+Article in Press 
+, 
+, 
+2017 
+2017-September,8206612, pp. 6894-6901 
+, 
+, 
+2017 
+2017-September,8206203, pp. 3583-3590 
+, 
+, 
+2017 
+2017-September,8202234, pp. 749-754 
+View abstract
+View at Publisher
+Reactive mission and motion planning with deadlock 
+resolution avoiding dynamic obstacles
+Alonso-Mora, J. DeCastro, J.A.
+Raman, V. Rus, D. Kress-Gazit, H.
+Autonomous Robots
+View abstract
+View at Publisher
+Related documents 
+A hybrid approach of candidate region extraction for 
+robust traffic light recognition
+Shen, X. Andersen, H. Ang, M.H.
+Rus, D.
+View abstract
+View at Publisher
+Related documents 
+Trajectory optimization for autonomous overtaking with 
+visibility maximization
+Andersen, H. Schwarting, W. Naser, 
+F.
+Rus, D. Alonso-Mora, J.
+View abstract
+View at Publisher
+Related documents 
+Safe local navigation for visually impaired users with a 
+time-of-flight and haptic feedback device
+Katzschmann, R.K. Araki, B. Rus, D.
+IEEE Transactions on Neural Systems and 
+Rehabilitation Engineering
+View abstract
+View at Publisher
+Related documents 
+GaitLock: Protect Virtual and Augmented Reality 
+Headsets Using Gait
+Shen, Y. Wen, H. Luo, C.
+Hu, 
+W. Rus, D.
+IEEE Transactions on Dependable and Secure 
+Computing
+View abstract
+View at Publisher
+Distributed target tracking in cluttered environments 
+with guaranteed collision avoidance
+Pierson, A. Rus, D.
+View abstract
+View at Publisher
+Related documents 
+Safe Nonlinear Trajectory Generation for Parallel 
+Autonomy With a Dynamic Vehicle Model
+Schwarting, W. Alonso-Mora, J. Paull, 
+L. Karaman, S. Rus, D.
+IEEE Transactions on Intelligent Transportation 
+Systems
+View abstract
+View at Publisher
+Hybrid control and learning with coresets for 
+autonomous vehicles
+Rosman, G. Paull, L. Rus, D.
+IEEE International Conference on Intelligent 
+Robots and Systems
+View abstract
+View at Publisher
+Related documents 
+Predictive routing for autonomous mobility-on-demand 
+systems with ride-sharing
+Alonso-Mora, J. Wallar, A. Rus, D.
+IEEE International Conference on Intelligent 
+Robots and Systems
+View abstract
+View at Publisher
+Related documents 
+Car detection for autonomous vehicle: LIDAR and vision 
+fusion approach through deep learning framework
+Du, X. Ang, M.H. Rus, D.
+IEEE International Conference on Intelligent 
+Robots and Systems
+Page 2 of 3
+Scopus - Author details (Rus, Daniela L.)
+6/11/2018
+https://www-scopus-com.ezlibproxy1.ntu.edu.sg/authid/detail.uri?authorId=7004511052
+
+-----
+Document title
+Authors
+Year Source
+Ci
+, 
+, 
+, 
+2017 
+114(50), pp. 13132-13137 
+, 
+, 
+, 
+2017 
+139(12), pp. 3-7 
+, 
+, 
+, 
+, 
+2017 
+4(3),7365431, pp. 462-476 
+, 
+, 
+, (...), 
+, 
+2017 
+36(10), pp. 1131-1147 
+, 
+, 
+2017 
+36(9), pp. 1000-1021 
+, 
+, 
+, 
+, 
+2017 
+41(6), pp. 1383-1400 
+View abstract
+View at Publisher
+Related documents 
+Fluid-driven origami-inspired artificial muscles
+Li, S. Vogt, D.M. Rus, D. Wood, R.J.
+Proceedings of the National Academy of Sciences 
+of the United States of America
+View abstract
+View at Publisher
+Related documents 
+Connected cooperative control of autonomous vehicles 
+during unexpected road situations
+Andersen, H. Rus, D. Shen, X. Ang, 
+M.H.
+Mechanical Engineering
+Related documents 
+Robust adaptive coverage control for robotic sensor 
+networks
+Schwager, M. Vitus, M.P. Powers, S.
+Rus, D. Tomlin, C.J.
+IEEE Transactions on Control of Network 
+Systems
+View abstract
+View at Publisher
+Related documents 
+Interactive robogami: An end-to-end system for design 
+of robots with ground locomotion
+Schulz, A. Sung, C. Spielberg, A.
+Rus, D. Matusik, W.
+International Journal of Robotics Research
+View abstract
+View at Publisher
+Related documents 
+Multi-robot formation control and object transport in 
+dynamic environments via constrained optimization
+Alonso-Mora, J. Baker, S. Rus, D.
+International Journal of Robotics Research
+View abstract
+View at Publisher
+Related documents 
+Guaranteeing spoof-resilient multi-robot networks
+Gil, S. Kumar, S. Mazumder, M.
+Katabi, D. Rus, D.
+Autonomous Robots
+View abstract
+View at Publisher
+Related documents 
+Display: 
+results per page
+20
+...
+1
+2
+3
+4
+5
+23
+▻
+▻▻
+Top o
+The data displayed above is compiled exclusively from documents indexed in the Scopus database. To request corrections to any inaccuracies 
+or provide any further feedback, please use the 
+.
+Author Feedback Wizard 
+About Scopus
+What is Scopus
+Content coverage
+Scopus blog
+Scopus API
+Privacy matters
+Language
+⽇本語に切り替える
+切换到简体中文
+切換到繁體中文
+Русский язык
+Customer Service
+Help
+Contact us 
+Copyright © 2018 
+. All rights reserved. Scopus® is a registered trademark of Elsevier 
+B.V. 
+Cookies are set by this site. To decline them or learn more, visit our 
+. 
+Terms and conditions Privacy policy 
+Elsevier B.V
+Cookies page
+Page 3 of 3
+Scopus - Author details (Rus, Daniela L.)
+6/11/2018
+https://www-scopus-com.ezlibproxy1.ntu.edu.sg/authid/detail.uri?authorId=7004511052
+
+-----

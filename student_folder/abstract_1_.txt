@@ -1,0 +1,61 @@
+1 
+ 
+ 
+ 
+ 
+ 
+ 
+WIDE-BAND MID-INFRARED QUANTUM DEVICES BASED 
+ON INTERSUBBAND TRANSITIONS 
+ 
+ 
+ 
+RODRIGUEZ MARTINEZ ETIENNE 
+ 
+ 
+ 
+School of Electrical and Electronic Engineering 
+
+-----
+2 
+ 
+Abstract 
+The infrared region is the cradle of many vital applications in spectroscopy, medicine and 
+communication. In the Mid-Infrared (MIR) region, innovations and significant improvements 
+of the existing technologies call for advanced technologies such as frequency comb laser and 
+high-speed photodetectors with high photoresponse at room temperature. Conventional systems 
+are facing significant challenges due to their intrinsic high-speed limitations and the complexity 
+to reach this domain. The development of quantum devices based on Intersubband Transitions 
+(ISBT) has revealed significant advantages in the MIR reviving intense research in these fields. 
+They allow excellent efficiency in the MIR region, and due to their intersubband transitions 
+based on quantum well, they permit an easy tunability of the operation wavelength. In 
+comparison to conventional devices, ISBT exhibits a very short carrier lifetime which makes 
+them suitable for high-speed applications.  
+The objective of this thesis is to develop and study the high-speed behaviour of quantum devices 
+based on intersubband transitions for emission and detection of coherent light in the MIR 
+region. Additionally, thanks to their wide-band properties, passive and active mode-locking 
+Quantum Cascade Laser (QCL) will be investigated as well.  
+In this thesis, we first present an overview of standard characterisations of QCL devices and 
+then investigate their high-speed behaviour using rectification methods. High-speed 
+photodetectors are also developed in this project. We study the comb formation in QCLs owing 
+to the coexistence of low-dispersion region and non-linear effects favouring the comb 
+formation. The low-dispersive area in simulations is in good agreement with experimental data 
+showing a constant Free-Spectral Range (FSR) over this region. Moreover, the detection of a 
+small beatnote at the round-trip of the cavity is a clear evidence of passive mode-locking of a 
+part of the spectrum. Next, we investigate the evolution of the spectra using active mode-locked 
+
+-----
+3 
+ 
+methods based on Radio-Frequency (RF) injections at the round trip of the cavity. Furthermore, 
+high-resolution spectra recorded under RF injection provide interesting information regarding 
+the dispersion and the variation of the FSR. 
+ Secondly, we developed a Quantum Well Infrared Photodetector (QWIP) based on air-bridge 
+contacts to promote the high-speed modulation. Optical characterisation of the devices has been 
+realised to deeply understand the dependence of the responsivity and photoconductive gain with 
+the temperature and high electric field. Finally, we tested its wide-band operation by detecting 
+the high-frequency modulation of the QCLs previously characterised. The development of both 
+high-speed emitter and receiver at the same wavelength allow a powerful pair for many 
+applications in the MIR region.   
+
+-----

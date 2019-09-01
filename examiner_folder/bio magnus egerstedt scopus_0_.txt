@@ -1,0 +1,379 @@
+Scopus 
+Author details 
+About Scopus Author Id
+1 of 1 
+◅ Return to search results
+Print
+Egerstedt, Magnus B.
+, Atlanta, 
+United States 
+Author ID: 7003766867
+Georgia Institute of Technology, School of 
+Electrical and Computer Engineering
+Follow this Author
+View potential author matches 
+Other name formats: 
+Egerstedt, M.
+Egerstedt, Magnus
+Egerstedt, Mengji
+Subject area: 
+Engineering
+Computer Science
+Mathematics
+Chemical Engineering
+Decision Sciences
+Biochemistry, Genetics and Molecular Biology
+Social Sciences
+Energy
+Physics and Astronomy
+Earth and Planetary Sciences
+Multidisciplinary
+Document and 
+citation trends:
+Year
+Documents
+Citations
+2008
+2018
+0
+31
+0
+945
+Get citation alerts
++ Add to ORCID
+Request author detail corrections
+Export profile to SciVal
+348
+h-index: 
+37
+Documents by author
+Total citations
+7990 by 
+documents 
+❓
+View h-
+Analyze author o
+5611
+View citation ove
+Sort on: 
+Document title
+Authors
+Year Source
+Ci
+, 
+, 
+, 
+2018 
+89, pp. 21-27 
+, 
+, 
+2018 
+5(1), pp. 321-332 
+, 
+, 
+, 2018 2017 IEEE 56th Annual Conference on Decision 
+and Control, CDC 2017 
+2018-January, pp. 6462-6468 
+, 
+, 
+, 
+2018 2017 IEEE 56th Annual Conference on Decision 
+and Control, CDC 2017 
+2018-January, pp. 2935-2940 
+348 Documents
+Cited by 5611 documents 
+150 co-authors
+Author history
+▻
+View all in search results format
+Date (newest)
+Export all
+Add all to list
+Set document alert
+Set document feed
+Robust finite-time connectivity preserving coordination of 
+second-order multi-agent systems
+Sun, C. Hu, G. Xie, L. Egerstedt, 
+M.
+Automatica
+View abstract
+View at Publisher
+Related documents 
+Scalable Stability and Time-Scale Separation of Networked, 
+Cascaded Systems
+Sakurama, K. Verriest, E.I.
+Egerstedt, M.
+IEEE Transactions on Control of Network 
+Systems
+View abstract
+View at Publisher
+Related documents 
+Performance regulation and tracking via lookahead 
+simulation: Preliminary results and validation
+Wardi, Y. Seatzu, C. Egerstedt, M.
+Buckley, I.
+View abstract
+View at Publisher
+Related documents 
+Dynamics of opinion-dependent product spread
+Ruf, S.F. Paarporn, K. Pare, P.E.
+Egerstedt, M.
+View abstract
+View at Publisher
+Related documents 
+Page 1 of 3
+Scopus - Author details (Egerstedt, Magnus B.)
+6/11/2018
+https://www-scopus-com.ezlibproxy1.ntu.edu.sg/authid/detail.uri?authorId=7003766867
+
+-----
+Document title
+Authors
+Year Source
+Ci
+, 
+2017 
+2017-September,8202277, pp. 1077-1082 
+, 
+, 
+, (...), 
+, 
+2017 1st Annual IEEE Conference on Control 
+Technology and Applications, CCTA 2017 
+2017-January, pp. 1769-1775 
+, 
+2017 
+Article in Press 
+, 
+, 
+2017 
+4(3),7383274, pp. 499-510 
+, 
+, 
+2017 
+62(9),7837612, pp. 4421-4435 
+, 
+2017 
+Article in Press 
+, 
+, 
+, 
+2017 
+33(4),7932518, pp. 932-947 
+, 
+2017 
+7989683, pp. 5818-5823 
+, 
+, 
+2017 
+7989375, pp. 3293-3298 
+, 
+, 
+, 
+(...), 
+, 
+2017 
+7989200, pp. 1699-1706 
+Infinitesimally shape-similar motions using relative angle 
+measurements
+Buckley, I. Egerstedt, M.
+IEEE International Conference on Intelligent 
+Robots and Systems
+View abstract
+View at Publisher
+Related documents 
+Realizing simultaneous lane keeping and adaptive speed 
+regulation on accessible mobile robot testbeds
+Xu, X. Waters, T. Pickem, D.
+Grizzle, J.W. Ames, A.D.
+View abstract
+View at Publisher
+Related documents 
+Cloud-Enabled Differentially Private Multi-Agent 
+Optimization with Constraints
+Hale, M.T. Egerstedt, M.
+IEEE Transactions on Control of Network 
+Systems
+View abstract
+View at Publisher
+Communication-free distributed coverage for networked 
+systems
+Yazicioglu, A.Y. Egerstedt, M.
+Shamma, J.S.
+IEEE Transactions on Control of Network 
+Systems
+View abstract
+View at Publisher
+Related documents 
+Asynchronous Multiagent Primal-Dual Optimization
+Hale, M.T. Nedic, A. Egerstedt, M.
+IEEE Transactions on Automatic Control
+View abstract
+View at Publisher
+Related documents 
+Multirobot Mixing via Braid Groups
+Diaz-Mercado, Y. Egerstedt, M.
+IEEE Transactions on Robotics
+View abstract
+View at Publisher
+A Distributed Version of the Hungarian Method for 
+Multirobot Assignment
+Chopra, S. Notarstefano, G. Rice, 
+M. Egerstedt, M.
+IEEE Transactions on Robotics
+View abstract
+View at Publisher
+Related documents 
+Safe open-loop strategies for handling intermittent 
+communications in multi-robot systems
+Mayya, S. Egerstedt, M.
+Proceedings - IEEE International Conference on 
+Robotics and Automation
+View abstract
+View at Publisher
+Related documents 
+Safe certificate-based maneuvers for teams of quadrotors 
+using differential flatness
+Wang, L. Ames, A.D. Egerstedt, M.
+Proceedings - IEEE International Conference on 
+Robotics and Automation
+View abstract
+View at Publisher
+Related documents 
+The Robotarium: A remotely accessible swarm robotics 
+research testbed
+Pickem, D. Glotfelter, P. Wang, L.
+Feron, E. Egerstedt, M.
+Proceedings - IEEE International Conference on 
+Robotics and Automation
+View abstract
+View at Publisher
+Related documents 
+Page 2 of 3
+Scopus - Author details (Egerstedt, Magnus B.)
+6/11/2018
+https://www-scopus-com.ezlibproxy1.ntu.edu.sg/authid/detail.uri?authorId=7003766867
+
+-----
+Document title
+Authors
+Year Source
+Ci
+, 
+2017 
+25(4),7552452, pp. 1257-1263 
+, 
+2017 
+7963087, pp. 1024-1029 
+, 
+, 
+2017 
+7963083, pp. 997-1002 
+, 
+, 
+, 
+2017 
+7963244, pp. 1990-1995 
+, 
+, 
+2017 
+33(3),7857061, pp. 661-674 
+, 
+, 
+, 
+, 
+2017 
+36(4), pp. 403-413 
+Energy-Constrained Coordination of Multi-Robot Teams
+Setter, T. Egerstedt, M.
+IEEE Transactions on Control Systems 
+Technology
+View abstract
+View at Publisher
+Related documents 
+Convergence rate estimates for consensus over random 
+graphs
+Hale, M.T. Egerstedt, M.
+Proceedings of the American Control 
+Conference
+View abstract
+View at Publisher
+Related documents 
+Trust in multi-agent networks: From self-centered to team-
+oriented
+Setter, T. Gasparri, A. Egerstedt, 
+M.
+Proceedings of the American Control 
+Conference
+View abstract
+View at Publisher
+Related documents 
+Robust finite-time connectivity preserving consensus tracking 
+and formation control for multi-agent systems
+Sun, C. Hu, G. Xie, L. Egerstedt, 
+M.
+Proceedings of the American Control 
+Conference
+View abstract
+View at Publisher
+Related documents 
+Safety barrier certificates for collisions-free multirobot 
+systems
+Wang, L. Ames, A.D. Egerstedt, M.
+IEEE Transactions on Robotics
+View abstract
+View at Publisher
+Related documents 
+Method of evolving junctions: A new approach to optimal 
+path-planning in 2D environments with moving obstacles
+Li, W. Chow, S.-N. Egerstedt, M.
+Lu, J. Zho, H.
+International Journal of Robotics Research
+View abstract
+View at Publisher
+Related documents 
+Display: 
+results per page
+20
+...
+1
+2
+3
+4
+5
+18
+▻
+▻▻
+Top o
+The data displayed above is compiled exclusively from documents indexed in the Scopus database. To request corrections to any inaccuracies 
+or provide any further feedback, please use the 
+.
+Author Feedback Wizard 
+About Scopus
+What is Scopus
+Content coverage
+Scopus blog
+Scopus API
+Privacy matters
+Language
+⽇本語に切り替える
+切换到简体中文
+切換到繁體中文
+Русский язык
+Customer Service
+Help
+Contact us 
+Copyright © 2018 
+. All rights reserved. Scopus® is a registered trademark of Elsevier 
+B.V. 
+Cookies are set by this site. To decline them or learn more, visit our 
+. 
+Terms and conditions Privacy policy 
+Elsevier B.V
+Cookies page
+Page 3 of 3
+Scopus - Author details (Egerstedt, Magnus B.)
+6/11/2018
+https://www-scopus-com.ezlibproxy1.ntu.edu.sg/authid/detail.uri?authorId=7003766867
+
+-----

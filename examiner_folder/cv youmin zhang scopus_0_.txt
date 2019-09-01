@@ -1,0 +1,393 @@
+Scopus 
+Author details 
+About Scopus Author Id
+1 of 16 
+◅ Return to search results
+▻
+Next
+Print
+Zhang, Youmin
+,
+Montreal, Canada 
+Author ID: 7601314508
+Universite Concordia, Department of Mechanics
+Follow this Author
+View potential author matches 
+Other name formats: 
+Zhang, Youmin M.
+Zhang, Y. M.
+Zhang, You Min
+Zhang, Y.
+Subject area: 
+Engineering
+Computer Science
+Mathematics
+Chemical Engineering
+Physics and Astronomy
+Earth and Planetary Sciences
+Decision Sciences
+Social Sciences
+Energy
+Health Professions
+Environmental Science
+Materials Science
+Multidisciplinary
+Neuroscience
+Agricultural and Biological Sciences
+Business, Management and Accounting
+Document and 
+citation trends:
+Year
+Documents
+Citations
+2008
+2018
+0
+45
+0
+1042
+Get citation alerts
++ Add to ORCID
+Request author detail corrections
+Export profile to SciVal
+381
+h-index: 
+35
+Documents by author
+Total citations
+6169 by 
+documents 
+❓
+View h-
+Analyze author o
+4108
+View citation ove
+Sort on: 
+Document title
+Authors
+Year Source
+Ci
+, 
+, 
+, (...), 
+, 
+2018 
+pp. 1-17 
+Article in Press 
+, 
+, 
+2018 
+77, pp. 189-205 
+, 
+, 
+, 
+2018 
+28(8), pp. 2927-2949 
+, 
+, 
+2018 
+pp. 1-15 
+Article in Press 
+381 Documents
+Cited by 4108 documents 
+150 co-authors
+Author history
+▻
+View all in search results format
+Date (newest)
+Export all
+Add all to list
+Set document alert
+Set document feed
+Path Planning Generation Algorithm for a Class of UAV 
+Multirotor Based on State of Health of Lithium Polymer 
+Battery
+Schacht-Rodríguez, R. Ponsart, 
+J.-C. García-Beltrán, C.-D.
+Theilliol, D. Zhang, Y.
+Journal of Intelligent and Robotic Systems: Theory 
+and Applications
+View abstract
+View at Publisher
+Safe control of trailing UAV in close formation flight 
+against actuator fault and wake vortex effect
+Yu, Z. Qu, Y. Zhang, Y.
+Aerospace Science and Technology
+View abstract
+View at Publisher
+Related documents 
+Nussbaum-type function–based attitude control of 
+spacecraft with actuator saturation
+Hu, Q. Shao, X. Zhang, Y. Guo, L.
+International Journal of Robust and Nonlinear 
+Control
+View abstract
+View at Publisher
+Related documents 
+Fault-Tolerant Containment Control of Multiple 
+Unmanned Aerial Vehicles Based on Distributed Sliding-
+Mode Observer
+Yu, Z. Qu, Y. Zhang, Y.
+Journal of Intelligent and Robotic Systems: Theory 
+and Applications
+Page 1 of 3
+Scopus - Author details (Zhang, Youmin)
+6/11/2018
+https://www-scopus-com.ezlibproxy1.ntu.edu.sg/authid/detail.uri?authorId=7601314508
+
+-----
+Document title
+Authors
+Year Source
+Ci
+, 
+2018 
+65(5),8106706, pp. 4227-4236 
+, 
+, 
+2018 
+65(5),8106715, pp. 4135-4144 
+, 
+, 
+, 
+, 
+2018 
+16(2), pp. 82-92 
+, 
+, 
+, 
+2018 
+32(4), pp. 628-645 
+, 
+, 
+2018 
+pp. 1-13 
+Article in Press 
+, 
+, 
+2018 International Conference on Advanced 
+Mechatronic Systems, ICAMechS 
+2017-December, pp. 196-201 
+, 
+, 
+2018 International Conference on Advanced 
+Mechatronic Systems, ICAMechS 
+2017-December, pp. 214-219 
+, 
+, 
+2018 
+pp. 1-16 
+Article in Press 
+, 
+, 
+2018 
+26(2),7882636, pp. 756-764 
+, 
+, 
+2018 
+73, pp. 22-30 
+View abstract
+View at Publisher
+An Adaptive Fault-Tolerant Sliding Mode Control 
+Allocation Scheme for Multirotor Helicopter Subject to 
+Simultaneous Actuator Faults
+Wang, B. Zhang, Y.
+IEEE Transactions on Industrial Electronics
+View abstract
+View at Publisher
+Related documents 
+The Design of Fixed-Time Observer and Finite-Time Fault-
+Tolerant Control for Hypersonic Gliding Vehicles
+Yu, X. Li, P. Zhang, Y.
+IEEE Transactions on Industrial Electronics
+View abstract
+View at Publisher
+Related documents 
+Flocking control of a fleet of unmanned aerial vehicles
+Belkadi, A. Liu, Z. Ciarletta, L.
+Zhang, Y. Theilliol, D.
+Control Theory and Technology
+View abstract
+View at Publisher
+Related documents 
+Application of FMRAC to fault-tolerant cooperative control 
+of a wind farm with decreased power generation due to 
+blade erosion/debris buildup
+Badihi, H. Zhang, Y. Pillay, P.
+Rakheja, S.
+International Journal of Adaptive Control and 
+Signal Processing
+View abstract
+View at Publisher
+Related documents 
+Learning-Based Smoke Detection for Unmanned Aerial 
+Vehicles Applied to Forest Fire Surveillance
+Yuan, C. Liu, Z. Zhang, Y.
+Journal of Intelligent and Robotic Systems: Theory 
+and Applications
+View abstract
+View at Publisher
+Shear wind estimation with quadrotor UAVs using Kalman 
+filtering regressing method
+Xing, Z. Qu, Y. Zhang, Y.
+View abstract
+View at Publisher
+Related documents 
+Robust adaptive multivariable bi-limit homogeneous 
+higher-order sliding mode flight control for AHVs with 
+actuator faults
+Li, P. Yu, X. Zhang, Y.
+View abstract
+View at Publisher
+Related documents 
+Collision-Free Trajectory Generation and Tracking for 
+UAVs Using Markov Decision Process in a Cluttered 
+Environment
+Yu, X. Zhou, X. Zhang, Y.
+Journal of Intelligent and Robotic Systems: Theory 
+and Applications
+View abstract
+View at Publisher
+Fault-Tolerant Cooperative Control Design of Multiple 
+Wheeled Mobile Robots
+Kamel, M.A. Yu, X. Zhang, Y.
+IEEE Transactions on Control Systems Technology
+View abstract
+View at Publisher
+Related documents 
+Velocity-free attitude coordinated tracking control for 
+spacecraft formation flying
+Hu, Q. Zhang, J. Zhang, Y.
+ISA Transactions
+View abstract
+View at Publisher
+Related documents 
+Page 2 of 3
+Scopus - Author details (Zhang, Youmin)
+6/11/2018
+https://www-scopus-com.ezlibproxy1.ntu.edu.sg/authid/detail.uri?authorId=7601314508
+
+-----
+Document title
+Authors
+Year Source
+Ci
+, 
+, 
+, 
+2018 IEEE International Conference on Automation 
+Science and Engineering 
+2017-August, pp. 118-123 
+, 
+, 
+2018 
+5(1),8051305, pp. 292-300 
+, 
+, 
+2017 
+Article in Press 
+, 
+, 
+, 
+, 
+2017 
+2017-September,8206215, pp. 3689-3694 
+, 
+, 
+2017 Proceedings - 2017 International Conference on 
+Sensing, Diagnostics, Prognostics, and Control, 
+SDPC 2017 
+2017-December, pp. 493-498 
+, 
+, 
+, 
+2017 
+22(6),8049290, pp. 2723-2735 
+Nonlinear programming for multi-vehicle motion 
+planning with homotopy initialization strategies
+Li, B. Shao, Z. Zhang, Y. Li, P.
+View abstract
+View at Publisher
+Related documents 
+A novel robust attitude control for quadrotor aircraft 
+subject to actuator faults and wind gusts
+Guo, Y. Jiang, B. Zhang, Y.
+IEEE/CAA Journal of Automatica Sinica
+View abstract
+View at Publisher
+Related documents 
+Observer-Based Output Feedback Attitude Stabilization for 
+Spacecraft With Finite-Time Convergence
+Hu, Q. Jiang, B. Zhang, Y.
+IEEE Transactions on Control Systems Technology
+View abstract
+View at Publisher
+Optimal control-based online motion planning for 
+cooperative lane changes of connected and automated 
+vehicles
+Li, B. Zhang, Y. Ge, Y. Shao, Z. Li, 
+P.
+IEEE International Conference on Intelligent 
+Robots and Systems
+View abstract
+View at Publisher
+Related documents 
+Sensor Fault Diagnosis for Unmanned Quadrotor 
+Helicopter via Adaptive Two-Stage Extended Kalman Filter
+Zhong, Y. Zhang, W. Zhang, Y.
+View abstract
+View at Publisher
+Related documents 
+Adaptive multivariable integral TSMC of a hypersonic 
+gliding vehicle with actuator faults and model 
+uncertainties
+Li, P. Yu, X. Zhang, Y. Peng, X.
+IEEE/ASME Transactions on Mechatronics
+View abstract
+View at Publisher
+Related documents 
+Display: 
+results per page
+20
+...
+1
+2
+3
+4
+5
+20
+▻
+▻▻
+Top o
+The data displayed above is compiled exclusively from documents indexed in the Scopus database. To request corrections to any inaccuracies 
+or provide any further feedback, please use the 
+.
+Author Feedback Wizard 
+About Scopus
+What is Scopus
+Content coverage
+Scopus blog
+Scopus API
+Privacy matters
+Language
+⽇本語に切り替える
+切换到简体中文
+切換到繁體中文
+Русский язык
+Customer Service
+Help
+Contact us 
+Copyright © 2018 
+. All rights reserved. Scopus® is a registered trademark of Elsevier 
+B.V. 
+Cookies are set by this site. To decline them or learn more, visit our 
+. 
+Terms and conditions Privacy policy 
+Elsevier B.V
+Cookies page
+Page 3 of 3
+Scopus - Author details (Zhang, Youmin)
+6/11/2018
+https://www-scopus-com.ezlibproxy1.ntu.edu.sg/authid/detail.uri?authorId=7601314508
+
+-----

@@ -1,0 +1,1297 @@
+Curriculum Vitae - Greg Sun (Updated March, 2016)  
+ 
+Greg Sun 
+Professor of Engineering and Physics 
+Founding Chair, Department of Engineering 
+University of Massachusetts at Boston 
+100 Morrissey Blvd 
+Boston, Massachusetts 02125, U.S.A. 
+Tel.: (617)287-6432; Fax: (617)287-6053 
+Email: greg.sun@umb.edu 
+ 
+Education —————————————————————————————— 
+ 
+ 
+Ph.D. Electrical Engineering, Johns Hopkins University, Baltimore, Maryland, 
+1993 
+M.S. Electrical Engineering, Marquette University, Milwaukee, Wisconsin, 1988 
+ 
+B.S. Microelectronics, Beijing University, Beijing, China, 1984 
+ 
+Positions——————————————————————————————— 
+ 
+Founding Chair, Department of Engineering, 7/2014-present 
+University of Massachusetts Boston, Massachusetts 
+Director, Engineering Program, 9/2000-6/2014 
+University of Massachusetts Boston, Massachusetts 
+Professor, Engineering and Physics, 9/2004-present 
+University of Massachusetts Boston, Massachusetts 
+Visiting Professor, Research Center for Applied Sciences, Academia Sinica, 
+Taipei, Taiwan, Summer or Winter periods, 2013-present 
+Visiting Professor, Center for Condensed Matter Sciences, National Taiwan 
+University, Summer or Winter periods, 2007, 2011, 2012 
+Associate Professor, Engineering and Physics, 9/1999-8/2004 
+University of Massachusetts Boston, Massachusetts 
+ 
+Assistant Professor, Engineering and Physics, 9/1993-8/1999 
+University of Massachusetts Boston, Massachusetts 
+Research Scientist, 9/1992-8/1993 
+Structured Materials Industries, Inc., Piscataway, New Jersey  
+Graduate Intern, 5/1990-8/1992 
+Philips Laboratories, North American Philips Corporation, Briarcliff Manor, New 
+York 
+ 
+Professional Activities and Honors ———————————————————— 
+ 
+Board of the Editorial Committee, Journal of Semiconductors, 2011-present  
+Guest Editor, Feature Issue for Optics Express: Nanophotonics, OSA Publishing, 
+2016 
+
+-----
+Curriculum Vitae- Greg Sun  
+ 
+2 
+Symposium Organizer, MRS Symposium on Phonon transport, interactions, and 
+manipulations in nanoscale materials and devices – fundamentals and 
+applications, 2013, 2015 
+CLEO Subcommittee: Optical Materials, Fabrication and Characterization 
+Subcommittee, 2014-present 
+Nonlinear Optics Committee, IEEE Photonics Conference (formally IEEE 
+LEOS Annual meeting), 2008-present  
+International Advisory Committee, International Conference on Microwave and 
+Photonics (Da, 2013-present 
+Technical Program Committee, 9th International Conference on Nanophotonics 
+(Taipei, Taiwan, March, 2016) 
+Technical Program Committee for the session on Plasmonics in Sensing, 
+Optical Sensors - OSA Annual Topical Meeting (Boston, June-July, 2015) 
+Technical Program Committee, 2nd Quantum Optics Workshop, (Muju Resort, 
+South Korea, January, 2007) 
+Technical Committee, 1st International Conference on Group IV photonics 
+sponsored by IEEE (Hong Kong, September, 2004) 
+Session Chair, 9th International Conference on Nanophotonics (Taipei, Taiwan, 
+March, 2016) 
+Session Chair, Poster Session, Materials Research Society Fall Meeting (Boston, 
+December, 2015) 
+Session Chair, Session on Phonons in Nano and Bulk Materials, Materials 
+Research Society Fall Meeting (Boston, December, 2015) 
+Session Chair, “Nanoscale Activity I, Plasmonics: Metallic Nanostructures and 
+Their Optical Properties XII” SPIE Optics + Photonics (San Diego, August, 2014) 
+Session Chair, “Optoelectronic Materials and Devices,” International Conference 
+on Microwave and Photonics, (India, December, 2013) 
+Session Chair, “Vibrational Properties and Phonon Interactions” 2013 Fall 
+Meeting of the Materials Research Society, (Boston, December, 2013) 
+Session Chair, “Advances in Materials Science and Engineering” International 
+Conference on Computational and Experimental Engineering and Science 
+(ICCES), (Seattle, May, 2013) 
+Session Chair, “Si Photonics and Ultrafast Techniques” IEEE Photonics 2012 
+Conference (IPC12), (Burlingame, California, September, 2012) 
+Session Chair, “Nonlinear Plasmon Polaritons and Effects” IEEE Photonics 2011 
+Conference (IPC11), (Arlington, Virginia, October, 2011)  
+Session Chair, “Symposium I on Transport and Photonics in Si-based 
+Nanodevices: Ge on Si: Materials and Designs” The Spring Meeting of European 
+Materials Research Society (E-MRS), (Nice, France, May, 2011) 
+Session Chair, “Novel Applications in Nonlinear Optics” 21th Annual IEEE 
+Lasers and Electro-Optics Society Annual Meeting, (Newport Beach, California, 
+November, 2008) 
+Session Chair, “Intersubband Phenomena and Fundamentals II” 9th International 
+Conference on Intersubband Transitions in Quantum Wells (Ambleside, Cumbria, 
+United Kingdom, September, 2007) 
+
+-----
+Curriculum Vitae- Greg Sun  
+ 
+3 
+Session Chair, “Plasmonic and Terahertz Devices” 1st Intrernational Conference 
+on Group IV photonics sponsored by IEEE (Hong Kong, September, 2004) 
+National Renewable Energy Laboratory Panel, (Morgantown, West Virginia, 
+May, 2014; May 2015) 
+National Science Foundation Panel, (Arlington, Virginia, May, 2012; January, 
+2016) 
+Reviewer for Nature, Nature Photonics, Optics Letters, Optica Express, Physica 
+B, Physica E, Journal of the Optical Society of America B, Physical Review B, 
+Applied Physics Letters, Journal of Applied Physics, IEEE Journal of Quantum 
+Electronics, IEEE Photonics Technology Letters. 
+Air Force Summer Faculty Program, Hanscom Air Force Base, Massachusetts 
+(1995, 1996, 2000, 2001, 2002, 2005, 2008) 
+Outstanding Research Achievement, College of Arts and Sciences, UMass 
+Boston (1998-1999) 
+ 
+Teaching Activities ——————————————————————————— 
+ 
+ 
+Undergraduate: 
+ 
+Freshman Seminars 
+Circuit Analysis I, Circuit Analysis II, Circuit Labs 
+Engineering Mathematics, Freshman Seminars 
+ 
+Digital Systems with Lab, Analog Electronics I with Lab 
+ 
+Fundamentals of Semiconductor Devices 
+College Physics I (Algebra-based), College Physics II (Algebra-based) 
+Fundamentals of Physics I (Calculus based) 
+Fundamentals of Physics II (Calculus based) 
+College Physics Labs I and College Physics Labs II 
+ 
+Graduate: 
+ 
+Semiconductor Materials and Devices 
+Solid State Electronic Devices 
+Special Topics in Physics  
+Projects in Physics 
+Applied Physics Masters Internship 
+ 
+ 
+Research Interests —————————————————————————— 
+ 
+Novel materials and structures: Group-IV, III-V and II-VI systems, quantum 
+wells, quantum dots, optical waveguides 
+Quantum processes: Carrier scattering and transport, phonon dynamics and 
+engineering, band-to-band and intersubband transitions in semiconductor 
+structures 
+Semiconductor opto-electronics: Emitters and photodetectors spanning UV to 
+far infrared including conventional lasers and quantum cascade lasers 
+Silicon photonics: Silicon based photonic devices and systems, lasers, LEDs, and 
+IR detectors, waveguides and SiGeSn-based devices  
+
+-----
+Curriculum Vitae- Greg Sun  
+ 
+4 
+Nano-photonics: Surface plasmon enhanced optical processes and devices with 
+the use of subwavelength metal structures 
+Administrative Responsibilities ————————————————————— 
+ 
+Engineering Department Chair: Led the effort for the first publically supported 
+B. S. degree programs in ECE in Boston area; successfully sought for their 
+approval by UMB campus and UMass system governance, as well as 
+Massachusetts Board of Higher Education; designed new ECE curricula and led 
+the effort for their implementation at UMB; chaired ECE faculty search 
+committees; established a new Department of Engineering at UMB; freshman and 
+transfer admissions; academic advising; course scheduling; fundraising. 
+Committee Work: Departmental Personnel Committee Chair, Healey Grant 
+Review Committee Chair (for university wide internal grant applications),  
+Collegiate Personnel Committee, University Committee on Honorary Degrees, 
+Senior Administrator Review Committees. 
+ 
+Refereed Journal Papers ——————————————————————— 
+ 
+1. 
+C. Chang, H. Li, S. H. Huang, H. H. Cheng, G. Sun, and R. A. Soref, “Sn-based 
+Ge/Ge0.975Sn0.025/Ge p-i-n photodetector operated with back-side illumination,” 
+submitted to Applied Physics Letters 
+2. 
+H. Tran, W. Du, S. A. Ghetmiri, A. Mosleh, G. Sun, R. A. Soref, J. Margetis, J. 
+Tolle, B. Li, H. A. Naseem, and S.-Q. Yu “Absorption coefficient and refractive 
+index studies of Ge1-xSnx alloys towards Si photonics device applications,” 
+accepted to Journal of Applied Physics (2016) 
+3. 
+S. Al-Kabi, S. A. Ghetmiri, J. Margetis, W. Du, A. Mosleh, M. Alher, W. Dou, G. 
+Sun, R. A. Soref, J. Tolle, B. Li, M. Mortazavi, H. A. Naseem, and S.-Q. Yu, 
+“Optical characterization of Si-based Ge1-xSnx alloys with Sn compositions up to 
+12%,” accepted to Journal of Electronic Materials 
+4. 
+T. Pham, W. Du, H. Tran, J. Margetis, J. Tolle, G. Sun, R. A. Soref, H. A. Naseem, 
+B. Li, and S.-Q. Yu, “Systematic study of Si-based GeSn photodiodes with 2.6 µm 
+detector cutoff for short-wave infrared detection,” Optics Express. 24, 4519-4531 
+(2016) 
+5. 
+J. B. Khurgin, G. Sun, W. T. Chen, W.-Y. Tsai, and D. P. Tsai, “Ultrafast Thermal 
+Nonlinearity,” Scientific Reports 5, 17899 (2015) 
+6. 
+A. Mosleh, M. Alher, W. Du, L. C. Cousar, S. A. Ghetmiri, S. Al-Kabi, W. Dou, P. 
+C. Grant1, G. Sun, R. A. Soref, B. Li, H. A. Naseem, and S.-Q. Yu, “SiyGe1-x-ySnx 
+films grown on Si using a cold-wall ultra-high-vacuum chemical-vapor-deposition 
+system,” Editor’s Pick Journal of Vacuum Science & Technology B 34, 011201 
+(2016) 
+7. 
+J. B. Khurgin and G. Sun, “Impact of surface collisions on enhancement and 
+quenching of the luminescence near the metal nanoparticles, “Optics Express 23, 
+30739-30748 (2015) 
+
+-----
+Curriculum Vitae- Greg Sun  
+ 
+5 
+8. 
+C. Chang, H. Li, T. P. Chen, W. K. Tseng, H. H. Cheng, C. T. Ko, C. Y. Hsieh, M. 
+J. Chen, and G. Sun, “The strain dependence of Ge0.917Sn0.083 Raman shift,” Thin 
+Solid Films 593, 40–43 (2015) 
+9. 
+Y.-W. Huang, W. T. Chen, W.-Y. Tsai, P. C. Wu, C.-M. Wang, G. Sun, and D. P. 
+Tsai, “Aluminum plasmonic multi-color meta-hologram,” Nano Letters 15, 3122–
+3127 (2015) 
+10. A. Mosleh, M. Alher, W. Du, L. C. Cousar, S. A. Ghetmiri, S. Al-Kabi, W. Dou, B. 
+R. Conley, G. Sun, R. A. Soref, B. Li, H. A. Naseem, S.-Q. Yu, “Direct growth of 
+Ge1-xSnx films on Si using a cold-wall ultra-high-vacuum chemical-vapor-
+deposition system,” invited paper, Frontiers in Materials 2, 1-7 (2015) 
+11. W.-L. Hsu, P. C. Wu, J.-W. Chen, T.-Y. Chen, B. H. Cheng, W. T. Chen, Y.-W. 
+Huang, C. Y. Liao, G. Sun, and D. P. Tsai, “Vertical split-ring resonator based 
+anomalous beam steering with high extinction ratio,” Scientific Reports 5, 11226 
+(2015) 
+12. P. C. Wu, W.-L. Hsu, W. T. Chen, Y.-W. Huang, C. Y. Liao, A. Q. Liu, N. I. 
+Zheludev, G. Sun, and D. P. Tsai, “Plasmon coupling in vertical split-ring resonator 
+metamolecules,” Scientific Reports 5, 9726 (2015) 
+13. T.N. Pham, W. Du, B.R. Conley, J. Margetis, G. Sun, R.A. Soref, J. Tolle, B. Li, 
+S.-Q. Yu, “Si-based Ge0.9Sn0.1 photodetector with peak responsivity of 2.85 A/W 
+and longwave cutoff at 2.4 μm”  Electronics Letters 51, 854 – 856 (2015) 
+14. B. R. Conley, J. Margetis, W. Du, H. Tran, A. Mosleh, S. A. Ghetmiri, J. Tolle, G. 
+Sun, R. Soref, B. Li, H. A. Naseem, and S.-Q. Yu, “Si based GeSn photoconductors 
+with a 1.63 A/W peak responsivity and a 2.4 μm long-wavelength cutoff,” Applied 
+Physics Letters 105, 221117 (2014) 
+15. S. A. Ghetmiri, W. Du, B. R. Conley, A. Mosleh, A. Nazzal, G. Sun, R. A. Soref , 
+J. Margetis, J. Tolle, H. A. Naseem, and S.-Q. Yu, “Shortwave-infrared 
+photoluminescence from Ge1-xSnx thin films on silicon,” Journal of Vacuum 
+Science & Technology B 32, 060601 (2014) 
+16. S. A. Ghetmiri, W. Du, J. Margetis, A. Mosleh, L. Cousar, B. R. Conley, L. 
+Domulevicz, A. Nazzal, G. Sun, R. A. Soref, J. Tolle, B. Li, H. A. Naseem, and S.-
+Q. Yu, “Direct-bandgap GeSn grown on Silicon with 2230 nm photoluminescence,” 
+Applied Physics Letters 105, 151109 (2014) 
+17. P. C. Wu, G. Sun, W. T. Chen, K.-Y. Yang, Y.-W. Huang, Y.-H. Chen, H. L. 
+Huang, W.-L. Hsu, H. P. Chiang, and D. P. Tsai, “Vertical split-ring resonator 
+based nanoplasmonic sensor,” Applied Physics Letters 105, 033105 (2014) 
+18. W. Du, S. A. Ghetmiri, B. R. Conley, A. Mosleh, A. Nazzal, R. A. Soref, G. Sun, J. 
+Tolle, J. Margetis, H. A. Naseem, and S.-Q. Yu, “Competition of optical transitions 
+between direct and indirect bandgaps in Ge1-xSnx,” Applied Physics Letters 105, 
+051104 (2014) 
+19. W. Du, Y. Zhou, S. A. Ghetmiri, A. Mosleh, B. R. Conley, A. Nazzal, R. A. 
+Soref, G. Sun, J. Tolle, J. Margetis, H. A. Naseem, and S.-Q. Yu, “Room-
+temperature electroluminescence from Ge/Ge1-xSnx/Ge diodes on Si substrates,” 
+Applied Physics Letters, 104, 241110 (2014) 
+20. B. R. Conley, A. Mosleh, S. A. Ghetmiri, W. Du, R. A. Soref, G. Sun, J. Margetis, 
+J. Tolle, H. A. Naseem, and S.-Q. Yu, “Temperature dependent spectral response 
+
+-----
+Curriculum Vitae- Greg Sun  
+ 
+6 
+and detectivity of GeSn photoconductors on silicon for short wave infrared 
+detection,” Optics Express 22, 15639-15652 (2014) 
+21. J. B. Khurgin and G. Sun, “SPASER’s, VCSEL’s, and Surface plasmon emitting 
+diodes (SPED’s): their unique features and figures of merit,” Nature Photonics 8, 
+468–473 (2014) 
+22. W. T. Chen, K.-Y. Yang, C.-M. Wang, Y.-W. Huang, G. Sun, I.-D. Chiang, C. Y. 
+Liao, W.-L. Hsu, H. T. Lin, S. Sun, L. Zhou, A.-Q. Liu, and D. P. Tsai, “High-
+efficiency broadband meta-hologram with polarization-controlled dual images,” 
+Nano Letters 14, 225–230 (2014) 
+23. H. H. Tseng, H. Li, V. Mashanov, Y. J. Yang, H. H. Cheng, G.-E. Chang, R. A. 
+Soref, and G. Sun, “GeSn-based p-i-n photodiodes with strained active layer on a 
+Si wafer,” Applied Physics Letters 103, 231907 (2013) 
+24. J. B. Khurgin and G. Sun, “Third-order nonlinear plasmonic materials: 
+enhancement and limitations,” Physics Review A 88, 053838 (2013) 
+25. G. Sun, J. B. Khurgin, and D. P. Tsai, “Spoof plasmon waveguide enabled ultrathin 
+room temperature THz GaN quantum cascade laser - a feasibility study,” Optics 
+Express 21, 28056-28061 (2013) 
+26. J. B. Khurgin and G. Sun, “Plasmonic enhancement of the third order nonlinear 
+optical phenomena: figures of merit,” Optics Express 21, 27460-27480 (2013) 
+27. K.-Y, Wu, B.-H. Tsai, J.-Z. Chen, G.-E. Chang, V. I. Mashanov, H. H. Cheng, G. 
+Sun, and R. A. Soref, “Sn-based group-IV structure for resonant tunneling diodes,” 
+IEEE Electron Device Letters 34, 951-953 (2013) 
+28. H. H. Tseng, K. Y. Wu, H. Li, V. Mashanov, H. H. Cheng, G. Sun, and R. A. 
+Soref, “Mid-infrared electroluminescence from a Ge/Ge0.922Sn0.078/Ge double 
+heterostructure p-i-n diode on a Si substrate,” Applied Physics Letters 102,182106 
+(2013). APL Editor's Picks on Semiconductor Research 
+29. G. Sun and S. Yu, “The SiGeSn Approach towards Si-based Lasers,” Solid State 
+Electronics 83, 76-81 (2013) 
+30. K. Y. Wu, I. S. Yu, H. H. Cheng, K. M. Hung, and G. Sun, “Theoretical analysis of 
+n-type Si-based resonant tunneling diodes deposited on either partially or fully 
+relaxed SiGe buffer layers,” IEEE Transactions on Electron Devices 60, 1298 - 
+1301 (2013) 
+31. J. B. Khurgin and G. Sun, “The case for using gap plasmon-polaritons in second-
+order optical nonlinear processes,” Optics Express 20, 28717-28723 (2012) 
+32. P. C. Wu, W. T. Chen, K.-Y. Yang, C. T. Hsiao, G. Sun, A.-Q. Liu, and D. P. Tsai, 
+"Magnetic plasmon induced transparency in three dimensional metamolecules," 
+Nanophotonics 1, 131-138 (2012) 
+33. J. B. Khurgin and G. Sun, “How small can ‘nano’ be in a ‘nanolaser’?” 
+Nanophotonics 1, 3-8 (2012) 
+34. G. Sun and J. B. Khurgin, “Origin of giant difference between fluorescence, 
+resonance and non-resonance Raman scattering enhancement by surface plasmons,” 
+Physical Review A 85, 063410 (2012) 
+35. J. B. Khurgin and G. Sun, “Injection pumped single mode surface plasmon 
+generators: threshold, linewidth, and coherence,” Optics Express 20, 15309–15325 
+(2012) 
+
+-----
+Curriculum Vitae- Greg Sun  
+ 
+7 
+36. M. L. Tseng, Y.-W. Huang, M.-K. Hsiao, H. W. Huang, H. M. Chen, Y. L. Chen, 
+C. H. Chu, N.-N. Chu, Y. J. He, C. M. Chang, W. C. Lin, L. C. Kuo, Y. J. Liu , D.-
+W. Huang, H.-P. Chiang, R.-S. Liu, G. Sun, and D. P. Tsai, “Fast fabrication of Ag 
+nanostructure substrate using the femto-second laser for broadband and tunable 
+plasmonic enhancement,” ACS Nano 6, 5190–5197 (2012) 
+37. G. E. Chang, H. H. Cheng, G. Sun and R. A. Soref, “Transformation of a two-
+dimensional to one-dimensional energy profile on a spatially deformed 
+Ge0.51Si0.49/Ge0.82Si0.18 wrinkled heterostructure,” Journal of Applied Physics 111, 
+104321 (2012) 
+38. R. A. Soref , G. Sun, and H. H. Cheng, “Franz-Keldysh electro-absorption 
+modulation in germanium-tin alloys,” Journal of Applied Physics 111, 123113 
+(2012) 
+39. Z. Pan, J. Guo, R. A. Soref, W. Buchwald, and G. Sun, “Guided Plasmon modes of 
+triangular and inverted triangular cross section silver nano-ridges,” Journal of 
+Optical Society of America B 29, 950-958 (2012) 
+40. G. Sun, J. B. Khurgin, and D. P. Tsai, “Comparative analysis of photoluminescence 
+and Raman enhancement by metal nanoparticles,” Optics Letters 37, 1583-1585 
+(2012) 
+41. G. Sun, “Towards Si based electrically injected group-IV lasers,” invited paper, 
+Optical and Quantum Electronics 44, 563-573 (2012) 
+42. Z. Pan, J. Guo, R. A. Soref, W. Buchwald, and G. Sun, “Mode properties of flat-top 
+silver nano-ridge surface Plasmon waveguides,” Journal of Optical Society of 
+America B 29, 340-345 (2012) 
+43. J. B. Khurgin and G. Sun, “Practicality of compensating the loss in the plasmonic 
+waveguides using semiconductor gain medium,” Applied Physics Letters 100, 
+011105 (2012) 
+44. J. B. Khurgin and G. Sun, “Scaling of losses with size and wavelength in 
+nanoplasmonics and metamaterials,” Applied Physics Letters 99, 211106 (2011) 
+45. R. A. Soref, J. Guo, and G. Sun, “Low-energy MOS depletion modulators in 
+silicon-on-insulator micro-donut resonators coupled to bus waveguides,” Optics 
+Express 19, 18122 (2011) 
+46. G. Sun, J. B. Khurgin, and A. Bratkovsky “Coupled-mode theory of field 
+enhancement in complex metal nanostructures,” Physical Review B 84, 045415 
+(2011) 
+47. G. Sun and J. B. Khurgin, “Optimization of the nanolens consisting of coupled 
+metal nanoparticles: an analytical approach,” Applied Physics Letters 98, 153115 
+(2011) 
+48. G. Sun and J. B. Khurgin, “Plasmon enhancement of luminescence by metal 
+nanoparticles” invited paper, IEEE Journal of Selected Topics in Quantum 
+Electronics 17, 110 (2011) 
+49. G. Sun and J. B. Khurgin, “Theory of optical emission enhancement by coupled 
+metal nanoparticles: an analytical approach,” Applied Physics Letters 98, 113116 
+(2011) 
+
+-----
+Curriculum Vitae- Greg Sun  
+ 
+8 
+50. G. Sun, “The intersubband approach to silicon based lasers –circumventing the 
+indirect bandgap limitation,” invited article, Advances in Optics and Photonics 3, 
+53-87 (2011) 
+51. G. Sun and J. B. Khurgin, “Comparative study of field enhancement between 
+isolated and coupled metal nanoparticles: an analytical approach,” Applied Physics 
+Letters 97, 263110 (2010) 
+52. G. Sun, R. A. Soref, and H. H. Cheng, “Design of a Si-based lattice-matched room-
+temperature GeSn/GeSiSn multi-quantum-well mid-infrared laser diode,” Optics 
+Express 18, 19957-19965 (2010) 
+53. H. H. Cheng, W.-P. Huang , V.I. Mashanov, and G. Sun, “Local intermixing on 
+Ge/Si heterostructures at low temperature growth,” Journal of Applied Physics 108, 
+044314 (2010) 
+54. G. Sun, R. A. Soref, and H. H. Cheng, “Design of an electrically pumped 
+SiGeSn/GeSn/SiGeSn double-heterostructure mid-infrared laser,” Journal of 
+Applied Physics 108, 033107 (2010) 
+55. K. M. Hung, J.-Y. Kuo, C. C. Hong, H. H. Cheng, G. Sun, R. A. Soref, “Carrier 
+dynamics of terahertz emission based on strained SiGe/Si single quantum well,” 
+Applied Physics Letters 96, 213502 (2010) 
+56. J. B. Khurgin and G. Sun, “In search of the elusive lossless metal,” Applied Physics 
+Letters 96, 181102 (2010) 
+57. A. I. Fedorchenko, H. H. Cheng, G. Sun, and R. A. Soref, “Radiation emission 
+from wrinkled SiGe/SiGe nanostructure,” Applied Physics Letters 96, 113104 
+(2010) 
+58. G. Sun, F. Chang, and R. A. Soref, “High efficiency thin-film crystalline Si/Ge 
+tandem solar cell,” Optics Express, 18, 3746-3753 (2010) 
+59. G. Sun, J. B. Khurgin, and C. C. Yang, “Impact of high-order surface Plasmon 
+modes of metal nanoparticles on enhancement of optical emission,” Applied Physics 
+Letters 95, 171103 (2009) 
+60. J. B. Khurgin and G. Sun, “Enhancement of optical properties of nanoscaled 
+objects by metal nanoparticles,” Journal of Optical Society of America B 26, B83-
+B95 (2009) 
+61. J. B. Khurgin and G. Sun, “Impact of disorder on surface plasmons in two-
+dimensional arrays of metal nanoparticles,” Applied Physics Letters 94, 221111 
+(2009) 
+62. J. B. Khurgin and G. Sun, “Enhancement of light absorption in a quantum well by 
+surface plasmon polariton,” Applied Physics Letters 94, 191106 (2009) 
+63. G. Sun, J. B. Khurgin, and R. A. Soref, “Practical enhancement of 
+photoluminescence by metal nanoparticles,” Applied Physics Letters 94, 101103 
+(2009) 
+64. J. B. Khurgin, G. Sun, and R. A. Soref, “Practical limits of absorption enhancement 
+near metal nanoparticles,” Applied Physics Letters 94, 071103 (2009) 
+65. W. P. Huang, H. H. Cheng, G. Sun, R.-F. Lou, J. H. Yeh, and T.-M. Shen, 
+“Observation of in-plane strain fluctuation in relaxed SiGe virtual substrate,” Thin 
+Solid Films, 517, 281-284 (2008) 
+
+-----
+Curriculum Vitae- Greg Sun  
+ 
+9 
+66. T. H. Cheng, K. Y. Wang, W. P. Huang, H. H. Cheng, G. Sun, and R. A. Soref, 
+“Electron tunneling in strained n-type Si1-xGex/Si/Si1-xGex double barrier structure,” 
+Applied Physics Letters 93, 123509 (2008) 
+67. G. Sun, J. B. Khurgin, and R. A. Soref, “Plasmonic light-emission enhancement 
+with isolated metal nanoparticles and their coupled arrays,” Journal of Optical 
+Society of America B 25, 1748-1755 (2008) 
+68. J. B. Khurgin, G. Sun, and R. A. Soref, “Electroluminescence efficiency 
+enhancement using metal nanoparticles,” Applied Physics Letters 93, p.021120 
+(2008) 
+69. W. P. Huang, H. H. Cheng, G. Sun, R. F. Lou, J. H. Yeh, and T. M. Shen, “The 
+characteristic of strain relaxation on SiGe virtual substrate with thermal annealing,” 
+Applied Physics Letters 91, 142102 (2007) 
+70. K. Y. Wang, W. P. Huang, H. H. Cheng, G. Sun, R. A. Soref, and Y. W. Suen 
+“Observation of type-I and type-II excitons in strained Si/SiGe quantum-well 
+structures,” Applied Physics Letters 91, 072108 (2007) 
+71. G. Sun, H. H. Cheng, J. Menendez, J. B. Khurgin, and R. A. Soref, “Strain-free 
+Ge/GeSiSn quantum cascade lasers based on L-valley intersubband transitions,” 
+Applied Physics Letters 90, 251105 (2007) 
+72. J. B. Khurgin, G. Sun, and R. A. Soref, “Enhancement of luminescence efficiency 
+using surface plasmon polaritons: figures of merit,” Journal of Optical Society of 
+America B 24, 1968-1980 (2007) 
+73. G. Sun, J. B. Khurgin, and R. A. Soref, “Practicable enhancement of spontaneous 
+emission using surface plasmons,” Applied Physics Letters 90, 111107 (2007) 
+74. Y. Lu and G. Sun, “Design and simulation of a mid-infrared quantum cascade laser 
+based on Ge-Si superlattices,” Diffusion and Defect Data Pt.B: Solid State 
+Phenomena, 121-123, 677-680 (2007) 
+75. G. S. Huang, T. C. Lu, H. H. Yao, H. C. Kuo, S. C. Wang, G. Sun, C.-W. Lin, L. 
+Chang, R. A. Soref, “GaN/AlGaN active regions for terahertz quantum cascade 
+lasers grown by low-temperature metal vapor deposition,” Journal of Crystal 
+Growth 298, 687-690 (2007) 
+76. G. Sun, “Design of unipolar intersubband lasers for terahertz emission,” invited 
+paper, Journal of Luminescence 119-120, 528-534 (2006) 
+77. G. Sun, J. B. Khurgin, and R. A. Soref, “Design of a GaN/AlGaN intersubband 
+Raman laser electrically tunable over the 3~5 μm atmospheric transmission 
+window,” Journal of Applied Physics 99, 33103 (2006) 
+78. G. Sun, J. B. Khurgin, and R. A. Soref, “Nonlinear all-optical GaN/AlGaN multi-
+quantum-well devices for 100 Gb/s applications at  = 1.55 m,” Applied Physics 
+Letters 87, 201108-201110 (2005) 
+79. G. Sun and R. A. Soref, “Design and simulation of a GaN/AlGaN quantum cascade 
+laser for terahertz emission,” Microelectronics Journal 36, 450-452 (2005) 
+80. G. Sun, R. A. Soref, and J. B. Khurgin, “A comparative study of InAs quantum dot 
+lasers with barriers of direct and indirect bandgaps,” Microelectronics Journal 36, 
+183-185 (2005) 
+
+-----
+Curriculum Vitae- Greg Sun  
+ 
+10 
+81. G. Sun and R. A. Soref, J. B. Khurgin, “Active region design of a terahertz 
+GaN/Al0.15Ga0.85N quantum cascade lasers,” Superlattices and Microstructures 37, 
+107-113 (2005) 
+82. G. Sun, R. A. Soref, and J. B. Khurgin, “The linewidth enhancement factor α in 
+quantum dot lasers with a short period superlattice of indirect bandgap,” IEEE 
+Photonics Technology Letters 16, 2203-2205 (2004) 
+83. G. Sun, R. A. Soref, and J. B. Khurgin, “Reduced threshold current of a quantum 
+dot laser in short period superlattice of indirect-band gap,” Applied Physics Letters 
+84, 3861-3863 (2004) 
+84. G. Sun, J. B. Khurgin, and R. A. Soref, “Improved temperature characteristics in 
+quantum dot lasers with indirect-bandgap barriers,” OSA Trends in Optics and 
+Photonics Series, 88, 1494-1496 (2003) 
+85. Y. Lu and G. Sun, “Analytic solution for in-plane valence subbands of strained 
+SiGe superlattice,” Chinese Physics Letters 20, 2226-2228 (2003) 
+86. G. Sun and R. A. Soref, “Si-based quantum staircase terahertz lasers,” 
+Microelectronics Journal 34, 391–393 (2003) 
+87. R. A. Soref and G. Sun, “Terahertz gain in SiGe/Si quantum staircase utilizing the 
+heavy-hole inverted effective mass,” Applied Physics Letters 79, 3639-3641 (2001) 
+88. R. D’Oleo, G. Alvarez-Lorenzo, and G. Sun, “A new approach to design imprinted 
+polymer gels without using a template,” Macromolecules, 34, 4965-4971 (2001) 
+89. G. Sun and R. A. Soref, “Phonon–pumped terahertz gain in n-type GaAs/AlGaAs 
+superlattice,” Applied Physics Letters 78, 3520-3522 (2001) 
+90. G. Sun, R. A. Soref, and J. B. Khurgin, “Phonon-pumped terahertz inter-miniband 
+laser, ” IEEE J. Selected Topics in Quantum Electronics 7, 376-380 (2001) 
+91. L. Friedman, G. Sun, and R. A. Soref, “SiGe/Si THz laser based on transitions 
+between inverted mass light-hole and heavy-hole subbands,” Applied Physics 
+Letters 78, 401-403 (2001) 
+92. G. Sun, L. Friedman, and R. A. Soref, “Light-hole to heavy-hole acoustic phonon 
+scattering rate,” Physical Review B, 62, 8114-8119 (2000) 
+93. L. Friedman, R. A. Soref, G. Sun, and Y. Lu, “Asymmetric strained-symmetrized 
+Ge/Si interminiband laser,” IEEE Photonics Technology Letters 10, 1715-1717 
+(1998) 
+94. L. Friedman, R. A. Soref, G. Sun, and Y. Lu, “Theory of the strain-symmetrized Si-
+based Ge/Si superlattice laser,” IEEE J. Selected Topics in Quantum Electronics 4, 
+1029-1034 (1998) 
+95. R. A. Soref, L. Friedman, L. C. Lew Yan Voon, L. R. Ram-Mohan, and G. Sun, 
+“Progress toward silicon-based intersubband lasers,” J. Vac. Sci. Technol. B 16(3), 
+1525-1528 (1998) 
+96. G. Sun, Y. Lu, and J. B. Khurgin, “Valence intersubband lasers with inverted light-
+hole effective mass,” Applied Physics Letters 72, 1481-1483 (1998) 
+97. G. Sun, Y. Lu, and J. B. Khurgin, “Intersubband laser based on the subband 
+dispersion of inverted mass,” the focus issue of Optics Express for Quantum Well 
+Laser Design, 2, 143-150 (1998) 
+
+-----
+Curriculum Vitae- Greg Sun  
+ 
+11 
+98. G. Sun, Y. Lu, L. Friedman, and R. A. Soref, “Heavy-hole intersubband scattering 
+by confined optical phonons in a Si/ZnS superlattice,” Physical Review B 57, 6550-
+6560 (1998) 
+99. L. Friedman, R. A. Soref, and G. Sun, “Silicon-based interminiband infrared laser,” 
+Journal of Applied Physics 83, 3480-3485 (1998) 
+100. R. A. Soref, L. Friedman, and G. Sun, “Silicon intersubband lasers,” Superlattices 
+and Microstructures 23, 427-439 (1998) 
+101. G. Sun, J. B. Khurgin, L. Friedman and R. A. Soref, “Tunable intersubband Raman 
+laser in GaAs/AlGaAs multiple quantum wells,” J. Opt. Soc. Am. B 15, 648-651 
+(1998) 
+102. G. Sun, L. Friedman, and R. A. Soref, “Intersubband lasing in silicon-based 
+quantum well structures,” Superlattices and Microstructures 22, 3-7 (1997) 
+103. L. Friedman, R. A. Soref, and G. Sun, “Quantum parallel laser: a unipolar 
+superlattice intersubband laser,” IEEE Photonics Technology Letters 9, 593-595 
+(1997) 
+104. G. Sun and L. Friedman, “Heavy-hole scattering by confined nonpolar optical 
+phonons in a single Si1- xGex/Si quantum well,” Physical Review B 53, 3966-3974 
+(1996) 
+105. J. Khurgin, G. Sun, L. Friedman, and R. A. Soref, “Comparative analysis of 
+optically-pumped intersubband lasers and intersubband Raman Oscillators,” 
+Journal of Applied Physics 78, 7398-7400 (1995) 
+106. G. Sun, L. Friedman, and R. A. Soref, “Intersubband lasing lifetimes of SiGe/Si 
+and GaAs/AlGaAs multiple quantum well structures,” Applied Physics Letters 66, 
+3425-3427 (1995) 
+107. G. Sun and L. Friedman, “Nonparabolicity corrections to the valence band energy 
+levels of Si/GexSi1-x quantum wells,” Superlattices and Microstructures 17, 245-
+251 (1995) 
+108. G. Sun and J, Khurgin, “Optically pumped four-level infrared laser based on 
+intersubband transitions in multiple quantum wells: feasibility study,” IEEE Journal 
+of Quantum Electronics QE-29, 1104-1111 (1993) 
+109. G. Sun, K. Shahzad, J. Gaines, and J. Khurgin, “Room-temperature photopumped 
+blue lasing in ZnSe/ZnS0.06Se0.94 double heterostructures,” Applied Physics Letters 
+59, 310-311 (1991) 
+ 
+Book Chapters and Articles —————————————————————— 
+ 
+110. G. Sun and J. B. Khurgin, “Plasmonic enhancement of optical properties by isolated 
+and coupled metal nanoparticles,” in Plasmonics and Plasmonic Metamaterials: 
+Analysis and Applications, (Edited by G. Shvets and I. Tsukerman, ISBN: 978-981-
+4355-27-8, World Scientific, Singapore, 2012), pp.1-44 
+111. G. Sun, “The intersubband approach to Si-based lasers,” in Advances in Lasers and 
+Electro Optics, (Edited by: Nelson Costa and Adolfo Cartaxo, ISBN: 978-953-307-
+088-9, Publisher: INTECH, 2010), pp.255-288 
+112. G. Sun, R. A. Soref, and Z. Ikonic, “Promising SiGe superlattice and quantum well 
+laser candidates,” in Towards the First Silicon Laser (Edited by L. Pavesi, S. 
+
+-----
+Curriculum Vitae- Greg Sun  
+ 
+12 
+Gaponenko, and L. Dal Negro, ISBN: 9781402011948, Kluwer Academic 
+Publishers, Netherlands, 2003), pp.293-306 
+113. G. Sun, Y. Lu, and J. B. Khurgin, “THz intersubband lasers using the inverted mass 
+scheme,” in Intersubband Transitions in Quantum Wells: Physics and Devices, 
+(Edited by S. S. Li and Y.-K. Su, Kluwer Academic Publishers, Boston, 1998), 
+pp.167-172 
+114. G. Sun and J. B. Khurgin, “Electron Raman infrared laser based on intersubband 
+transitions in coupled quantum wells,” in Narrow Gap Semiconductors, (Edited by 
+S. C. Shen, D. Y. Tang, G. Z. Zheng, and G. Bauer, World Scientific, Singapore, 
+1998), pp.218-222 
+115. G. Sun and J. B. Khurgin, “Feasibility of optically pumped four-level infrared 
+lasers,” in Intersubband Transitions in Quantum Wells, (Edited by E. Rosencher, B. 
+Vinter, and B. Levine, Plenum Press, New York, 1991), pp.219-226 
+ 
+Conference Proceedings and Presentations ———————————————— 
+ 
+1. 
+J. B. Khurgin, G. Sun, W.-Y. Tsai, and D. P. Tsai, “Ultimate limit of 
+nanoplasmonic field enhancement,” SPIE Optics + Photonics (San Diego, August, 
+2016) 
+2. 
+J. B. Khurgin and G. Sun, “Limits of plasmonic enhancement: what if the metal 
+becomes ‘lossless’?” Proceeding of the Conference on Lasers and Electrooptics 
+(CLEO), (San Jose, June, 2016) 
+3. 
+J. B. Khurgin, G. Sun, W. T. Chen, W.-Y. Tsai, and D. P. Tsai “Ultrafast thermal 
+nonlinearity,” Proceeding of the Conference on Lasers and Electrooptics (CLEO), 
+(San Jose, June, 2016) 
+4. 
+C. Chang, H. Li, S. H. Huang, H. H. Cheng, and G. Sun, “Ge/Ge0.975Sn0.025/Ge p-i-
+n photodetector operated with back-side illumination,” invited talk, The 9th 
+International Conference on Nanophotonics (Taipei, Taiwan, March, 2016) 
+5. 
+G. Sun and H. H. Cheng, “Surface plasmon enhanced GeSiSn infrared detectors,” 
+invited talk, 2015 Joint USAF-Korea NBIT-Taiwan Nanoscience Program Review 
+and Technical Exchange (Seoul, South Korea, October, 2015) 
+6. 
+T. Pham, W. Du, J. Margetis, S. A. Ghetmiri, A. Mosleh, G. Sun, R. A. Soref, J. 
+Tolle, H. A. Naseem, B. Li, and S.-Q. Yu, “Temperature dependent study of Si 
+based GeSn photoconductor,” SPIE Optics + Photonics (San Diego, August, 2015) 
+7. 
+S.-Q. Yu, S. A. Ghetmiri, W. Du, J. Margetis, Y. Zhou, A. Mosleh, A. Nazzal, G. 
+Sun, R. A. Soref, J. Tolle, B. Li, H. A. Naseem, “Si based GeSn light emitter: mid-
+infrared device in Si photonics,” SPIE Optics + Photonics (San Diego, August, 
+2015) 
+8. 
+T. Pham, B. Conley, J. Margetis, H. Tran, S. A. Ghetmiri, A. Mosleh, W. Du, G. 
+Sun, R. A. Soref, J. Tolle, H. Naseem, B. Li, and S.-Q. Yu, “Enhanced responsivity 
+up to 2.85 A/W of Si-based Ge0.9Sn0.1 photoconductors by integration of 
+interdigitated electrodes,” Proceeding of the Conference on Lasers and 
+Electrooptics (CLEO), (San Jose, May, 2015) 
+9. 
+S. A. Ghetmiri, W. Du, Y. Zhou, J. Margetis, T. Pham, A. Mosleh, B. Conley, A. 
+Nazzal, G. Sun, R. A. Soref, J. Tolle, H. Naseem, B. Li, and S.-Q. Yu, 
+
+-----
+Curriculum Vitae- Greg Sun  
+ 
+13 
+“Temperature-dependent characterization of G0.94Sn0.06 light-emitting diode grown 
+on Si via CVD,” Proceeding of the Conference on Lasers and Electrooptics 
+(CLEO), (San Jose, May, 2015) 
+10. D. P. Tsai, P. C. Wu, W. L. Hsu, W. T. Chen, Y. W. Huang, C. Y. Liao, W. Y. Tsai, 
+A. Q. Liu, N. Zheludev, and G. Sun, “Vertical split-ring resonators for plasmon 
+coupling, sensing and metasurface,” invited talk, in Resonant Dielectric, 
+Semiconductor and Metallic Nanostructures, 4th Photonics Global Conference 
+(Singapore, June-July 2015) 
+11. G. Sun, “Practicality of enhancement and spasing with metal nanoparticles,” 
+invited talk, the 45th Winter Colloquium on the Physics of Quantum Electronics 
+(Snowbird, Utah, January, 2015) 
+12. G. Sun, “Plasmonic enhancement of optical absorption, electroluminescence, 
+florescence, and Raman scattering by metal nanoparticles: limits and comparison,” 
+Symposium Keynote in About Nanoparticles, Metallic Nanostructures and Their 
+Optical Properties XII, SPIE Optics + Photonics (San Diego, August, 2014) 
+13. D. P. Tsai, P. C. Wu, W. T. Chen, K.-Y. Yang, C.-M. Wang, Y.-W. Huang, G. Sun,  
+S. Sun, L. Zhou, A. Q. Liu, “Polarization controlled colorful images reconstructed 
+by reflective metahologram,” invited talk in Imaging and Cloaking, SPIE Optics + 
+Photonics (San Diego, August, 2014) 
+14. P. C. Wu, W. T. Chen, K.-Y. Yang, C.-M. Wang, Y.-W. Huang, G. Sun, S. Sun, L. 
+Zhou, A. Q. Liu, D. P. Tsai, “Reflected metasurface for polarization-controlled 
+hologram application,” in Fabrication, SPIE Optics + Photonics (San Diego, 
+August, 2014) 
+15. G. Sun, “Plasmon enhanced mid infrared SiGeSn detectors,” invited talk, 11th 
+Taiwan/U.S. Air Force Nanoscience Workshop, (Hualien, Taiwan, May, 2014) 
+16. W. Du, S. A. Ghetmiri, A. Mosleh, B. R. Conley, L. Huang, A. Nazzal, R. A Soref, 
+G. Sun, J. Tolle, H. A. Naseem, and S.-Q. Yu, “Investigation of Photoluminescence 
+from Ge1-xSnx: A CMOS-Compatible Material Grown on Si via CVD,” 
+Proceeding of the Conference on Lasers and Electrooptics (CLEO), No. JW2A.57 
+(San Jose, California, June, 2014) 
+17. B. R. Conley, L. Huang, S. A. Ghetmiri, A. Mosleh, W. Du, G. Sun, R. Soref, J. 
+Tolle, H. A. Naseem, and S.-Q. Yu, “Extended Infrared Absorption to 2.2 µm with 
+Ge1-xSnx Photodetectors Grown on Silicon,” Proceeding of the Conference on 
+Lasers and Electrooptics (CLEO), No. SM2H.5 (San Jose, California, June, 2014) 
+18. S. A. Ghetmiri, B. R. Conley, A. Mosleh, L. Huang, W. Du, A. Nazzal, G. Sun, R. 
+Soref, J. Tolle, H. A. Naseem, and S.-Q. Yu, “Photoluminescence from GeSn/Ge 
+Heterostructure Microdisks with 6% Sn Grown on Si via CVD,” Proceeding of the 
+Conference on Lasers and Electrooptics (CLEO), No. AW1H.2 (San Jose, 
+California, June , 2014) 
+19. W. T. Chen, K.-Y. Yang, C. M. Wang, Y.-W. Huang, G. Sun, S. Sun, L. Zhou, A. 
+Q. Liu, and D. P. Tsai, “Gold cross-nanoantennas for high-efficiency and 
+broadband plasmonic meta-hologram,” invited talk, the 5th International 
+Conference on Metamaterials, Photonic Crystals and Plasmonics (Singapore, May, 
+2014) 
+
+-----
+Curriculum Vitae- Greg Sun  
+ 
+14 
+20. G. Sun, J. B. Khurgin, and D. P. Tsai, “Feasibility of GaN-based room temperature 
+THz laser in a spoof plasmon waveguide,” invited talk in symposium "Ultrafast 
+Phenomena and Nanophotonics," Photonics West, (San Francisco, February, 2014), 
+invited paper, Proceedings of SPIE 8984, 89840B (Bellingham, WA, 2014) 
+21. W. T. Chen, K.-Y Yang, C.-M. Wang, S. Sun, T.-K. Juan, Y.-W. Huang, C. Y. 
+Liao, H. T. Lin, Q. He, S. Xiao, L. Zhou, G. Sun, A. Q. Liu, and D. P. Tsai, “High-
+efficiency reflective metasurfaces for anomalous reflection and metahologram,” 
+Photonics West, (San Francisco, February, 2014) 
+22. G. Sun, “Analytical model for luminescence enhancement by metal nanoparticles,” 
+invited talk, International Conference on Microwave and Photonics, (India, 
+December, 2013) 
+23. G. Sun, J. B. Khurgin, and D. P. Tsai, “Feasibility of spoof surface plasmon 
+waveguide enabled ultrathin room temperature THz GaN quantum cascade laser,” 
+invited talk, the 2013 Fall Meeting of the Materials Research Society, (Boston, 
+December, 2013) 
+24. G. Sun, “Group-IV approach to Si based lasers,” invited talk, 10th Taiwan/U.S. 
+Air Force Nanoscience Workshop, (New Sanno, Tokyo, Japan, August, 2013) 
+25. J. B. Khurgin and G. Sun, “SPASER versus SPED” (Extended abstract), 
+Proceeding of the Conference on Lasers and Electro-Optics (CLEO) and the 
+International Quantum Electronics Conference (IQEC), (San Jose, California, June, 
+2013) 
+26. J. B. Khurgin and G. Sun, “Limits of plasmonic enhancement of third order 
+nonlinear optical effects” (Extended abstract), Proceeding of the Conference on 
+Lasers and Electro-Optics (CLEO) and the International Quantum Electronics 
+Conference (IQEC), (San Jose, California, June, 2013) 
+27. J. B. Khurgin and G. Sun, “Second-order nonlinear processes using gap plasmon-
+polaritons,” (Extended abstract), Proceeding of the Conference on Lasers and 
+Electro-Optics (CLEO) and the International Quantum Electronics Conference 
+(IQEC), (San Jose, California, June, 2013) 
+28. G. Sun and J. B. Khurgin, “Explaining the giant difference in surface plasmon 
+enhancement of fluorescence, resonance and non-resonance Raman scattering,” 
+(Extended abstract), Proceeding of the Conference on Lasers and Electro-Optics 
+(CLEO) and the International Quantum Electronics Conference (IQEC), (San Jose, 
+California, June, 2013) 
+29. G. Sun, “A physical model explaining the giant plasmonic enhancement difference 
+between fluorescence, resonance and non-resonance Raman scattering,” invited 
+talk, 13th International Conference on Computational and Experimental 
+Engineering and Sciences, (Seattle, Washington, May, 2013) 
+30. J. B. Khurgin and G. Sun, “Second-order nonlinear processes using gap plasmon-
+polaritons,” the 6th International Conference on Surface Plasmon Photonics, 
+(Ottawa, Canada, May, 2013) 
+31. J. B. Khurgin and G. Sun, “Third order nonlinear plasmonic materials: 
+enhancement and limitations,” the 6th International Conference on Surface Plasmon 
+Photonics, (Ottawa, Canada, May, 2013) 
+
+-----
+Curriculum Vitae- Greg Sun  
+ 
+15 
+32. J. B. Khurgin and G. Sun, “Prospects of Spaser,” the 6th International Conference 
+on Surface Plasmon Photonics, (Ottawa, Canada, May, 2013) 
+33. G. Sun and J. B. Khurgin, “Origin of giant difference between fluorescence, 
+resonance and non-resonance Raman scattering enhancement by surface plasmons,” 
+the 6th International Conference on Surface Plasmon Photonics, (Ottawa, Canada, 
+May, 2013) 
+34. G. Sun “Approaches towards room temperature THz lasers,” invited talk, 
+Photonics Global Conference (Singapore, December, 2012) 
+35. G. Sun “The SiGeSn approach towards Si-based lasers,” invited talk, The 6th 
+International SiGe Technology and Device Meeting (Berkeley, California, June, 
+2012) 
+36. B. R. Conley, H. Naseem, G. Sun, P. Sharps, and S.-Q. Yu, “High efficiency MJ 
+solar cells and TPV using SiGeSn materials,” The 38th IEEE Photovoltaic 
+Specialists Conference, (Austin, Texas, June, 2012) 
+37. M. L. Tseng, Y.-W. Huang, M.-K. Hsiao, H. W. Huang, H. M. Chen, N.-N. Chu, Y. 
+J. He, C. M. Chang, D.-W. Huang, H.-P. Chiang, R.-S. Liu, D. P. Tsai, and G. Sun, 
+“Applications of plasmonic hotspots on laser-treated AgOx thin film,” (Extended 
+abstract), Proceeding of the Conference on Lasers and Electro-Optics (CLEO) and 
+the International Quantum Electronics Conference (IQEC), (San Jose, California, 
+May, 2012) 
+38. G. Sun and J. B. Khurgin “Analytical comparison of Raman and 
+photoluminescence enhancement by metal nanoparticles,” (Extended abstract), 
+Proceeding of the Conference on Lasers and Electro-Optics (CLEO) and the 
+International Quantum Electronics Conference (IQEC), (San Jose, California, May, 
+2012) 
+39. G. Sun, “Group-IV lasers for monolithic integration on Si substrates,” invited talk, 
+9th Taiwan/U.S. Air Force Nanoscience Workshop, (Kenting, Taiwan, April, 2012) 
+40. G. Sun and J. B. Khurgin “Giant difference between Raman and PL enhancement 
+by metal nanoparticles,” Nanolight, (Benasque, Spain, March, 2012) 
+41. M. L. Tseng, Y.-W. Huang, M.-K. Hsiao, H. W. Huang, H. M. Chen, N.-N. Chu, Y. 
+J. He, C. M. Chang, D.-W. Huang, H.-P. Chiang, R.-S. Liu, D. P. Tsai, and G. Sun, 
+“Blinking of plasmonic hotspots on laser-treated AgOx thin film,” invited talk, 
+IEEE RF Nanotechnology, TU-PM-NANO 3-1, (Singapore, 2011) 
+42. G. Sun and J. B. Khurgin “Analytical model of Raman enhancement by metal 
+nanoshells,” invited talk, Symposium on Phonons in Nanomaterials ─ Theory, 
+Experiments, and Applications, Materials Research Society Annual Meeting 
+(Boston, Massachusetts, November, 2011) 
+43. G. Sun “Approaches towards Si-based group-IV lasers,” invited talk, the 2nd GeSn 
+Workshop, (Leuven, Belgium, September, 2011) 
+44. G. Sun “The group-IV approach towards Si-based lasers,” invited talk, the 7th Joint 
+Meeting of Chinese Physicists Worldwide International Conference on Physics 
+Education and Frontier Physics (OCPA7), (Kaohsiung, Taiwan, August, 2011) 
+45. G. Sun “Approaches towards Si-based group-IV lasers,” invited talk, Symposium I 
+on Transport and Photonics in Si-based Nanodevices, the Spring Meeting of the 
+European Materials Research Society (E-MRS) (Nice, France, May, 2011) 
+
+-----
+Curriculum Vitae- Greg Sun  
+ 
+16 
+46. G. Sun “Towards Si-based electrically injected group-IV lasers,” invited talk, 
+International Topical Meeting on Information Photonics, (Ottawa, Canada, May, 
+2011) 
+47. G. Sun and J. B. Khurgin, “Coupled mode theory of field enhancement in complex 
+metal nanoparticles,” (Extended abstract), Proceeding of the Conference on Lasers 
+and Electro-Optics (CLEO) and the International Quantum Electronics Conference 
+(IQEC), (Baltimore, Maryland, May, 2011) 
+48. G. Sun and J. B. Khurgin, “Enhancement of optical emission by coupled metal 
+nanoparticles,” (Extended abstract), Proceeding of the Conference on Lasers and 
+Electro-Optics (CLEO) and the International Quantum Electronics Conference 
+(IQEC), (Baltimore, Maryland, May, 2011) 
+49. G. Sun and J. B. Khurgin, “Optical emission enhancement by coupled metal 
+nanospheres,” 3rd International Topical Meeting on Nanophotonics and 
+Metamaterials (Tirol, Austria, January, 2011) 
+50. G. Sun and J. B. Khurgin, “Analytical analysis of field enhancement by coupled 
+metal nanoparticles,” 3rd International Topical Meeting on Nanophotonics and 
+Metamaterials (Tirol, Austria, January, 2011) 
+51. H. H. Cheng, A. I. Fedorchenko, G. Sun, and R. A. Soref, “Radiation from 
+wrinkled SiGe/SiGe free standing film,” International Conference on Superlattices, 
+Nanostructures and Nanodevices (ICSNN) (Beijing, China, July, 2010) 
+52. G. Sun and J. B. Khurgin “Luminescence quenching due to high-order surface 
+Plasmon modes of metal nanoparticles,” Photonic Metamaterials and Plasmonics 
+(META) (Tucson, Arizona, June, 2010) 
+53. J. B. Khurgin and G. Sun, “Coupled-mode theory of plasmonic field enhancement 
+in complex metal nanostructures,” Photonic Metamaterials and Plasmonics (META) 
+(Tucson, Arizona, June, 2010) 
+54. J. B. Khurgin and G. Sun, “Quest for the elusive lossless metal,” Photonic 
+Metamaterials and Plasmonics (META) (Tucson, Arizona, June, 2010) 
+55. G. Sun and J. B. Khurgin, “Impact of high-order surface Plasmon modes of metal 
+nanoparticles on emission enhancement,” (Extended abstract), Proceeding of the 
+Conference on Lasers and Electro-Optics (CLEO) and the International Quantum 
+Electronics Conference (IQEC), (San Francisco, California, May, 2010) 
+56. G. Sun and J. B. Khurgin, “Enhancement of optical emission and absorption by 
+metal nanoparticles,” invited talk in Ultrafast Phenomena in Semiconductors and 
+Nanostructure Materials XIV (Photonics West), edited by Jin-Joo Song, Kong-Thon 
+Tsen, Markus Betz, Abdulhakem Y. Elezzabi, Proceedings of SPIE 7600, 760010 
+(SPIE, Bellingham, WA, 2010) 
+57. G. Sun and J. B. Khurgin, “Practical limits of optical enhancement by metal 
+nanoparticles,” 22nd Annual Meeting of the IEEE Photonics Society (Belek-
+Antalya, Turkey, October, 2009) 
+58. G. Sun and J. B. Khurgin, “Optical absorption enhancement by metal 
+nanoparticles,” 26th Progress In Electromagnetics Research Symposium (PIERS) 
+(Moscow, Russia, August, 2009) 
+59. G. Sun and J. B. Khurgin, “Practical limits of absorption enhancement near metal 
+nanoparticles,” (Extended abstract), Proceeding of the Conference on Lasers and 
+
+-----
+Curriculum Vitae- Greg Sun  
+ 
+17 
+Electro-Optics (CLEO) and the International Quantum Electronics Conference 
+(IQEC), (Baltimore, Maryland, June, 2009) 
+60. G. Sun and J. B. Khurgin, “Photoluminescence enhancement by metal 
+nanoparticles,” (Extended abstract), Proceeding of the Conference on Lasers and 
+Electro-Optics (CLEO) and the International Quantum Electronics Conference 
+(IQEC), (Baltimore, Maryland, June, 2009) 
+61. G. Sun and J. B. Khurgin, “Electroluminescence efficiency enhancement using 
+metal nanoparticles,” European Optical Society Annual Meeting (Paris, France, 
+September, 2008) 
+62. G. Sun, J. B. Khurgin, J. Menéndez, and R. A. Soref, “Design of GeSiSn/Ge 
+quantum cascade laser,” 5th International Conference on Group IV photonics 
+sponsored by IEEE (Sorrento, Italy, September, 2008) 
+63. G. Sun, J. B. Khurgin, J. Menéndez, and R. A. Soref, “Group-IV quantum cascade 
+laser operating in the L-valleys,” (Extended abstract), Proceeding of Conference of 
+Lasers and Electro-Optics, (San Jose, California, May, 2008) 
+64. J. B. Khurgin, G. Sun, and R. A. Soref, “Enhancing efficiency of 
+electroluminescence using individual metal nanoparticles and ordered nanoparticle 
+arrays,” (Extended abstract), Proceeding of Conference of Lasers and Electro-
+Optics, (San Jose, California, May, 2008) 
+65. J. B. Khurgin and G. Sun, “Waveguides operating in the Restrahlen band,” 
+(Extended abstract), Proceeding of Conference of Lasers and Electro-Optics, (San 
+Jose, California, May, 2008) 
+66. G. Sun and J. B. Khurgin, “Limitation of spontaneous emission enhancement using 
+surface Plasmon polaritons,” 23rd Progress In Electromagnetics Research 
+Symposium (PIERS) (Hungzhou, China, March, 2008) 
+67. G. Sun and J. B. Khurgin, “Intersubband devices operating in the Restrahlen 
+region,” The 9th International Conference on Intersubband Transitions in Quantum 
+Wells, (Ambleside, Cumbria, United Kingdom, September, 2007) 
+68. G. Sun, J. Menéndez, J. B. Khurgin, and R. A. Soref, “Strain free Ge/GeSiSn 
+quantum cascade laser based on L-valley intersubband transitions,” The 9th 
+International Conference on Intersubband Transitions in Quantum Wells, 
+(Ambleside, Cumbria, United Kingdom, September, 2007) 
+69. G. Sun, J. B. Khurgin, and R. A. Soref, “Enhancement of luminescence efficiency 
+using surface plasmon polaritons,” (Extended abstract), Proceeding of Conference 
+of Lasers and Electro-Optics, (Baltimore, Maryland, May, 2007) 
+70. J. B. Khurgin and G. Sun, "Limits of luminescence efficiency enhancement by 
+surface plasmon polaritons," invited talk in Photonic Metamaterials, edited by 
+Mikhail A. Noginov, Nikolay I. Zheludev, Allan D. Boardman, Nader Engheta, 
+Proceedings of SPIE 6638 (SPIE, Bellingham, WA, 2007) p.66380R 
+71. G. Sun, “Spontaneous emission enhancement due to surface plasmons,” invited 
+talk, Quantum Optics Workshop, (Muju Resort, South Korea, January, 2007) 
+72. R. A. Soref, S. C. Wang, and G. Sun, “MOCVD growth results on GaN/AlGaN 
+terahertz quantum-cascade laser structures,” 2nd International Workshop on 
+Quantum Cascade Lasers, (Brindisi, Italy, September, 2006) 
+
+-----
+Curriculum Vitae- Greg Sun  
+ 
+18 
+73. B. S. Ham, G. Sun, and S. K. Noh, “Ultrafast on-demand all-optical buffer memory 
+in coupled quantum wells,” The 13th International Symposium on the Physics of 
+Semiconductors and Applications, (Jeju, South Karea, August, 2006) 
+74. G. Sun, J. B. Khurgin, and R. A. Soref, “Design of a GaN/AlGaN intersubband 
+Raman laser electrically tunable over the 3~5 μm atmospheric transmission 
+window,” (Extended abstract), Proceeding of Conference of Lasers and Electro-
+Optics, (Long Beach, California, May, 2006) 
+75. S. C. Wang, R. A. Soref, and G. Sun “Fabrication and Characteristics of 
+GaN/AlGaN multilayer structure for terahertz quantum cascade laser,” invited talk 
+in Terahertz Physics, Devices, and Systems, edited by Mehdi Anwar, Anthony J. 
+DeMaria, Michael S. Shur, Proceedings of SPIE, 6373 (SPIE, Bellingham, WA, 
+2006) p.637309-1 
+76. S. C. Wang, G. Sun, and R. A. Soref “Fabrication and characterization of 
+GaN/AlGaN multilayer structure for terahertz quantum-cascade laser,” invited talk, 
+Optics East, (Boston, Massachusetts, October, 2006) 
+77. J. B. Khurgin G. Sun, and R. A. Soref, “Nonlinear all-optical devices based on 
+intersubband GaN/AlGaN coupled quantum wells for wide bandwidth applications 
+at  = 1.55 m,” The 8th International Conference on Intersubband Transitions in 
+Quantum Wells, (Cape Cod, Massachusetts, September, 2005) 
+78. G. Sun, J. B. Khurgin, and R. A. Soref, “Engineering intersubband nonlinearities in 
+GaN/AlGaN coupled quantum wells for optimized performance in wide bandwidth 
+applications,” (Extended abstract), Proceeding of Conference of Lasers and Electro-
+Optics, (Baltimore, Maryland, May, 2005) 
+79. Y. Lu and G. Sun, “Design and simulation of terahertz GaN/Al0.15Ga0.85N quantum 
+cascade laser, (Beijing, China, September 2004) SIMC 2005, art. no. 1511438, pp. 
+284-288  
+80. G. Sun, “Design and modeling of THz quantum cascade lasers,” invited talk, 15th 
+International Conference on Dynamical Processes in Excited States of Solids, 
+(Shanghai, China, August, 2005) 
+81. G. Sun, R. A. Soref, and Jacob B. Khurgin, “A comparative study of InAs quantum 
+dot lasers with barriers of indirect and direct band gap,” 5th International 
+Conference on Low Dimension Structures and Devices, (Cancun, Mexico, 
+December, 2004) 
+82. G. Sun and R. A. Soref , “Design and simulation of a GaN/AlGaN quantum 
+cascade laser for terahertz emission,” 5th International Conference on Low 
+Dimension Structures and Devices, (Cancun, Mexico, December, 2004) 
+83. G. Sun and R. A. Soref, “Design of room temperature GaN/AlGaN THz quantum ,” 
+IEEE Semiconducting and Semi-Insulating Materials Conference cascade lasers,” 
+March Meeting of the American Physical Society, (Montreal, Canada, March, 
+2004) 
+84. J. B. Khurgin, G. Sun, and R. A. Soref, “Intersubband spin pump,” The 7th 
+International Conference on Intersubband Transitions in Quantum Wells, (Evolene, 
+Switzerland, September, 2003) 
+85. G. Sun, R. A. Soref, and J. B. Khurgin, “Improved temperature characteristics in 
+quantum dot lasers with indirect bandgap barriers,” (Extended abstract), 
+
+-----
+Curriculum Vitae- Greg Sun  
+ 
+19 
+Proceedings of Conference of Lasers and Electro-Optics, (Baltimore, Maryland, 
+June, 2003) 
+86. Y. Lu, C. Lu, and G. Sun, “Valance intersubband laser with strained-symmetrized 
+silicon-based Si-Ge superlattice” Proceedings of SPIE 4918 (SPIE, Bellingham, 
+WA, 2002), pp.378-384 
+87. G. Sun and R. A. Soref, “Si-based quantum staircase THz lasers,” The 4th 
+International Conference on Low Dimension Structures and Devices, (Fortaleza, 
+Brazil, December, 2002) 
+88. B. S. Ham and G. Sun, “Ultrahigh-speed all-optical modulation in GaAs/AlGaAs 
+quantum wells,” The 11th Seoul International Symposium on the Physics of 
+Semiconductors and Applications, (Seoul, South Korea, August, 2002) 
+89. G. Sun, “Promising SiGe quantum well and superlattice laser candidates,” invited 
+talk, Optical Amplification and Stimulation in Silicon, (Trento, Italy, September, 
+2002) 
+90. G. Sun and R. A. Soref, “Inverted-mass HH2 intersubband quantum staircase 
+lasers,” (Extended abstract), The 6th International Conference on Intersubband 
+Transitions in Quantum Wells, (Asilomar, California, September, 2001) 
+91. G. Sun and R. A. Soref, “Phonon-pumped semiconductor terahertz lasers,” 
+(Extended abstract), The 6th International Conference on Intersubband Transitions 
+in Quantum Wells, (Asilomar, California, September, 2001) 
+92. G. Sun, “Terahertz SiGe Interminiband Laser Based on Phonon Engineering,” The 
+10th International Conference on Narrow Gap Semiconductors and Related Small 
+Energy Phenomena, Physics and Applications, (Ishikawa, Japan, May, 2001) 
+93. G. Sun, “Acoustic Phonon Scattering between light hole and heavy hole in a 
+SiGe/Si superlattice,” The 3rd Joint Meeting of Chinese Physicist World Wide 
+(Hong Kong, August, 2000) 
+94. R. A. Soref, L. Friedman, G. Sun, M. J. Noble, and L. R. Ram-Mohan, 
+“Intersubband quantum-well terahertz lasers and detectors” in Terahertz and 
+Gigahertz Photonics, edited by R. Jennifer Hwu, Ke Wu, Proceedings of SPIE 
+3795, (SPIE, Bellingham, WA, 1999) pp.516-527 
+95. G. Sun, Y. Lu, and J. B. Khurgin, “Valence intersubband lasers without total 
+population inversion based on the inverted mass,” in Semiconductor Lasers III, 
+edited by Qiming Wang, Lawrence J. Davis, Siamak Forouhar, Proceedings of SPIE 
+3547, (SPIE, Bellingham, WA, 1998) pp.333-340 
+96. G. Sun, L. Friedman and R. A. Soref, “Feasibility of novel Si-based interminiband 
+lasers,” Materials Research Society Symposium Proceedings 533, pp.227-234 
+(1998) 
+97. G. Sun, Y. Lu, and J. B. Khurgin, “THz intersubband lasers using the inverted mass 
+scheme,” The 1997 International Workshop on Intersubband Transitions in 
+Quantum Wells: Physics and Devices, (Tainan, Taiwan, December, 1997) 
+98. G. Sun and J. B. Khurgin, “Electron Raman infrared laser based on intersubband 
+transitions in coupled quantum wells,” 8th International Conference on Narrow Gap 
+Semiconductors, (Shanghai, China, April, 1997) 
+99. L. Friedman, R. A. Soref, and G. Sun, “Si-based intersubband laser,” General 
+Meeting of the American Physical Society (March, 1997) 
+
+-----
+Curriculum Vitae- Greg Sun  
+ 
+20 
+100. N. A. Pendergrass and G. Sun, “Using Computer Assisted Collaborative Learning 
+to Improve Distance Education,” Frontiers In Education - FIE'97, (Pittsburg, PA, 
+Nov. 1997) 
+101. N. A. Pendergrass and G. Sun, “Using Computer Assisted Collaborative Learning 
+for High Quality Distance Education,” Frontiers In Education - FIE'96, (Salt Lake 
+City, UT, Nov. 1996) 
+102. G. Sun, L. Friedman, and R. A. Soref, “Intersubband lasing in silicon-based 
+quantum well structure,” 9th International Conference in Superlattices, 
+Microstructures, and Microdevices, (Liege, Belgium, July, 1996) 
+103. G. Sun, J. B. Khurgin, L. Friedman and R. A. Soref, “Intersubband lasing in 
+silicon-based multiple quantum wells,” in Semiconductor Lasers II, edited by 
+Siamak Forouhar, Qiming Wang, Proceedings of SPIE 2886 (SPIE, Bellingham, 
+WA, 1996), pp.198-204 
+104. G. Sun, J. B. Khurgin, L. Friedman and R. A. Soref, “Optically pumped 
+intersubband electron Raman lasers,” in Semiconductor Lasers II, edited by Siamak 
+Forouhar, Qiming Wang, Proc. SPIE 2886 (SPIE, Bellingham, WA, 1996), pp.20-
+24 
+105. J. B. Khurgin, L. Friedman, R. A. Soref, and G. Sun, “Comparative analysis of 
+optically pumped intersubband lasers and intersubband Raman oscillators,” 
+(Extended abstract), Proceeding of Conference of Lasers and Electro-Optics, 
+(Baltimore, Maryland), 143 (1996) 
+106. L. Friedman, R. A. Soref, and G. Sun, “Intersubband lasing in Si-based quantum 
+well structures,” General Meeting of the American Physical Society, (March, 1996) 
+107. L. Friedman and G. Sun, “Effect of phonon confinement on intersubband lasing 
+lifetimes of Si/SiGe quantum well structures,” Materials Research Society 
+Symposium Proceedings 402, pp.455-459 (Boston, Massachusetts 1996) 
+108. G. Sun, “Comparative analysis of intersubband lasing lifetimes of SiGe/Si and 
+GaAs/AlGaAs multiple quantum well structure,” invited talk, the 26th Winter 
+Colloquium on the Physics of Quantum Electronics, (Snowbird, Utah, January, 
+1996) 
+109. G. Sun, L. Friedman, and R. A. Soref, “SiGe-on-Si quantum cascade intersubband 
+laser”, General Meeting of the American Physical Society, (March, 1995) 
+110. G. Sun, Y. Li, Y. Lu, B. Khan, and G. S. Tompa, “Investigation of efficiency 
+improvement on Si solar cells due to porous layers,” Materials Research Society 
+Symposium Proceedings 358, pp.593-598 (1995) 
+111. S. I. Kim, T. Hart, B. K. Khan, G. S. Tompa, Y. Lu, G. Sun, and J. Khurgin, “IR, 
+visible, and UV photoluminescence dependence on the composition of quantum 
+nanocrystals,” Materials Research Society Symposium Proceedings 326, pp.591-
+596 (1994) 
+112. G. Sun, J. Petruzzello, J. Gaines, and D. Olego, “Band offsets in ZnSe/ZnCdSe 
+multiple quantum well structures,” (Extended abstract), Proceeding of Conference 
+of Lasers and Electro-Optics, (Baltimore, Maryland), (1993) 
+113. G. Sun and J. Khurgin, “Band engineering of optically-pumped four-level infrared 
+lasers,” Annual Meeting of IEEE Lasers and Electro-Optics Society (1991) 
+
+-----
+Curriculum Vitae- Greg Sun  
+ 
+21 
+114. G. Sun, K. Shahzad, J. Gaines, and J. Khurgin, “Low threshold operation of 
+optically-pumped double heterostructure ZnSe/ZnSxSe1-x lasers,” (Extended 
+abstract), Proceeding of Conference of Lasers and Electro-Optics, (Baltimore, 
+Maryland), 268 (1991) 
+115. X. Feng and G. Sun, “A new on-line approach for AIDS modeling and prediction 
+through dynamic data systems identification (DDSI) method,” Proceedings of the 
+Annual International Conference of the IEEE Engineering in Medicine and Biology 
+Society, (New Orleans, Louisiana, November, 1988) 10, pp.1084-1085 
+ 
+ 
+Seminars and Colloquia ——————————————————————— 
+ 
+1. “Is sky the limit for plasmonic enhancement if metal becomes lossless?” Academia 
+Sinica, (Taipei, Taiwan, January, 2016) 
+2. “Why does size matter in plasmonic enhancement,” Sung Kyun Kwan Univerity, 
+(Suwon, South Korea, October, 2015) 
+3. “Surface plasmon enhanced GeSiSn detectors and basics of intersubband lasers,” 
+Institute of Semiconductors, Chinese Academy of Sciences, (Beijing, China, October, 
+2015) 
+4. “Group-IV approach towards Si-based light sources,” Academia Sinica, (Taipei, 
+Taiwan, December, 2014) 
+5. “Is nitride a solution for compact, room temperature THz laser?” Institute of 
+Semiconductors, Chinese Academy of Sciences, (Beijing, China, June, 2014) 
+6. “Towards Si-based light sources” 2014 Peking University Summer School on Silicon 
+Photonics Technology and Applications, (Beijing, China, July, 2014) 
+7. “Understanding nanoplasmonics” 2014 Peking University Summer School on Silicon 
+Photonics Technology and Applications, (Beijing, China, July, 2014) 
+8. “Prospect of a compact, room temperature THz laser,” Academia Sinica, (Taipei, 
+Taiwan, May, 2014) 
+9. “Why size matters,’ presented at the Department of Electrical and Computer 
+Engineering, University of Massachusetts Lowell, (Lowell, Massachusetts, March, 
+2014) 
+10. “Approaches towards Si based lasers,” 2013 Peking University Summer School on 
+Silicon Photonics Technology and Applications, (Beijing, China, July, 2013) 
+11. “Origin of Optical Enhancement by Metal Nanoparticles,” 2013 Peking University 
+Summer School on Silicon Photonics Technology and Applications, (Beijing, China, 
+July, 2013) 
+12. “Why size matters in nanophotonics,” Research Center for Applied Sciences, 
+Academia Sinica, (Taipei, Taiwan, August, 2013) 
+13. “Where does the plasmonic enhancement come from?” School of Physics, Shanghai 
+Jiao Tong University, (Shanghai, China, January, 2012) 
+14. “Intersubband transitions in nitride quantum wells,” School of Physics, Shanghai Jiao 
+Tong University, (Shanghai, China, January, 2012) 
+
+-----
+Curriculum Vitae- Greg Sun  
+ 
+22 
+15. “Towards silicon based lasers – leaping over the last hurdle in silicon photonics,” 
+Department of Electrical Engineering, University of Arkansas, (Fayetteville, 
+Arkansas, November, 2011) 
+16. “Origin of enhancement by metal nanoparticles,” Department of Optical Engineering, 
+Zhe Jiang University, (Hangzhou, China, August, 2011) 
+17. “Approaches towards Si-based lasers,” Department of Physics, National Tsinghua 
+University, (Hsingchu, Taiwan, July, 2011) 
+18. “Why metal nanoparticles can enhance optical properties?” Instrument Technology 
+Research Center, (Hsingchu, Taiwan, July, 2011) 
+19. “Understanding the optical enhancement by metal nanoparticles” Center for 
+Condensed Matter Science, National Taiwan University, (Taipei, Taiwan, July, 2011) 
+20. “Understanding optical enhancement by metal nanoparticles,” Rochester Institute of 
+Technology, (Rochester, New York, May, 2011)  
+21. “Understanding metal nanoparticles with an analytical approach,” Department of 
+Physics, University of Massachusetts Lowell, (Lowell, Massachusetts, February, 
+2011) 
+22. “Calculating the optical enhancement by metal nanoparticles the analytical way,” 
+Department of Electrical and Computer Engineering, University of Alabama at 
+Huntsville, (Huntsville, Alabama, November, 2010) 
+23. “The Intersubband approach towards Si-based lasers,” Department of Electrical and 
+Computer Engineering, Marquette University, (Milwaukee, Wisconsin, September, 
+2010) 
+24. “Understanding optical enhancement by metal nanoparticles,” Institute of 
+Semiconductors, Chinese Academy of Sciences, (Beijing, China, July, 2010) 
+25. “Understanding optical enhancement by metal nanoparticles,” Nanoelectronics, 
+Electromagnetics and Photonics Seminar, University of Delaware, (Delaware, April, 
+2010) 
+26. “Intersubband approach to Si-based lasers,” Technology Research Center, University 
+of Maryland at Baltimore County, (Maryland, April, 2010) 
+27. “Where does the optical enhancement come from with metal nanoparticles?” 
+University of Wisconsin at Madison, (Wisconsin, March, 2010) 
+28. “How metal nanoparticles enhance optical processes?” Cairo University, (Egypt, 
+January, 2010) 
+29. “What metal nanoparticles can do to nearby nanoscaled objects?” Hebrew University 
+of Jerusalem, (Israel, January, 2010) 
+30. “Enhancement of optical properties of nanoscaled objects by metal nanoparticles,” 
+Graduate Institute of Electro-Optical Engineering, National Taiwan University, 
+(Taipei, Taiwan, July, 2009) 
+31. “Plasmonic enhancement of spontaneous emission efficiency,” Department of 
+Electronics Engineering, National Kaohsiung University of Applied Sciences, 
+(Kaohsiung, Taiwan, August, 2008) 
+32. “Si-based quantum cascade laser using L-valley intersubband transitions,” 
+Department of Physics, National Taiwan University, (Taipei, Taiwan, June, 2007)  
+
+-----
+Curriculum Vitae- Greg Sun  
+ 
+23 
+33. “Novel approaches in quantum cascade lasers,” Department of Photonics and Institute 
+of Electro-Optical Engineering, National Chiao Tung University, (Hsinchu, Taiwan, 
+May, 2007) 
+34. “Efficiency improvement of light emitting devices using surface plasmons,” Graduate 
+Institute of Electro-Optical Engineering, National Taiwan University, (Taipei, 
+Taiwan, March, 2007) 
+35. “Group-IV quantum cascade lasers operating in the L-valleys – a feasibility study,” 
+Institute of Semiconductors, Chinese Academy of Sciences, (Beijing, China, April, 
+2007)  
+36. “Intersubband lasing – a pathway towards Si-based lasers,” Center for Condensed 
+Matter Science, National Taiwan University, (Taipei, Taiwan, March, 2007) 
+37. “Terahertz intersubband quantum cascade lasers,” Institute of Semiconductors, 
+Chinese Academy of Sciences, (Beijing, China, August, 2004) 
+38. “Design and modeling of intersubband lasers,” Institute of Semiconductors, Chinese 
+Academy of Sciences, (Beijing, China, December, 2002) 
+39. “Valence intersubband laser designs,” Center for Quantum Coherence and 
+Communications, Electronics and Telecommunications Research Institute, (Taejon, 
+South Korea, February, 2002) 
+40. “GaAs and SiGe inverted mass and phonon pumped THz lasers,” Institute for 
+Microstructural Sciences, National Research Council, (Ottawa, Canada, October, 
+2001) 
+41. “Lasing in Si-based material systems using intersubband transitions,” Physics 
+Colloquium at University of Massachusetts at Lowell, (Lowell, Massachusetts, 
+March, 1997) 
+42. “Intersubband lasing lifetimes in Si-based multiple quantum well structures,” Physics 
+Colloquium at Worcester Polytechnic Institute, (Worcester, Massachusetts, February, 
+1996) 
+43. “Electro-optical properties of ZnSe-based heterostructures,” presented at the Institute 
+of Microelectronics, Peking University, (Beijing, China June, 1994) 
+ 
+Patents   ——————————————————————————————— 
+ 
+R. A. Soref and G. Sun, “Phonon-pumped semiconductor lasers,” U.S. Patent 
+6,621,841, issued on September 16, 2003 
+ 
+Professional Organizations   —————————————————————— 
+ 
+ 
+Optical Society of America 
+ 
+IEEE Photonics Society 
+ 
+Materials Research Society 
+ 
+Grants and Contracts   ————————————————————————— 
+ 
+1. 
+“GeSn based near and mid infrared heterostructure detectors” 
+PIs: G. Sun, UMass Boston and H. H. Cheng, National Taiwan University 
+
+-----
+Curriculum Vitae- Greg Sun  
+ 
+24 
+The Asian Office of Aerospace Research and Development 
+Amount: $160K (2016-2017)  
+2. 
+“SiGeSn heterostructure photonics technology for ultrafast communications in the 
+2–mm infrared region” 
+P.I.: G. Sun and R. A. Soref, UMass Boston 
+Air Force Office of Scientific Research, Amount: $250K (July, 2014 - June, 2017) 
+3. 
+“Silicon based mid infrared SiGeSn heterostructure emitters and detectors” 
+P.I.: G. Sun, UMass Boston 
+Asian Office of Aerospace Research and Development, Amount: $60K (June, 2014 
+- December, 2015) 
+2 
+“Plasmonic enhanced photocatalysis,” 
+Co-PI: G. Sun, UMass Boston 
+with University of Wisconsin Madison and University of Massachusetts Lowell  
+DoE ARPA E program, Amount: $1.5M (February, 2013 – January, 2014) 
+3.  “The longwave silicon chip: Integrated plasma-photonics in group IV and III-V 
+semiconductors” 
+ 
+P.I.: G. Sun, UMass Boston 
+Air Force Office of Scientific Research, Amount: $352K (September, 2010 - 
+August, 2013 
+4.  “High Efficiency Photovoltaic and Plasmonic Devices” 
+ 
+P.I.: G. Sun, UMass Boston 
+Air Force Office of Scientific Research, Amount: $150K (July, 2009 - July, 2011) 
+5.  
+“Infrared and Terahertz lasers on Si using novel group IV alloys,”  
+Co-PI: G. Sun, UMass Boston 
+with Arizona State University and University of Illinois, Urbana Champaign - a 
+MURI program 
+Air Force Office of Scientific Research, Amount: $2.5M (June, 2006 – May, 2011) 
+6.  “Semiconductor Terahertz Technology” 
+ 
+P.I.: G. Sun, UMass Boston 
+Air Force Office of Scientific Research, Amount: $150K (April, 2007 - April, 2009) 
+7.  “Summer Transportation Institute” 
+ 
+P.I.: Tomas Materdey; co-P.I.; G. Sun, UMass Boston 
+Federal Highway Administration, Amount: $83K (July, 2007) 
+8.  “Summer Transportation Institute” 
+ 
+P.I.: Tomas Materdey; co-P.I.; G. Sun, UMass Boston 
+Federal Highway Administration, Amount: $43K (July, 2006) 
+9.  “Intersubband and Plasmonic Device Modeling” 
+ 
+P.I.; G. Sun, UMass Boston 
+Air Force Office of Scientific Research, Amount: $150K (April, 2005 - March, 
+2007) 
+10. “Summer Transportation Institute” 
+ 
+P.I.: Tomas Materdey; co-P.I.; G. Sun, UMass Boston 
+Federal Highway Administration, Amount: $50K (July, 2005) 
+11. “Modeling of GaN-based THz emitters and quantum dot lasers with indirect 
+barriers” 
+
+-----
+Curriculum Vitae- Greg Sun  
+ 
+25 
+ 
+P.I.; G. Sun, UMass Boston 
+Air Force Office of Scientific Research, Amount: $141K (April, 2003 - March, 
+2005) 
+12.  “Modeling of infrared ladar detectors and terahertz emitters” 
+ 
+P.I.; G. Sun, UMass Boston 
+ 
+Air Force Office of Scientific Research, Amount: $105K (May, 2001 - November, 
+2003) 
+13.  “Semiconductor multi-spectral sensors” 
+ 
+P.I.; G. Sun, UMass Boston 
+ 
+Air Force Office of Scientific Research, Amount: $40K (May, 2000 - October, 
+2001) 
+14.  “InAs/GaInSb detectors sensitive to radiation beyond 16 microns”  
+ 
+ P.I.: G. Sun, UMass Boston 
+ 
+ SBIR Subcontract to Epitaxial Technologies, Inc., Amount: $15K (Sept., 1999- 
+ 
+ Aug., 2000) 
+15. “Investigation of Si-based intersubband infrared laser” 
+ 
+P.I.; G. Sun, UMass Boston 
+ 
+Air Force Office of Scientific Research, Amount: $68K (Feb., 1998 - March,1999) 
+16.  “Modeling of Si quantum structures” 
+ 
+P.I.; G. Sun, UMass Boston 
+ 
+ Air Force Office of Scientific Research, Amount: $25K (Aug, 1997 - July, 1998) 
+17. “Investigation of Si/ZnS near infrared intersubband lasers” 
+ 
+P.I.; G. Sun, UMass Boston 
+ 
+ Air Force Office of Scientific Research, Amount: $25K (Jan, 1997 - Dec, 1997) 
+18. “Quantum modeling” 
+ 
+P.I.; G. Sun, UMass Boston 
+ 
+Air Force Office of Scientific Research, Amount: $25K (Aug, 1996 - July, 1997) 
+19. “Silicon intersubband laser characterization” 
+ 
+P.I.; G. Sun, UMass Boston 
+ 
+Air Force Office of Scientific Research, Amount: $63K (July, 1996 - Feb, 1998) 
+20. “Investigation of Si-based intersubband quantum well lasers” 
+ 
+P.I.; G. Sun, UMass Boston 
+ 
+Air Force Office of Scientific Research, Amount: $25K (Jan,1996 - Dec,1996) 
+21. “Development of long wavelength infrared detectors for trace gas detection” 
+ 
+P.I.: G. Sun, Structured Materials Industries, Inc. 
+ 
+Department of Energy SBIR Contract Award, Amount: $75K (1993) 
+22. “Development of quantum nanocrystal sensor based technology” 
+ 
+P.I.: G. Sun, Structured Materials Industries, Inc. 
+ 
+Department of Defense SBIR Contract Award, Amount: $50K (1993) 
+23. “Development of highly efficient porous polycrystalline Si solar cells for space 
+based applications” 
+ 
+P.I.: G. Sun, Structured Materials Industries, Inc. 
+ 
+Department of Defense SBIR Contract Award, Amount: $50K (1993) 
+
+-----

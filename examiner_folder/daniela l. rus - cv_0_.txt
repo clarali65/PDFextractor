@@ -1,0 +1,112 @@
+6/11/2018
+Daniela L. Rus - Wikipedia
+https://en.wikipedia.org/wiki/Daniela_L._Rus
+1/3
+Daniela L. Rus
+Born
+1963 (age 54–55) 
+Cluj, Romania
+Residence
+American
+Nationality
+American Romanian
+Citizenship
+American
+Alma mater Cornell University
+Awards
+AAAS member (2017) 
+NAE member (2015) 
+MacArthur fellow
+(2002) 
+IEEE fellow (2009) 
+AAAI fellow (2009) 
+ACM Fellow (2015)
+Scientific career
+Fields
+Robotics; Computer
+Science
+Institutions Dartmouth College; 
+Massachusetts
+Institute of Technology
+Doctoral
+advisor
+John Hopcroft
+Daniela L. Rus
+Daniela L. Rus (born 1963 in Cluj, Romania) is a roboticist, the Director of the Computer Science and Artificial
+Intelligence Laboratory (CSAIL), and Andrew and Erna Viterbi Professor in the Department of Electrical Engineering
+and Computer Science (EECS) at the Massachusetts Institute of Technology.
+Biography
+Work
+Networked, distributed, collaborative robotics
+Development of algorithms
+Distributed Robotics Lab
+References
+External links
+In 1993 Rus received her Ph.D. at Cornell University under the supervision of John Hopcroft.[1] She started her
+academic career as an Assistant, Associate, and Full Professor in the Computer Science Department at Dartmouth
+College before moving to MIT.
+At Dartmouth College's Computer Science Department, Rus founded and directed the Dartmouth Robotics
+Laboratory.[2] She is currently the Director of MIT Computer Science and Artificial Intelligence Laboratory (CSAIL) and
+head of its Distributed Robotics Lab.[3]
+Rus is a member of the National Academy of Engineering NAE, and a fellow of AAAI and IEEE. She was also the recipient of an NSF Career award and an Alfred P.
+Sloan Foundation fellowship, and was a recipient of the 2002 MacArthur Fellowship.[4]
+Contents
+Biography
+Work
+
+-----
+6/11/2018
+Daniela L. Rus - Wikipedia
+https://en.wikipedia.org/wiki/Daniela_L._Rus
+2/3
+Rus’ research interests include robotics, mobile computing and programmable matter. She is known for her work on self-reconfiguring robots, shape-shifting
+machines that have the ability to adapt to different environments by altering their internal geometric structure. They do this on their own, without remote control,
+for locomotion, manipulation, or sensing purposes. She has shown that these self-reconfigurable machines could be used in many situations where the possible
+obstacles and constraints on movement could not ever be fully anticipated in preprogrammed control software (e.g., deep sea or planetary exploration).[5]
+Rus's research is focused on developing the science of networked/distributed/collaborative robotics. Simply put, her research answers the question: how can many
+machines collaborate to achieve a common goal? Distributed networked robot systems consist of multiple robots that are connected by communication. In these
+systems the robots interact locally with the environment.
+The objective is for the system as a whole to have guaranteed global behavior. Distributed robotics is an important area of robotics as it addresses how collections
+of robots can collaborate to achieve a larger task than each individual robot is capable of doing. Rus was the first to put this area on a firm algorithmic footing.
+Rus's research addresses the development of algorithms that
+1. enable collaboration;
+2. couple tightly communication, control, and perception;
+3. are scalable and generally independent on the number of units in the system;
+4. have provable guarantees. An important theme in this work is self-organization: the study of computational processes that interact with each other and with the
+physical world by means of perception, communication, and change to achieve system reconfiguration in response to the task requirements and the
+environment.
+At MIT CSAIL, Rus heads the Distributed Robotics Lab which conducts research on modular and self-reconfiguring robots, distributed algorithms and systems of
+self-organizing robots, networks of robots and sensors for first-responders, mobile sensor networks, cooperative underwater robotics, and desktop robotics.[6]
+Her lab has created robots that can mimic a variety of human-like actions like tending a garden, dancing, baking cookies from scratch, cutting birthday cakes,
+among other behaviors. They can also fly in swarms without human aid to perform surveillance functions. She has led numerous groundbreaking research projects
+in the areas of multi-robot systems and in applications to transportation, security, environmental modeling and monitoring, underwater exploration, and
+agriculture.[4][7]
+Networked, distributed, collaborative robotics
+Development of algorithms
+Distributed Robotics Lab
+References
+
+-----
+6/11/2018
+Daniela L. Rus - Wikipedia
+https://en.wikipedia.org/wiki/Daniela_L._Rus
+3/3
+1. Daniela L. Rus (https://www.genealogy.math.ndsu.nodak.edu/id.php?id=76738) at the Mathematics Genealogy Project
+2. "Dartmouth Interview with Daniela Rus" (http://www.dartmouth.edu/~news/releases/2002/sept/092502a.html). dartmouth.edu.
+3. "MIT Sloan CIO Symposium: Daniela Rus" (http://www.mitcio.com/prof-daniela-rus-mit-csail). MIT Sloan CIO Symposium. 2015-05-18. Retrieved 2015-05-30.
+4. Barlow, Rich (December 28, 2003). "Mother of Invention" (http://www.boston.com/news/globe/magazine/articles/2003/12/28/mother_of_invention/). Boston
+Globe Magazine. Retrieved February 20, 2015.
+5. "MacArthur Foundation" (http://www.macfound.org/fellows/697/). www.macfound.org.
+6. "DRLWiki" (http://groups.csail.mit.edu/drl/wiki/index.php?title=Main_Page). groups.csail.mit.edu.
+7. "Daniela Rus - MIT CSAIL" (https://www.csail.mit.edu/user/876). www.csail.mit.edu.
+Daniela Rus Home page at MIT (http://people.csail.mit.edu/rus)
+Daniela Rus CSAIL home page (https://www.csail.mit.edu/user/876)
+Daniela Rus MacArthur Fellows Page (http://www.macfound.org/fellows/697/)
+MIT Distributed Robotics Lab Homepage (http://groups.csail.mit.edu/drl/wiki/index.php?title=Main_Page)
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Daniela_L._Rus&oldid=840172636"
+This page was last edited on 8 May 2018, at 05:28.
+Text is available under the Creative Commons Attribution-ShareAlike License; additional terms may apply. By using this site, you agree to the Terms of Use and
+Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+External links
+
+-----

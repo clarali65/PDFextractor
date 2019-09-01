@@ -1,0 +1,63 @@
+6/11/2018
+intra.ece.ucr.edu/~ren/
+http://intra.ece.ucr.edu/~ren/
+1/1
+Home
+Research
+Publications
+Google Scholar Page
+Teaching
+Links
+Wei Ren, Professor
+ 
+Department of Electrical and Computer Engineering
+ 
+University of California, Riverside
+ 
+Riverside, CA 92521
+ 
+Voice: 951 827 6204
+ 
+Fax: 951 827 2425
+ 
+Email: ren [at] ee [dot] ucr [dot] edu
+ 
+ 
+         
+        
+ 
+ 
+Wei Ren, Yongcan Cao, Distributed
+Coordination of Multi-agent Networks,
+Communications and Control Engineering
+Series, Springer-Verlag, London, 2011
+(ISBN: 978-0-85729-168-4)
+Book website     Springer Link
+       
+ 
+Wei Ren, Randal W. Beard, Distributed Consensus in Multi-
+vehicle Cooperative Control, Communications and Control
+Engineering Series, Springer-Verlag, London, 2008 (ISBN:
+978-1-84800-014-8)
+Book website     Springer Link
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Wei Ren is currently a Professor with the Department of Electrical and Computer Engineering, University of California, Riverside. He received the Ph.D. degree
+in Electrical Engineering from Brigham Young University, Provo, UT, in 2004. From 2004 to 2005, he was a Postdoctoral Research Associate with the Department
+of Aerospace Engineering, University of Maryland, College Park. He was an Assistant Professor (2005-2010) and an Associate Professor (2010-2011) with the
+Department of Electrical and Computer Engineering, Utah State University. His research focuses on distributed control of multi-agent systems and autonomous
+control of unmanned vehicles. Dr. Ren is an author of two books Distributed Coordination of Multi-agent Networks (Springer-Verlag, 2011) and Distributed
+Consensus in Multi-vehicle Cooperative Control (Springer-Verlag, 2008). He was a recipient of the Antonio Ruberti Young Researcher Prize in 2017 and the
+National Science Foundation CAREER Award in 2008. He is currently an Associate Editor for Automatica and Systems and Control Letters. He is an IEEE
+Fellow.
+
+-----

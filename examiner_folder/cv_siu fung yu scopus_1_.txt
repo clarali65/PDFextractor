@@ -1,0 +1,469 @@
+Scopus 
+Author details 
+About Scopus Author Identifi
+1 of 2 
+The Scopus Author Identifier assigns a unique number to groups of documents written by the same author via an algorithm that matches authorship based on a 
+certain criteria. If a document cannot be confidently matched with an author identifier, it is grouped separately. In this case, you may see more than one entry for 
+the same author. 
+×
+◅ Return to search results
+▻
+Next
+ Print
+ Em
+Yu, S. F.
+, Hong Kong, China 
+Author ID: 57190183563
+Hong Kong Polytechnic University, Department of 
+Applied Physics
+http://orcid.org/0000-0003-0354-3767
+Follow this Author
+View potential author matches 
+Other name formats: 
+Yu, Siu F.
+Yu, Siufung
+Yu, S. F.
+Yu, Siu Fung
+Subject area: 
+Physics and Astronomy
+Engineering
+Materials Science
+Chemistry
+Biochemistry, Genetics and Molecular Biology
+Computer Science
+Chemical Engineering
+Energy
+Multidisciplinary
+Mathematics
+Document and 
+citation trends:
+Year
+Documents
+Citations
+2008
+2018
+0
+23
+0
+644
+ Get citation alerts
++ Add to ORCID 
+ Request author detail corrections
+ Export profile to SciVal
+246
+h-index: 
+41
+Documents by author
+Total citations
+6377 by 
+documents 
+❓
+View h-graph
+Analyze author output
+5352
+View citation overview
+Sort on: 
+Document title
+Authors
+Year Source
+Cited by
+, 
+, 
+, (...), 
+, 
+2018 
+6(3),1700992
+0
+, 
+, 
+, (...), 
+, 
+2017 
+13(43),1701479
+, 
+, 
+, (...), 
+, 
+2017 
+188, pp. 454-459 
+0
+, 
+, 
+, 
+(...), 
+, 
+2017 
+4(6), pp. 1539-1543 
+246 Documents
+Cited by 5352 documents 
+150 co-authors
+Author history
+▻
+View all in search results format
+Date (newest)
+
+Export all
+Add all to list
+Set document alert
+Set document feed
+Lasing Characteristics of CH3NH3PbCl3Single-Crystal Microcavities under 
+Multiphoton Excitation
+Yang, D. Xie, C. Xu, X.
+Yan, F. Yu, S.F.
+Advanced Optical Materials
+
+View abstract
+View at Publisher
+Related documents 
+Energy Migration Upconversion in Ce(III)-Doped Heterogeneous 
+Core−Shell−Shell Nanoparticles
+Chen, X. Jin, L. Sun, T.
+Yu, S.F. Wang, F.
+Small
+2
+
+View abstract
+View at Publisher
+Related documents 
+Low temperature synthesis of CsPbI3sub-micrometer wires with tailored 
+emission band for flexible X-ray phosphors applications
+Zhao, J. Yu, H. Pan, S.
+Yu, S. Li, G.
+Journal of Luminescence
+
+View abstract
+View at Publisher
+Related documents 
+White-Light Whispering-Gallery-Mode Lasing from Lanthanide-Doped 
+Upconversion NaYF4Hexagonal Microrods
+Wang, T. Yu, H. Siu, C.K.
+Xu, X. Yu, S.F.
+ACS Photonics
+4
+
+View abstract
+View at Publisher
+Related documents 
+Page 1 of 3
+Scopus - Author details (Yu, S. F.)
+4/2/2018
+https://www-scopus-com.ezlibproxy1.ntu.edu.sg/authid/detail.uri?authorId=57190183563
+
+-----
+Document title
+Authors
+Year Source
+Cited by
+, 
+, 
+, 
+(...), 
+, 
+2017 
+9(18), pp. 5957-5963 
+, 
+, 
+, 
+(...), 
+, 
+2017 
+50(22),225101
+0
+, 
+, 
+, 
+(...), 
+, 
+2017 
+50(4),045107
+0
+, 
+, 
+, 
+, 
+2017 
+11(1), pp. 843-849 
+, 
+, 
+, (...), 
+, 
+2016 
+6,39703
+, 
+, 
+, (...), 
+, 
+2016 2016 Conference on Lasers and 
+Electro-Optics, CLEO 2016 
+7788953
+0
+, 
+, 
+, (...), 
+, 
+2016 
+4(7), pp. 1053-1059 
+, 
+, 
+, 
+(...), 
+, 
+2016 
+9(2), pp. 549-559 
+, 
+, 
+, 
+(...), 
+, 
+2016 
+7,10304
+, 
+, 
+, 
+(...), 
+, 
+2016 
+28(36), pp. 8045-8050 
+, 
+, 
+, 
+(...), 
+, 
+2016 
+pp. 7472-7477 
+, 
+, 
+, 
+(...), 
+, 
+2015 
+7(42), pp. 17771-17777 
+2015 
+48(48),483001
+, 
+, 
+, 
+, 
+2015 
+7(39), pp. 16246-16250 
+Realization of multiphoton lasing from carbon nanodot microcavities
+Zhang, W. Ni, Y. Xu, X.
+Ruan, S. Yu, S.F.
+Nanoscale
+1
+
+View abstract
+View at Publisher
+Related documents 
+Lasing characteristics of single-crystalline CsPbCl3 perovskite microcavities 
+under multiphoton excitation
+Siu, C.K. Zhao, J. Wang, Y.
+Pan, S. Yu, S.F.
+Journal of Physics D: Applied 
+Physics
+
+View abstract
+View at Publisher
+Related documents 
+Low-threshold GaN thin-film random laser through the weak scattering 
+feedback
+Zhu, H. Chen, A. Wu, Y.
+Tang, Z. Yu, S.
+Journal of Physics D: Applied 
+Physics
+
+View abstract
+View at Publisher
+Related documents 
+Enhancing Multiphoton Upconversion from NaYF4:Yb/Tm@NaYF4Core-Shell 
+Nanoparticles via the Use of Laser Cavity
+Jin, L.M. Chen, X. Siu, C.K.
+Wang, F. Yu, S.F.
+ACS Nano
+14
+
+View abstract
+View at Publisher
+Related documents 
+Quasi mode-locking of coherent feedback random fiber laser
+Ma, R. Zhang, W.L. Zeng, 
+X.P.
+Wu, Y. Yu, S.F.
+Scientific Reports
+2
+
+View abstract
+View at Publisher
+Related documents 
+Terahertz graphene modulator integrated with quantum cascade laser achieving 
+100% modulation depth
+Liang, G. Hu, X. Yu, X.
+Yu, S.F. Wang, Q.J.
+
+View abstract
+Related documents 
+Amplified Spontaneous Emission from Organic–Inorganic Hybrid Lead Iodide 
+Perovskite Single Crystals under Direct Multiphoton Excitation
+Yang, D. Xie, C. Sun, J.
+Yan, F. Yu, S.F.
+Advanced Optical Materials
+10
+View at Publisher
+Related documents 
+Exciton dynamics in luminescent carbon nanodots: Electron–hole exchange 
+interaction
+Peng, B. Lu, X. Chen, S.
+Demir, H.V. Yu, S.F.
+Nano Research
+3
+
+View abstract
+View at Publisher
+Related documents 
+Confining energy migration in upconversion nanoparticles towards deep 
+ultraviolet lasing
+Chen, X. Jin, L. Kong, W.
+Yu, S.F. Wang, F.
+Nature Communications
+40
+
+View abstract
+View at Publisher
+Related documents 
+Phonon-Assisted Population Inversion in Lanthanide-Doped Upconversion 
+Ba2LaF7Nanocrystals in Glass-Ceramics
+Xu, X. Zhang, W. Yang, D.
+Qiu, J. Yu, S.F.
+Advanced Materials
+19
+
+View abstract
+View at Publisher
+Related documents 
+2D Layered Materials of Rare-Earth Er-Doped MoS2with NIR-to-NIR Down- and 
+Up-Conversion Photoluminescence
+Bai, G. Yuan, S. Zhao, Y.
+Lau, S.P. Hao, J.
+Advanced Materials
+22
+
+View abstract
+View at Publisher
+Related documents 
+Tuning nonlinear optical absorption properties of WS2nanosheets
+Long, H. Tao, L. Tang, C.Y.
+Chai, Y. Tsang, Y.H.
+Nanoscale
+12
+
+View abstract
+View at Publisher
+Related documents 
+Electrically pumped random lasers
+Yu, S.F.
+Journal of Physics D: Applied 
+Physics
+7
+
+View abstract
+View at Publisher
+Related documents 
+Random lasing in Eu doped borate glass-ceramic embedded with Ag 
+nanoparticles under direct three-photon excitation
+3+
+Xu, X. Zhang, W. Jin, L.
+Qiu, J. Yu, S.F.
+Nanoscale
+5
+Page 2 of 3
+Scopus - Author details (Yu, S. F.)
+4/2/2018
+https://www-scopus-com.ezlibproxy1.ntu.edu.sg/authid/detail.uri?authorId=57190183563
+
+-----
+Document title
+Authors
+Year Source
+Cited by
+Open Access 
+, 
+, 
+, (...), 
+, 
+2015 
+2(11), pp. 1559-1566 
+, 
+, 
+, (...), 
+, 
+2015 
+5,13641
+
+View abstract
+View at Publisher
+Related documents 
+Integrated Terahertz Graphene Modulator with 100% Modulation Depth
+Liang, G. Hu, X. Yu, X.
+Yu, S.F. Wang, Q.J.
+ACS Photonics
+35
+
+View abstract
+View at Publisher
+Related documents 
+Ultraviolet Lasers Realized via Electrostatic Doping Method
+Liu, X.Y. Shan, C.X. Zhu, 
+H.
+Yu, S.F. Shen, D.Z.
+Scientific Reports
+3
+
+View abstract
+View at Publisher
+Related documents 
+Display: 
+results per page
+20
+
+...
+1
+2
+3
+4
+5
+13
+▻
+▻▻
+ Top of page
+The data displayed above is compiled exclusively from documents indexed in the Scopus database. To request corrections to any inaccuracies 
+or provide any further feedback, please use the 
+.
+Author Feedback Wizard 
+About Scopus
+What is Scopus
+Content coverage
+Scopus blog
+Scopus API
+Privacy matters
+Language
+⽇本語に切り替える
+切换到简体中文
+切換到繁體中文
+Русский язык
+Customer Service
+Help
+Contact us 
+Copyright © 2018 
+. All rights reserved. Scopus® is a registered trademark of Elsevier 
+B.V. 
+Cookies are set by this site. To decline them or learn more, visit our 
+. 
+Terms and conditions Privacy policy 
+Elsevier B.V
+Cookies page
+Page 3 of 3
+Scopus - Author details (Yu, S. F.)
+4/2/2018
+https://www-scopus-com.ezlibproxy1.ntu.edu.sg/authid/detail.uri?authorId=57190183563
+
+-----
