@@ -1,0 +1,3 @@
+Examples:
+cd src;
+python3 PDFextractor.py --pdf_path pdf_file --student_file_folder student_folder --examiner_folder examiner_folder --output_csv output_csv.csv;
