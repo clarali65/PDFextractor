@@ -5,4 +5,4 @@ This extractor sets up new folders as student folder and examiner folder to save
 
 In the student folder, just use number to distinguish different students.
 
-In the examiner, given that different students may have the same tutor,check the scanning order of pdfextractor and still use number to differentiate tutor information of students.when it comes to the same tutor,file name with an bigger number will cover the smaller one.
+In the examiner, given that different students may have the same tutor, check the scanning order of pdfextractor and still use number to differentiate tutor information of students. When it comes to the same tutor,file name with an bigger number will cover the smaller one.
